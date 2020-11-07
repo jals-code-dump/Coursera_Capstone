@@ -1,0 +1,6622 @@
+,Town,Population,Size
+0,Kexby,337,Other
+1,Bradfield Heath,831,Other
+2,Huntley,1131,Other
+3,Swinefleet,770,Other
+4,Foulsham,965,Other
+5,Easton (South Norfolk),1606,Other
+6,Carlton in Lindrick,5454,Other
+7,Shrewton,1652,Other
+8,Maiden Newton,1297,Other
+9,Normanton on Soar,419,Other
+10,Warton,1455,Other
+11,Hartland,1018,Other
+12,Buntingsdale,776,Other
+13,Nonington,320,Other
+14,Madeley Park,262,Other
+15,Dorchester (West Dorset),21438,Other
+16,Sayers Common,883,Other
+17,Dinghurst,284,Other
+18,Hartnoll,278,Other
+19,Ely,20330,Other
+20,Gilmorton,1025,Other
+21,Huttoft,596,Other
+22,West Chinnock,556,Other
+23,Great Tey,582,Other
+24,Little Addington,339,Other
+25,Market Weighton,7332,Other
+26,Downham Market,11910,Other
+27,Kingston St Mary,412,Other
+28,Orlingbury,462,Other
+29,Rode,1026,Other
+30,Upper Denby,693,Other
+31,Shilton,236,Other
+32,Witcham,407,Other
+33,Read,2684,Other
+34,Salford Priors,757,Other
+35,Hyde Heath,1021,Other
+36,Padstow,2283,Other
+37,Willoughby (East Lindsey),368,Other
+38,Penrith,15880,Other
+39,Winterborne Whitechurch,732,Other
+40,Bloxham,3910,Other
+41,Stonebridge,252,Other
+42,Lyng,865,Other
+43,Pawlett,998,Other
+44,Ealand,941,Other
+45,Husthwaite,405,Other
+46,Brough (Eden),774,Other
+47,Bolsover,11996,Other
+48,Cambridge (Stroud),482,Other
+49,Witton-le-Wear,581,Other
+50,Moreton on Lugg,1007,Other
+51,Buntingford,6583,Other
+52,Low Fulney,542,Other
+53,Felmersham,387,Other
+54,March,21768,Other
+55,Southam,7098,Other
+56,Marston,378,Other
+57,Grimethorpe,5105,Other
+58,Easington (East Riding of Yorkshire),671,Other
+59,Chudleigh,4349,Other
+60,Slad,381,Other
+61,Catterick,3115,Other
+62,Great Oakley,675,Other
+63,Hemswell,388,Other
+64,Axtown,283,Other
+65,Moor Row,775,Other
+66,Royston,17042,Other
+67,Studley,6248,Other
+68,Wheatley Hill,3046,Other
+69,Fleckney,4854,Other
+70,Tickenham,552,Other
+71,Byers Green,834,Other
+72,Whitwell (Bolsover),3749,Other
+73,Kingsbury,3596,Other
+74,Hazelbury Bryan,412,Other
+75,Weston (North Hertfordshire),873,Other
+76,Belbroughton,1398,Other
+77,North Creake,363,Other
+78,Simister,650,Other
+79,Tempsford,614,Other
+80,Ludgershall (Wiltshire),4991,Other
+81,Droxford,678,Other
+82,Willingham by Stow,568,Other
+83,Barnoldby le Beck,408,Other
+84,West Ashling,324,Other
+85,Irthlingborough,8142,Other
+86,Galhampton,316,Other
+87,Manea,2373,Other
+88,West Hanningfield,402,Other
+89,Halberton,902,Other
+90,Runcton Holme,657,Other
+91,Ryhall,1481,Other
+92,Cuxton,4697,Other
+93,Twyford (Melton),352,Other
+94,Hartest,491,Other
+95,Stoke Goldington,538,Other
+96,Wateringbury,2254,Other
+97,Over Kellet,538,Other
+98,Little Wymondley,1014,Other
+99,Moira,2744,Other
+100,Drayton (South Somerset),352,Other
+101,Mellis,550,Other
+102,Market Bosworth,2270,Other
+103,Ashill,1219,Other
+104,Rode Heath,1899,Other
+105,Thurton,886,Other
+106,Hail Weston,589,Other
+107,Twigworth,764,Other
+108,Freshwater,7928,Other
+109,Hardwick (South Norfolk),279,Other
+110,Waresley,272,Other
+111,Gweek,686,Other
+112,Crick,2427,Other
+113,Wrestlingworth,595,Other
+114,Barnoldswick,10362,Other
+115,Rackheath Industrial Estate,393,Other
+116,Lutton,723,Other
+117,Seahouses,1844,Other
+118,Billinghay,2224,Other
+119,Hollinfare,1034,Other
+120,Potterhanworth,863,Other
+121,Wheathampstead,4399,Other
+122,Winfarthing,498,Other
+123,Aberford,1465,Other
+124,Northiam,1960,Other
+125,Hawkesbury Upton,985,Other
+126,Wedmore,1391,Other
+127,High Bickington,944,Other
+128,Carlton-on-Trent,218,Other
+129,Ropley,492,Other
+130,University of Sussex,4091,Other
+131,Wetheringsett,355,Other
+132,Burchett's Green,312,Other
+133,Stevington,552,Other
+134,Grange-over-Sands,5022,Other
+135,Riding Mill,979,Other
+136,Ashton under Hill,815,Other
+137,Osmotherley,703,Other
+138,Friskney Eaudyke,642,Other
+139,Cranborne,595,Other
+140,Preston (North Hertfordshire),441,Other
+141,Theale,366,Other
+142,Old Stratford,2339,Other
+143,Cublington,336,Other
+144,Rudston,405,Other
+145,Bury,376,Other
+146,Cropredy,689,Other
+147,Aldbourne,1692,Other
+148,Shipham,1204,Other
+149,Middleton Cheney,4068,Other
+150,Tarporley,2992,Other
+151,Cleeve,735,Other
+152,Alderton (Suffolk Coastal),471,Other
+153,Batcombe,412,Other
+154,Moreton,324,Other
+155,Wirksworth,5180,Other
+156,St Mawes,615,Other
+157,Stratton Audley,448,Other
+158,Saxton,615,Other
+159,Woodcote,2620,Other
+160,Dalton-in-Furness,7424,Other
+161,Blyth (Bassetlaw),980,Other
+162,Haughley,1375,Other
+163,Howe Green,641,Other
+164,Calstock,756,Other
+165,Five Oak Green,1444,Other
+166,Leasingham,1531,Other
+167,Southrop,296,Other
+168,Wells-next-the-Sea,2283,Other
+169,Tredington,481,Other
+170,Landrake,1098,Other
+171,Campsall,1872,Other
+172,Welney,536,Other
+173,Bedlington,17081,Other
+174,Brigg,6845,Other
+175,Steeple Aston,943,Other
+176,Great Barford,2172,Other
+177,Acton Turville,375,Other
+178,Abbotsbury,460,Other
+179,Clive,528,Other
+180,Widnes,64568,Other
+181,Hethersett,5942,Other
+182,Pevensey Bay,3008,Other
+183,Coningsby Airfield,5919,Other
+184,Williton,2701,Other
+185,Salthouse,159,Other
+186,Cople,765,Other
+187,Amble,6103,Other
+188,Cholsey,3926,Other
+189,Terwick Common,393,Other
+190,Overton (Lancaster),958,Other
+191,Little Plumstead,691,Other
+192,Skelton (Redcar and Cleveland),6904,Other
+193,Chillington,1052,Other
+194,Steeple Morden,879,Other
+195,Ellingham,693,Other
+196,Honington,333,Other
+197,Holberrow Green,433,Other
+198,Saxby All Saints,341,Other
+199,Wawne,971,Other
+200,Barlborough,2993,Other
+201,Hamsterley (nr Witton-le-Wear),428,Other
+202,Marton (Rugby),469,Other
+203,Snailbeach,320,Other
+204,Bigbury-on-Sea,168,Other
+205,West Tanfield,271,Other
+206,Newquay Cornwall Airport,290,Other
+207,East Budleigh,681,Other
+208,Woodton,727,Other
+209,East Garston,523,Other
+210,Bielby,241,Other
+211,Abbots Bromley,1322,Other
+212,St Nicholas at Wade,702,Other
+213,New Addington,22843,Other
+214,Iwerne Courtney,232,Other
+215,Three Oaks,692,Other
+216,Shillington,1699,Other
+217,Bishop's Nympton,373,Other
+218,Urchfont,949,Other
+219,Chippenham (East Cambridgeshire),530,Other
+220,Heddington,439,Other
+221,Tillingham,984,Other
+222,Sicklesmere,866,Other
+223,Cross,314,Other
+224,Great Bardfield,1321,Other
+225,Gunthorpe,559,Other
+226,Maulden,2526,Other
+227,Wicken (East Cambridgeshire),726,Other
+228,Rushton,425,Other
+229,Malpas,1687,Other
+230,Seaford,23601,Other
+231,Saltfleetby St Peter,285,Other
+232,Broughton Gifford,831,Other
+233,Ryhill,5360,Other
+234,Fordham (Colchester),823,Other
+235,Whitwell (North Hertfordshire),980,Other
+236,Skinningrove,1397,Other
+237,North Luffenham,746,Other
+238,Instow,652,Other
+239,Watchet,3486,Other
+240,Robertsbridge,2032,Other
+241,Budleigh Salterton,5379,Other
+242,Market Weston,243,Other
+243,Brancaster Staithe,354,Other
+244,Sedgebrook,347,Other
+245,Densole,935,Other
+246,Cherry Burton,1316,Other
+247,Pulloxhill,628,Other
+248,Burton on the Wolds,1218,Other
+249,Great Dunmow,9006,Other
+250,Aspatria,2525,Other
+251,Old Wives Lees,668,Other
+252,Middleton Tyas,634,Other
+253,Edington,700,Other
+254,Northmoor Green,253,Other
+255,Nunney,880,Other
+256,Rillington,1176,Other
+257,Ingrave,1750,Other
+258,Punnett's Town,628,Other
+259,Healing,3057,Other
+260,Shipton Bellinger,1392,Other
+261,Weedon Lois,372,Other
+262,Wingham,1362,Other
+263,Brooke,1214,Other
+264,Weobley,1127,Other
+265,Stoke Canon,665,Other
+266,Higher Wincham,2546,Other
+267,Keyingham,2366,Other
+268,Dearham,2339,Other
+269,Tresillian,698,Other
+270,Wideopen,9815,Other
+271,Appleshaw,481,Other
+272,Frodsham,9074,Other
+273,North Pickenham,521,Other
+274,Tilston,665,Other
+275,Postwick,379,Other
+276,Stagsden,324,Other
+277,Rothwell,8213,Other
+278,Chew Magna,1183,Other
+279,Mursley,729,Other
+280,Sandhurst (Tunbridge Wells),683,Other
+281,Chacombe,693,Other
+282,Leigh (Sevenoaks),1463,Other
+283,Shipdham,2012,Other
+284,East Ayton,2688,Other
+285,Orsett,1257,Other
+286,Balsham,1534,Other
+287,Port Gaverne,544,Other
+288,Ponsanooth,1184,Other
+289,Chard,13873,Other
+290,Offord D'Arcy,1309,Other
+291,Greatham (Hartlepool),858,Other
+292,Dorney,265,Other
+293,Silkstone,1669,Other
+294,Wrington,2022,Other
+295,Comberbach,879,Other
+296,Gilsland,222,Other
+297,Hagworthingham,340,Other
+298,Salisbury District Hospital,598,Other
+299,Yelling,402,Other
+300,Somerton (Cherwell),289,Other
+301,Yarnton,3044,Other
+302,Fenstanton,2690,Other
+303,Metheringham,3464,Other
+304,Hurley (North Warwickshire),1428,Other
+305,Hook (Hart),8205,Other
+306,Bow Brickhill,610,Other
+307,Burton Overy,421,Other
+308,Hurst Green (Ribble Valley),277,Other
+309,Rainworth,8252,Other
+310,Quadring,949,Other
+311,Robertson Barracks,365,Other
+312,Beverley,31130,Medium Town
+313,Clavering,972,Other
+314,Tedburn St Mary,722,Other
+315,Lighthorne,405,Other
+316,Scotton (Harrogate),837,Other
+317,Abingworth,911,Other
+318,Tasburgh,896,Other
+319,Portesham,606,Other
+320,Tolleshunt Major,426,Other
+321,University of Lancaster,6073,Other
+322,Great Comberton,292,Other
+323,High Cross,391,Other
+324,Sherborne St John,1646,Other
+325,Haverhill,27481,Medium Town
+326,Market Lavington,2389,Other
+327,Pensford,928,Other
+328,Piddington,382,Other
+329,Brandeston,303,Other
+330,Foxley,311,Other
+331,Berinsfield,2771,Other
+332,Harlton,316,Other
+333,Brierley,2656,Other
+334,Hilton (Stockton-on-Tees),405,Other
+335,Markyate,3162,Other
+336,Henfield,5128,Other
+337,Lacock,302,Other
+338,Dorrington (Shropshire),696,Other
+339,South Brent,2619,Other
+340,RAF Tern Hill,636,Other
+341,Littlebury,601,Other
+342,Chipping Warden,556,Other
+343,Warmington (East Northamptonshire),959,Other
+344,Widford,626,Other
+345,Barkway,804,Other
+346,Sheriff Hutton,1076,Other
+347,Airmyn,696,Other
+348,Over Wallop,1125,Other
+349,Washbrook,543,Other
+350,Rolleston,323,Other
+351,St Leonards,6233,Other
+352,Mullion,2087,Other
+353,Ingleton,1734,Other
+354,Wootton (Isle of Wight),4285,Other
+355,Kingston (Canterbury),473,Other
+356,Luddenden Foot,2257,Other
+357,North Tawton,1791,Other
+358,Upton (Wakefield),6374,Other
+359,Stutton,615,Other
+360,Broughton Moor,804,Other
+361,Wincanton,6312,Other
+362,Polgooth,1158,Other
+363,Bladon,952,Other
+364,Broadwas,381,Other
+365,Hayton (East Riding of Yorkshire),199,Other
+366,Mells,638,Other
+367,Bittaford,853,Other
+368,Leavenheath,1013,Other
+369,Wixams,2236,Other
+370,Broadway,2688,Other
+371,Sewardstone,1136,Other
+372,Hardwick (South Cambridgeshire),2538,Other
+373,Upper Poppleton,3405,Other
+374,Brereton Heath,467,Other
+375,Cudham,392,Other
+376,Barnack,873,Other
+377,Sutton (East Cambridgeshire),3881,Other
+378,Pulham St Mary,810,Other
+379,Heckington,3967,Other
+380,Cloughton,678,Other
+381,Castleton (High Peak),596,Other
+382,Upper End,660,Other
+383,Clapham (Bedford),4598,Other
+384,Clyst Honiton,330,Other
+385,Chinnor,5782,Other
+386,Knayton,328,Other
+387,Ninfield,1332,Other
+388,Kingsdon,329,Other
+389,Dockenfield,407,Other
+390,West Perry,633,Other
+391,Long Clawson,1150,Other
+392,Banks,3767,Other
+393,Crondall,1207,Other
+394,Thurcroft,5874,Other
+395,Pickhill,406,Other
+396,Long Marston (Dacorum),786,Other
+397,Tregadillett,531,Other
+398,Heddon-on-the-Wall,1374,Other
+399,Otterburn,602,Other
+400,Peasenhall,506,Other
+401,Exmouth,35727,Medium Town
+402,Scayne's Hill,914,Other
+403,Norton (Doncaster),2313,Other
+404,Vernham Dean,552,Other
+405,Bishop Monkton,776,Other
+406,Rufforth,716,Other
+407,Bolton-le-Sands,6905,Other
+408,Upper Bucklebury,1015,Other
+409,Marden (Maidstone),2984,Other
+410,Riviere Towans,277,Other
+411,Manby,1598,Other
+412,Aston Clinton,4952,Other
+413,Cockwood,324,Other
+414,Crediton,8159,Other
+415,Stainburn,1746,Other
+416,Beeford,1048,Other
+417,Up Nately,341,Other
+418,Wickhambrook,607,Other
+419,Winster,582,Other
+420,Langdane Wood,224,Other
+421,Moreton-in-Marsh,4721,Other
+422,Thurlby,2204,Other
+423,Lowick,363,Other
+424,Brookmans Park,3605,Other
+425,Spilsby,3776,Other
+426,Hamstreet,1729,Other
+427,Bassingham,1499,Other
+428,Henley-on-Thames,11714,Other
+429,Cannington,1979,Other
+430,Edingale,636,Other
+431,Ripponden,4967,Other
+432,Edge,277,Other
+433,Great Longstone,745,Other
+434,Brompton,1855,Other
+435,Donington,3034,Other
+436,Eckington,1224,Other
+437,East Farndon,321,Other
+438,Snodland,11873,Other
+439,Kinsley,4711,Other
+440,Loddington,499,Other
+441,Longhorsley,880,Other
+442,South Kelsey,606,Other
+443,Chulmleigh,1170,Other
+444,Ashley Green,673,Other
+445,Brimpton,333,Other
+446,Broughton (Test Valley),1074,Other
+447,Goldhanger,703,Other
+448,East Markham,1119,Other
+449,Bere Alston,2140,Other
+450,High Easter,720,Other
+451,Arborfield,297,Other
+452,Armitage,4625,Other
+453,Burgh St Peter,284,Other
+454,Coggeshall,4884,Other
+455,Earsham,923,Other
+456,Meltham,8179,Other
+457,Sutton on Trent,1169,Other
+458,Wheldrake,1958,Other
+459,Great Malgraves,261,Other
+460,Gooderstone,390,Other
+461,Needham Market,4814,Other
+462,Worton,598,Other
+463,Sutton Common,1366,Other
+464,Goonhavern,833,Other
+465,Garsington,1301,Other
+466,Flamstead,1016,Other
+467,Minehead,12087,Other
+468,Charsfield,346,Other
+469,Constantine,933,Other
+470,Great Paxton,997,Other
+471,Daventry,25781,Medium Town
+472,Lamarsh,189,Other
+473,Durfold Wood,377,Other
+474,Outwood,427,Other
+475,Kilmeston,248,Other
+476,Knapton,370,Other
+477,Probus,2049,Other
+478,Newton-with-Scales,1464,Other
+479,Naunton,296,Other
+480,Keyworth,6695,Other
+481,Deanland Wood Park,640,Other
+482,Downderry,787,Other
+483,Wimblington,4494,Other
+484,Marazion,1338,Other
+485,Eccles,1701,Other
+486,Penton Mewsey,414,Other
+487,Bonby,529,Other
+488,Deal,31963,Medium Town
+489,Water Orton,3373,Other
+490,Tugby,363,Other
+491,Quainton,915,Other
+492,Rockland All Saints,358,Other
+493,Chartham Hatch,599,Other
+494,West Grimstead,248,Other
+495,Berrynarbor,823,Other
+496,Settrington,326,Other
+497,Hythe,20402,Other
+498,North Nibley,438,Other
+499,Compton Martin,515,Other
+500,Hutton,559,Other
+501,Wolvey,906,Other
+502,Ibstock,6843,Other
+503,Bucklesham,560,Other
+504,Halstock,537,Other
+505,Leigh Sinton,817,Other
+506,Market Deeping,14306,Other
+507,Horncastle,7123,Other
+508,Bodenham Moor,649,Other
+509,Featherstone (South Staffordshire),3748,Other
+510,High Spen,1255,Other
+511,Aylesbeare,565,Other
+512,Pucklechurch,2679,Other
+513,Blackthorn,389,Other
+514,Corton,237,Other
+515,Haxey,2102,Other
+516,Long Preston,770,Other
+517,Dymock,568,Other
+518,Alderbury,2181,Other
+519,Glastonbury,8783,Other
+520,Cuddesdon,462,Other
+521,Dunsfold,313,Other
+522,West Horsley,1371,Other
+523,Little Dunmow,2773,Other
+524,Handcross,1094,Other
+525,Witham,26951,Medium Town
+526,Stoneleigh,668,Other
+527,Pitchcombe,254,Other
+528,Fittleworth,705,Other
+529,East Barkwith,356,Other
+530,Littlebourne,1627,Other
+531,Gaddesby,384,Other
+532,Lode,664,Other
+533,East Halton,622,Other
+534,Skellingthorpe,3394,Other
+535,Tintinhull,926,Other
+536,Alvington,573,Other
+537,Comberton,2287,Other
+538,Bishop's Itchington,2042,Other
+539,West Pennard,701,Other
+540,Goathland,253,Other
+541,Ashley (East Cambridgeshire),714,Other
+542,Hepscott,380,Other
+543,Horndon on the Hill,1517,Other
+544,Barrington (South Cambridgeshire),1093,Other
+545,Stickford,494,Other
+546,North Scarle,672,Other
+547,Watlington (South Oxfordshire),2397,Other
+548,Holmes Chapel,6203,Other
+549,Minstead,323,Other
+550,Barrow upon Humber,2842,Other
+551,Whaley Bridge,5206,Other
+552,Tallington,414,Other
+553,Milford on Sea,4524,Other
+554,Chatburn,1105,Other
+555,Swardeston,698,Other
+556,Wrangle,822,Other
+557,Tewin,1001,Other
+558,Cley next the Sea,372,Other
+559,Finningham,490,Other
+560,Allington,614,Other
+561,Micklefield,938,Other
+562,Sherburn Hill,1292,Other
+563,Oakley (Aylesbury Vale),1050,Other
+564,Sutton-on-the-Forest,605,Other
+565,Gerrards Cross,21405,Other
+566,Small Dole,781,Other
+567,Kingsand,538,Other
+568,Hemswell Cliff,663,Other
+569,Ipplepen,2151,Other
+570,Duxford Airfield,697,Other
+571,Ulverston,11385,Other
+572,Chapeltown,22213,Other
+573,Olveston,938,Other
+574,Walkington,1775,Other
+575,Abinger Hammer,244,Other
+576,Barrowden,494,Other
+577,Darite,357,Other
+578,Houghton Conquest,1401,Other
+579,Maxey,700,Other
+580,Barton (South Cambridgeshire),850,Other
+581,Upper Saxondale,867,Other
+582,Creaton,524,Other
+583,Mousehole,586,Other
+584,Frieth,555,Other
+585,Winteringham,1050,Other
+586,Cleeve Prior,546,Other
+587,Hornsea,8793,Other
+588,Full Sutton,954,Other
+589,Wem,6343,Other
+590,Horham,290,Other
+591,White-le-Head,1275,Other
+592,Hathersage,1962,Other
+593,Tolleshunt D'Arcy,891,Other
+594,Silsoe,3075,Other
+595,Loughborough,67956,Other
+596,Burcot,363,Other
+597,West Camel,467,Other
+598,Pensilva,1744,Other
+599,Cardington,303,Other
+600,Great Easton (Uttlesford),459,Other
+601,Hadham Cross,1260,Other
+602,Skipsea,777,Other
+603,Graveley,274,Other
+604,Great Livermere,225,Other
+605,Earl Soham,434,Other
+606,Crow Hill Housing Estate,1196,Other
+607,Woolfardisworthy,723,Other
+608,Nash,426,Other
+609,Plumpton,323,Other
+610,Holme Hale,517,Other
+611,Great Bedwyn,1231,Other
+612,Thurgarton,449,Other
+613,Clifton upon Teme,705,Other
+614,Eastoft,424,Other
+615,Ulcombe,654,Other
+616,Somerby,584,Other
+617,Himley,442,Other
+618,Geldeston,399,Other
+619,Cocklake,443,Other
+620,Meopham (North),3126,Other
+621,Fence,1388,Other
+622,Great Easton (Harborough),705,Other
+623,Helpston,1089,Other
+624,Morley St Botolph,279,Other
+625,Glinton,1601,Other
+626,Maghull,25877,Medium Town
+627,Marsh Green,324,Other
+628,Bramhope,3309,Other
+629,Weeting,1955,Other
+630,Claypole,1349,Other
+631,Southport,93902,Other
+632,Redhill (North Somerset),335,Other
+633,Wilmcote,1055,Other
+634,Weedon,263,Other
+635,Holtby,185,Other
+636,South Creake,510,Other
+637,Church Brampton,288,Other
+638,Buckden,2677,Other
+639,Monxton,550,Other
+640,Barton-under-Needwood,3947,Other
+641,Calver,1023,Other
+642,Guilden Morden,961,Other
+643,Thornbury,12459,Other
+644,Hose,586,Other
+645,Shipton (Cotswold),343,Other
+646,Heybridge Basin,743,Other
+647,Scarcroft,1187,Other
+648,Stoney Stanton,4349,Other
+649,Hampton Magna,1662,Other
+650,Ewshot,601,Other
+651,Tuddenham,410,Other
+652,Oxhill,334,Other
+653,Barroway Drove,401,Other
+654,Street,13782,Other
+655,Shobdon,787,Other
+656,West Dean,287,Other
+657,Thropton,434,Other
+658,Caunton,529,Other
+659,Ditchling,1502,Other
+660,Middleton-on-the-Wolds,846,Other
+661,Hallow,1226,Other
+662,Emberton,291,Other
+663,Church Lench,334,Other
+664,Bishop Sutton,1381,Other
+665,Great Brickhill,828,Other
+666,Levens,904,Other
+667,Barwick in Elmet,2425,Other
+668,Mary Tavy,846,Other
+669,Mickletown,2780,Other
+670,Hambleton (Selby),2048,Other
+671,Wroxton,303,Other
+672,Hibaldstow,2038,Other
+673,Earby,4419,Other
+674,Patmore Heath,314,Other
+675,Alresford,2208,Other
+676,Trimdon Colliery,2087,Other
+677,Utkinton,357,Other
+678,Whitwell (Isle of Wight),675,Other
+679,Sinnington,298,Other
+680,Bishop's Waltham,6296,Other
+681,Bildeston,1100,Other
+682,Steventon,2183,Other
+683,Upper Dicker,1013,Other
+684,Weston Turville,2203,Other
+685,Cold Norton,1125,Other
+686,Bordesley,293,Other
+687,Newchurch,380,Other
+688,Fleggburgh (Burgh St Margaret),872,Other
+689,Greywell,242,Other
+690,Frome,28168,Medium Town
+691,Walliswood,382,Other
+692,Cantley,527,Other
+693,Ketton,1988,Other
+694,Blagdon,1007,Other
+695,Bagshot,5920,Other
+696,Redbourne,374,Other
+697,Holywell (Central Bedfordshire),596,Other
+698,East Grimstead,297,Other
+699,Silver End,3775,Other
+700,Gallowstree Common,461,Other
+701,Bayford,495,Other
+702,Sherburn (Ryedale),884,Other
+703,Pelynt,724,Other
+704,Thornham,450,Other
+705,Waltham on the Wolds,927,Other
+706,Stedham,558,Other
+707,South Zeal,909,Other
+708,Ross-on-Wye,11309,Other
+709,Lower Broadheath,1477,Other
+710,Storrington,9100,Other
+711,Hailey,493,Other
+712,Hundon,788,Other
+713,Littlethorpe,338,Other
+714,Bleadon,903,Other
+715,Weeton,399,Other
+716,Caston,471,Other
+717,Upper Dean,416,Other
+718,Oakthorpe,744,Other
+719,Delabole,1845,Other
+720,Timberland,578,Other
+721,Eastington,1204,Other
+722,Taddington,463,Other
+723,East Stour,581,Other
+724,East Brent,658,Other
+725,Bottisham,2369,Other
+726,Doveridge,1813,Other
+727,Great Lumley,3606,Other
+728,Badgers Mount,642,Other
+729,Luxulyan,393,Other
+730,Alnwick,7978,Other
+731,Bubwith,962,Other
+732,Owslebury,908,Other
+733,Exton (Rutland),606,Other
+734,Sutton St Nicholas,993,Other
+735,Homer,422,Other
+736,Sellindge,800,Other
+737,Denshaw,590,Other
+738,Scotter,3024,Other
+739,Billinge,5488,Other
+740,Walcott,576,Other
+741,Dipley,223,Other
+742,Delamere,288,Other
+743,Cressage,757,Other
+744,Detling,701,Other
+745,Colaton Raleigh,307,Other
+746,Red Lodge,6055,Other
+747,Ashton Keynes,1338,Other
+748,Cargreen,233,Other
+749,Marshland St James,836,Other
+750,Tealby,582,Other
+751,Northchapel,618,Other
+752,Holbrook,1186,Other
+753,Hailsham,22530,Other
+754,Hadstock,350,Other
+755,Oving,498,Other
+756,Widdrington Station,2584,Other
+757,Thorpe-le-Soken,1412,Other
+758,Covenham St Mary,346,Other
+759,Church Stretton,3806,Other
+760,Richmond,8378,Other
+761,Lenham,2330,Other
+762,Loddon,3891,Other
+763,Leire,583,Other
+764,Cheddar,5529,Other
+765,Longstock,281,Other
+766,Oakley (Basingstoke and Deane),5040,Other
+767,Chelmondiston,970,Other
+768,Nunton,242,Other
+769,Lechlade-on-Thames,2657,Other
+770,Palestine,265,Other
+771,Hindolveston,644,Other
+772,Alrewas,2798,Other
+773,Scholes,2259,Other
+774,Mablethorpe,12633,Other
+775,Eardiston,347,Other
+776,Worminghall,551,Other
+777,Thorrington (East),844,Other
+778,Tadmarton,536,Other
+779,Horton Kirby,1263,Other
+780,Newton Solney,961,Other
+781,Black Moor,311,Other
+782,Swanton Abbott,518,Other
+783,Leafield,943,Other
+784,Lutterworth,10958,Other
+785,Langley Vale,1459,Other
+786,Trevone,363,Other
+787,Long Marston (Stratford-on-Avon),993,Other
+788,Rainford Junction,911,Other
+789,Croxdale,539,Other
+790,Sawston,7374,Other
+791,Burneside,1035,Other
+792,Leek Wootton,889,Other
+793,Norton (Mid Suffolk),624,Other
+794,Sidmouth,13280,Other
+795,Tattenhall,2219,Other
+796,Yoxall,1591,Other
+797,Rippingale,918,Other
+798,Lugwardine,2026,Other
+799,Bishop's Tawton,743,Other
+800,Stathern,751,Other
+801,Whiteway,452,Other
+802,Doddington,409,Other
+803,Swineshead,2319,Other
+804,Nafferton,2486,Other
+805,Middleham,781,Other
+806,Sheepy Magna,931,Other
+807,Fewcott,684,Other
+808,Flushing,675,Other
+809,Emley,1509,Other
+810,Mellor Brook,2388,Other
+811,Medomsley,1248,Other
+812,Dunster,378,Other
+813,Epping,11152,Other
+814,Barford (Warwick),1542,Other
+815,Haslingfield,2117,Other
+816,West Lulworth,356,Other
+817,Harbury,2207,Other
+818,Misterton,1868,Other
+819,Weston (Cheshire East),804,Other
+820,Brookland,498,Other
+821,Winterborne Stickland,662,Other
+822,Souldern,395,Other
+823,Lindholme,2222,Other
+824,Rufford Country Park,275,Other
+825,Cheriton Bishop,705,Other
+826,Great Snoring,160,Other
+827,Trimdon,2876,Other
+828,Torpoint,7549,Other
+829,Ewen,261,Other
+830,Barford St Martin,534,Other
+831,Bilsthorpe,3540,Other
+832,Buckhorn Weston,352,Other
+833,Glatton,282,Other
+834,Featherstone Prison,3130,Other
+835,Royal Naval Air Station Yeovilton,1418,Other
+836,Pett,403,Other
+837,Hilton (South Derbyshire),8588,Other
+838,Elmley Castle,568,Other
+839,Hildenborough,630,Other
+840,Pulham Market,822,Other
+841,Burghfield Common,5877,Other
+842,Tittensor,700,Other
+843,Great Crakehall,646,Other
+844,Petrockstowe,402,Other
+845,Watersfield,348,Other
+846,Lavendon,1400,Other
+847,Newton St Faith,494,Other
+848,Buckingham,15379,Other
+849,Nacton,445,Other
+850,Netley,6484,Other
+851,Badingham,228,Other
+852,Catfield,734,Other
+853,Halton Holegate,514,Other
+854,Heathfield (Teignbridge),2424,Other
+855,Brackley,15315,Other
+856,Stratford St Mary,766,Other
+857,Ulrome,244,Other
+858,Blewbury,1781,Other
+859,South Heath,784,Other
+860,Bigrigg,706,Other
+861,Bomere Heath,1322,Other
+862,Chilthorne Domer,539,Other
+863,Thornton,972,Other
+864,Reighton,405,Other
+865,Ivybridge,11757,Other
+866,Barrow (Ribble Valley),1136,Other
+867,Lazonby,871,Other
+868,Merriott,1950,Other
+869,Tilton on the Hill,343,Other
+870,Walpole St Peter,1491,Other
+871,Lower Kingswood,1829,Other
+872,Walton-on-Trent,882,Other
+873,Great Bentley,1553,Other
+874,Biddulph Moor,1637,Other
+875,Cuddington (Aylesbury Vale),596,Other
+876,Bagworth,1612,Other
+877,Marske-by-the-Sea,7998,Other
+878,Tilshead,365,Other
+879,Bradwell (Derbyshire Dales),1358,Other
+880,Hampton Bishop,337,Other
+881,Burstwick,1905,Other
+882,Denmead,6162,Other
+883,Paddock Wood,7719,Other
+884,Normanton on Trent,371,Other
+885,Ulnes Walton,258,Other
+886,Grundisburgh,1443,Other
+887,Findern,2857,Other
+888,Kirkby-le-Soken,1390,Other
+889,Garforth,14464,Other
+890,Chitterne,282,Other
+891,Turnditch,301,Other
+892,Ticehurst,1710,Other
+893,Coombe Bissett,453,Other
+894,Shurdington,2021,Other
+895,Steeple Bumpstead,1351,Other
+896,Clarborough,1305,Other
+897,Kirkby Stephen,1647,Other
+898,Frosterley,624,Other
+899,Nether Kellet,656,Other
+900,Skirlaugh,1657,Other
+901,Debden,353,Other
+902,Thorpeness,179,Other
+903,Cottesmore Airfield,685,Other
+904,Marshfield (South Gloucestershire),1412,Other
+905,Kirmington,348,Other
+906,Kniveton,383,Other
+907,Kelbrook,610,Other
+908,Fenny Compton,819,Other
+909,Flexford,1525,Other
+910,Knebworth,4210,Other
+911,Honingham,384,Other
+912,Thorverton,695,Other
+913,South Kilworth,515,Other
+914,Goodleigh,396,Other
+915,Tickhill,4945,Other
+916,Compton (West Berkshire),1744,Other
+917,Moulton Chapel,1038,Other
+918,Cropthorne,696,Other
+919,Little Milton,477,Other
+920,Northallerton,17030,Other
+921,Easington (Redcar and Cleveland),930,Other
+922,Barking,505,Other
+923,Hare Green,658,Other
+924,Tenterden,7102,Other
+925,Borrowby,381,Other
+926,Steep,912,Other
+927,Rufford,1451,Other
+928,Chittlehampton,232,Other
+929,Ackleton,272,Other
+930,Dunton,762,Other
+931,Woodgreen,441,Other
+932,Upton Snodsbury,385,Other
+933,Market Warsop,9425,Other
+934,Bix,269,Other
+935,Edgmond,1061,Other
+936,Culmstock,648,Other
+937,Quinton,207,Other
+938,Stithians,1666,Other
+939,Elmstead Market,1707,Other
+940,High Ham,428,Other
+941,West Haddon,1931,Other
+942,Escrick,835,Other
+943,Goodworth Clatford,588,Other
+944,Dishforth,406,Other
+945,Linton-on-Ouse,771,Other
+946,Crapstone,664,Other
+947,Egmanton,289,Other
+948,Wyre Piddle,651,Other
+949,Gosfield,1194,Other
+950,Harlington,2230,Other
+951,Langho,2133,Other
+952,Clyst St Mary,1037,Other
+953,Methley,1151,Other
+954,Severn Beach,2235,Other
+955,Castle Acre,857,Other
+956,Cotton End,2142,Other
+957,Chalgrove,2693,Other
+958,Barham,1081,Other
+959,Coleford (Mendip),2229,Other
+960,Nettleham,3838,Other
+961,Litlington,814,Other
+962,Kingsdown (Dover),1764,Other
+963,The Thorne,529,Other
+964,Manton,351,Other
+965,Watton at Stone,2755,Other
+966,Nettleton,693,Other
+967,Tadcaster,6380,Other
+968,Long Ashton,5633,Other
+969,Hope (High Peak),882,Other
+970,Bruton,3137,Other
+971,Burghclere Common,314,Other
+972,Longwick,1037,Other
+973,Buriton,507,Other
+974,Snape (Suffolk Coastal),338,Other
+975,Epworth,4512,Other
+976,Withern,381,Other
+977,Warboys,3758,Other
+978,Hayle,8839,Other
+979,Bramfield,462,Other
+980,Betsham,418,Other
+981,Ashton Hayes,916,Other
+982,Seend Cleeve,566,Other
+983,Stannington,452,Other
+984,Dalston,1460,Other
+985,Little Paxton,3908,Other
+986,South Milford,2404,Other
+987,Beaminster,2872,Other
+988,Rolvenden,736,Other
+989,Conisbrough,15873,Other
+990,Wool,2965,Other
+991,Sutton Benger,1251,Other
+992,Nantwich,17997,Other
+993,Brabourne Lees,1477,Other
+994,Skeffling,161,Other
+995,Ingham (West Lindsey),925,Other
+996,Heckfield Green,593,Other
+997,Capel-le-Ferne,1441,Other
+998,Meden Vale,2099,Other
+999,Hovingham,410,Other
+1000,Clifton (Eden),709,Other
+1001,Grindleton,436,Other
+1002,Loders,280,Other
+1003,Beare Green,448,Other
+1004,Howden,4380,Other
+1005,Child Okeford,1144,Other
+1006,Goodmanham,238,Other
+1007,Marchington,586,Other
+1008,St Agnes,3143,Other
+1009,Painswick,1753,Other
+1010,Mevagissey,2192,Other
+1011,Brampford Speke,404,Other
+1012,Charlton-on-Otmoor,446,Other
+1013,Magham Down,281,Other
+1014,Messingham,3425,Other
+1015,Slinfold,1105,Other
+1016,Great Witley,696,Other
+1017,Wiswell,506,Other
+1018,Sutton upon Derwent,607,Other
+1019,Blackwater,817,Other
+1020,Nomansland,1141,Other
+1021,Northgate,675,Other
+1022,Market Drayton,12327,Other
+1023,Cheswardine,682,Other
+1024,Cawood,1460,Other
+1025,West Keal,355,Other
+1026,Bradenham,430,Other
+1027,Hapton,1927,Other
+1028,Pyrton,233,Other
+1029,Backbarrow,532,Other
+1030,Occold,498,Other
+1031,Crockham Hill,287,Other
+1032,Over,2833,Other
+1033,Warnham,1240,Other
+1034,Gaydon,487,Other
+1035,Wacton,358,Other
+1036,Green Hammerton,780,Other
+1037,Portishead,26535,Medium Town
+1038,South Newton,348,Other
+1039,Barnby,902,Other
+1040,Alne,577,Other
+1041,Upper Broughton,409,Other
+1042,Pewsey,3807,Other
+1043,Rock (Horsham),290,Other
+1044,Braunston,1503,Other
+1045,Weir,1291,Other
+1046,Little London,359,Other
+1047,Watlington (King's Lynn and West Norfolk),2532,Other
+1048,Crofton,5742,Other
+1049,Corfe Castle,1321,Other
+1050,Wotton-under-Edge,5786,Other
+1051,Chelworth Lower Green,290,Other
+1052,Surlingham,578,Other
+1053,Crudwell,657,Other
+1054,Stebbing,973,Other
+1055,Hambleton (Wyre),2526,Other
+1056,Trent,311,Other
+1057,Sibsey,1523,Other
+1058,Ebrington,312,Other
+1059,Pateley Bridge,1409,Other
+1060,Ramsey Mereside,682,Other
+1061,Ashley (Kettering),242,Other
+1062,Marple,18621,Other
+1063,Thurleigh,719,Other
+1064,Southwell,6853,Other
+1065,Dawlish,13355,Other
+1066,Dronfield,20964,Other
+1067,Frettenham,638,Other
+1068,Wootton Bassett,12943,Other
+1069,Newton (Rushcliffe),904,Other
+1070,Cotherstone,575,Other
+1071,Hawkinge,8777,Other
+1072,East Worldham,345,Other
+1073,Evercreech,2155,Other
+1074,Swaton,229,Other
+1075,Weston under Penyard,704,Other
+1076,Syresham,760,Other
+1077,Paulerspury,732,Other
+1078,Down Ampney,604,Other
+1079,Askham Bryan,552,Other
+1080,Beckingham,1176,Other
+1081,Burnham Market,804,Other
+1082,Finedon,4379,Other
+1083,Kingston (North Dorset),668,Other
+1084,Coniston,653,Other
+1085,Lower Common,387,Other
+1086,Hockwold cum Wilton,1200,Other
+1087,Halam,427,Other
+1088,Edgcott,959,Other
+1089,Coney Weston,397,Other
+1090,Storth,980,Other
+1091,Bescar,544,Other
+1092,Duddon,653,Other
+1093,Feckenham,365,Other
+1094,Holloway,530,Other
+1095,Shiptonthorpe,539,Other
+1096,Radway,220,Other
+1097,Alfriston,815,Other
+1098,Kingston (South Cambridgeshire),253,Other
+1099,Peterchurch,763,Other
+1100,Peasedown St John,6788,Other
+1101,Folksworth,925,Other
+1102,Sherburn (County Durham),3087,Other
+1103,Plaxtol,638,Other
+1104,Ebchester,892,Other
+1105,Stone (Stroud),527,Other
+1106,New Waltham,6023,Other
+1107,Five Ashes,514,Other
+1108,Great Ouseburn,632,Other
+1109,Abbotskerswell,1225,Other
+1110,Seamer (Hambleton),318,Other
+1111,Fiskerton (West Lindsey),1209,Other
+1112,Swinford,631,Other
+1113,Thornton-le-Dale,1932,Other
+1114,Swimbridge,654,Other
+1115,Dinnington (Rotherham),20443,Other
+1116,Billesdon,916,Other
+1117,Stansted Mountfitchet,8469,Other
+1118,Brasted,905,Other
+1119,Barnwell,407,Other
+1120,Woodplumpton,677,Other
+1121,Priors Hardwick,168,Other
+1122,Wychbold,1590,Other
+1123,Arlecdon,662,Other
+1124,Balsall Common,7516,Other
+1125,Lound,536,Other
+1126,Hightown,1973,Other
+1127,Bayston Hill,5238,Other
+1128,Hatch Beauchamp,297,Other
+1129,Broughton (Preston),1325,Other
+1130,Birch Green,875,Other
+1131,Rowney Green,267,Other
+1132,High Beach,277,Other
+1133,Fremington,4936,Other
+1134,Stowbridge,365,Other
+1135,Windmill Hill,598,Other
+1136,Thorp Arch,1462,Other
+1137,Hinton St George,467,Other
+1138,Shillingstone,1181,Other
+1139,Butterwick,1332,Other
+1140,Bedfield Long Green,326,Other
+1141,Whittington (Lichfield),2018,Other
+1142,Badby,670,Other
+1143,North Hayling,415,Other
+1144,Cromwell,251,Other
+1145,North Cowton,505,Other
+1146,All Stretton,394,Other
+1147,Lustleigh,296,Other
+1148,Shripney,365,Other
+1149,Queen Camel,585,Other
+1150,Westhead,871,Other
+1151,Beetley,948,Other
+1152,Eyam,995,Other
+1153,Embsay,1855,Other
+1154,Cheddleton,2969,Other
+1155,Caldbeck,291,Other
+1156,Bishop's Tachbrook,2404,Other
+1157,Upton (Newark and Sherwood),420,Other
+1158,Northampton (South Northamptonshire),4933,Other
+1159,Somerford Keynes,558,Other
+1160,Norley,641,Other
+1161,Acaster Malbis,314,Other
+1162,Stalmine,1080,Other
+1163,Whitchurch (Aylesbury Vale),934,Other
+1164,Upton Cheyney,493,Other
+1165,Tytherleigh,242,Other
+1166,Denham Green,3121,Other
+1167,Arlington,607,Other
+1168,Hoveton,3592,Other
+1169,High Legh,1147,Other
+1170,Hargrave,223,Other
+1171,Crews Hill,547,Other
+1172,Poulton,395,Other
+1173,Swan Green,405,Other
+1174,Steeple,598,Other
+1175,Stokeinteignhead,325,Other
+1176,Woodnewton,449,Other
+1177,Smallfield,3756,Other
+1178,Weedon Bec,2897,Other
+1179,Bulkington,266,Other
+1180,Oakley (Bedford),2436,Other
+1181,Woodham Mortimer,629,Other
+1182,Rookery Hill,1038,Other
+1183,Bothel,459,Other
+1184,Irchester,4458,Other
+1185,Lacey Green,1103,Other
+1186,Little Staughton,436,Other
+1187,Blackford,685,Other
+1188,Amotherby,379,Other
+1189,Blakedown,1765,Other
+1190,Colton (Lichfield),795,Other
+1191,Breachwood Green,697,Other
+1192,North Crawley,661,Other
+1193,Dennington,282,Other
+1194,Bramham,1617,Other
+1195,Long Hanborough,2613,Other
+1196,Tydd St Giles,739,Other
+1197,Hainford,421,Other
+1198,Foxton (Harborough),481,Other
+1199,Reepham,2381,Other
+1200,Faringdon,7992,Other
+1201,Ashton (Cornwall),572,Other
+1202,Medburn,118,Other
+1203,Lea,527,Other
+1204,Marton (West Lindsey),745,Other
+1205,Thorner,1524,Other
+1206,Lewknor,333,Other
+1207,Strete,498,Other
+1208,West Wittering,759,Other
+1209,Graffham,482,Other
+1210,Upwood,394,Other
+1211,Hornick,339,Other
+1212,Weaverham,5938,Other
+1213,Garton-on-the-Wolds,352,Other
+1214,Howden-le-Wear,1562,Other
+1215,Glapthorn,295,Other
+1216,Preston (Dover),852,Other
+1217,Carleton-in-Craven,1065,Other
+1218,Priors Marston,643,Other
+1219,Langley Park,4554,Other
+1220,Temple Sowerby,509,Other
+1221,Penwood,608,Other
+1222,Hayton (Carlisle),591,Other
+1223,Stanwick,2020,Other
+1224,Merrybent,464,Other
+1225,North Petherton,3281,Other
+1226,Middlezoy,730,Other
+1227,West Quantoxhead,378,Other
+1228,Hunston,1295,Other
+1229,Happisburgh,356,Other
+1230,Ilminster,6018,Other
+1231,Ferryhill,9268,Other
+1232,Buxton (Broadland),1354,Other
+1233,Chandler's Cross,359,Other
+1234,Gisburn,507,Other
+1235,North Molton,754,Other
+1236,Bethersden,896,Other
+1237,Crowlas,1033,Other
+1238,Kirk Merrington,768,Other
+1239,Monk Fryston,1755,Other
+1240,Little Eversden,550,Other
+1241,Rodmell,454,Other
+1242,Middle Rasen,1265,Other
+1243,Dinnington (Newcastle upon Tyne),1499,Other
+1244,Broadwindsor,576,Other
+1245,Raunds,9165,Other
+1246,Lerryn,337,Other
+1247,Bleasby,863,Other
+1248,East Grafton,376,Other
+1249,Tow Law,2141,Other
+1250,Sandiway,5047,Other
+1251,Writtle,4936,Other
+1252,Kennford,1035,Other
+1253,Uckinghall,300,Other
+1254,Greysouthen,328,Other
+1255,Long Crendon,2415,Other
+1256,Rowde,1222,Other
+1257,Cannock Wood,926,Other
+1258,Heapham,130,Other
+1259,St Erme,1455,Other
+1260,Latton,517,Other
+1261,Halstead,12161,Other
+1262,Newtown (Telford and Wrekin),930,Other
+1263,Minley,392,Other
+1264,Icklingham,370,Other
+1265,Newport (Isle of Wight),25844,Medium Town
+1266,South Nutfield,2020,Other
+1267,Brewood,2677,Other
+1268,Stillington (Stockton-on-Tees),1301,Other
+1269,Fordham (East Cambridgeshire),2769,Other
+1270,Winterborne Zelston,189,Other
+1271,Thornborough,639,Other
+1272,Acle,2270,Other
+1273,Rye Harbour,545,Other
+1274,Knighton (South Hams),1782,Other
+1275,Oare,259,Other
+1276,Beckley (South Oxfordshire),416,Other
+1277,Shotteswell,270,Other
+1278,Great Glen,3818,Other
+1279,Durweston,386,Other
+1280,Greylees,1850,Other
+1281,Filkins,429,Other
+1282,Frittenden,249,Other
+1283,Great Offley,891,Other
+1284,Charlton Down,1480,Other
+1285,Canon's Town,544,Other
+1286,Ingham (St. Edmundsbury),423,Other
+1287,Gristhorpe,384,Other
+1288,Woodhall Spa,4392,Other
+1289,Bramley,4889,Other
+1290,Whipsnade,279,Other
+1291,Beckermet,667,Other
+1292,Morton (Broadland),259,Other
+1293,Burton Agnes,235,Other
+1294,Little Downham,1543,Other
+1295,Repton,2793,Other
+1296,Crowland,4748,Other
+1297,Sturminster Marshall,1601,Other
+1298,Tarrant Monkton,142,Other
+1299,Raydon,237,Other
+1300,Streatley,607,Other
+1301,East Hoathly,896,Other
+1302,Reed,326,Other
+1303,Coveney,459,Other
+1304,Hexton,141,Other
+1305,Kemble,930,Other
+1306,Rodney Stoke,258,Other
+1307,St Briavels,1033,Other
+1308,West Charleton,514,Other
+1309,Combs,492,Other
+1310,Papplewick,348,Other
+1311,Stokenchurch,4072,Other
+1312,Boreham,3255,Other
+1313,Christchurch,812,Other
+1314,Seaton Ross,524,Other
+1315,Pirton,1301,Other
+1316,Gosberton,1690,Other
+1317,South Wingfield,1065,Other
+1318,Fuller's Moor,213,Other
+1319,Burton Salmon,417,Other
+1320,Ponteland,10465,Other
+1321,Great Staughton,865,Other
+1322,Great Urswick,252,Other
+1323,Silverstone,2315,Other
+1324,Braybrooke,479,Other
+1325,Great Hormead,397,Other
+1326,Wing,2696,Other
+1327,Thornton-in-Craven,477,Other
+1328,Woburn,1001,Other
+1329,Halford,343,Other
+1330,Riccall,2273,Other
+1331,Findon,1890,Other
+1332,Debenham,2286,Other
+1333,Aston Rowant,291,Other
+1334,Wylam,1539,Other
+1335,Tideswell,1532,Other
+1336,Tetney,1599,Other
+1337,Measham,5559,Other
+1338,Nether Wallop,266,Other
+1339,Westerham,3307,Other
+1340,Ipstones,893,Other
+1341,Titchmarsh,585,Other
+1342,Charvil,3099,Other
+1343,Worrall,1275,Other
+1344,Hoylandswaine,989,Other
+1345,Bubbenhall,604,Other
+1346,Greatford,267,Other
+1347,Cherhill,587,Other
+1348,Little Walsingham,609,Other
+1349,Brownhills West,2185,Other
+1350,Charlwood,971,Other
+1351,Yaxham,433,Other
+1352,St James South Elmham,224,Other
+1353,Sudbrooke,1832,Other
+1354,Gorran Haven,862,Other
+1355,Langwith,3070,Other
+1356,Rampton (Bassetlaw),604,Other
+1357,Fairford,4141,Other
+1358,Zeal Monachorum,440,Other
+1359,Cleobury Mortimer,2978,Other
+1360,Newbold Verdon,3150,Other
+1361,Stalham,4479,Other
+1362,Helperby,824,Other
+1363,Langwathby,580,Other
+1364,Stretton-on-Dunsmore,1096,Other
+1365,Baddesley Ensor,3647,Other
+1366,Bardney,2036,Other
+1367,Sidbury,468,Other
+1368,Ramsey St Mary's,881,Other
+1369,Ravenstone,2057,Other
+1370,Chinley,1748,Other
+1371,Oakham,11191,Other
+1372,Clapham (Arun),302,Other
+1373,Thompson,318,Other
+1374,Badminton,266,Other
+1375,Hale,1828,Other
+1376,Leyhill Prison,604,Other
+1377,Wethersfield Airfield,442,Other
+1378,Sapcote,3066,Other
+1379,Clayworth,428,Other
+1380,Maiden Bradley,323,Other
+1381,East Ilsley,575,Other
+1382,Rockbourne,150,Other
+1383,Youlgreave,1002,Other
+1384,Norwell,457,Other
+1385,Standford Hill Prison,2001,Other
+1386,Barlow,788,Other
+1387,Oscroft,410,Other
+1388,East Bergholt,2362,Other
+1389,Lytchett Matravers,3525,Other
+1390,Brotton,5506,Other
+1391,Osmington,214,Other
+1392,Westwood,1130,Other
+1393,Brockham,2542,Other
+1394,Upavon Army Camp,394,Other
+1395,Edgworth,2162,Other
+1396,Okehampton,8805,Other
+1397,Biddestone,496,Other
+1398,Bowling Green,225,Other
+1399,Great Wakering,5639,Other
+1400,Bicknoller,371,Other
+1401,Blyton,1171,Other
+1402,Beyton,718,Other
+1403,Acomb,1109,Other
+1404,Wimbotsham,720,Other
+1405,Great Bourton,319,Other
+1406,Bainton,307,Other
+1407,Widmerpool,339,Other
+1408,Aylmerton,273,Other
+1409,Clehonger,1115,Other
+1410,Oakhanger,274,Other
+1411,Teston,614,Other
+1412,Culverstone Green,3971,Other
+1413,Martin (New Forest),441,Other
+1414,Clitheroe,16653,Other
+1415,Inkpen,278,Other
+1416,Carbrooke,540,Other
+1417,Whaplode Drove,599,Other
+1418,Inkford,313,Other
+1419,Alderminster,299,Other
+1420,Helsby,5221,Other
+1421,Snettisham,2616,Other
+1422,Southminster,4421,Other
+1423,Halsall,249,Other
+1424,Burnham Overy Staithe,113,Other
+1425,Stadhampton,715,Other
+1426,Crowle (North Lincolnshire),3918,Other
+1427,Lowca,794,Other
+1428,Petersfield,15450,Other
+1429,Plaistow,406,Other
+1430,Higher Boscaswell,679,Other
+1431,Middle Wallop Airfield,951,Other
+1432,Louth,17413,Other
+1433,Pillerton Priors,306,Other
+1434,Burniston,1502,Other
+1435,Martin (North Kesteven),755,Other
+1436,East Haddon,633,Other
+1437,Langham (North Norfolk),396,Other
+1438,Brill,1235,Other
+1439,Abbeytown,766,Other
+1440,Westfield (Rother),1624,Other
+1441,Gurney Slade,635,Other
+1442,Rye,5311,Other
+1443,Ashington (Northumberland),28139,Medium Town
+1444,Crowfield,400,Other
+1445,Hockley Heath,1668,Other
+1446,Chalkhouse Green,230,Other
+1447,Westham,2190,Other
+1448,Hoddlesden,1187,Other
+1449,Tingewick,1189,Other
+1450,Thorrington (West),506,Other
+1451,Wix,531,Other
+1452,Henton,480,Other
+1453,Whitchurch (Basingstoke and Deane),4946,Other
+1454,Shouldham,599,Other
+1455,Moulton Seas End,649,Other
+1456,Swithland,259,Other
+1457,Brasted Chart,331,Other
+1458,Blakesley,537,Other
+1459,Newmarket,20819,Other
+1460,Reedham,1136,Other
+1461,Broughton (North Lincolnshire),4550,Other
+1462,Woolacombe,747,Other
+1463,South Moreton,400,Other
+1464,Barnburgh,1868,Other
+1465,Stretton-on-Fosse,436,Other
+1466,Rattlesden,322,Other
+1467,Beenham,770,Other
+1468,Lubenham,764,Other
+1469,Bradninch,1878,Other
+1470,Tuddenham St Martin,353,Other
+1471,Ashburton,3462,Other
+1472,Whittlesford,1556,Other
+1473,Culcheth,6694,Other
+1474,Speen,627,Other
+1475,Chesterton,3502,Other
+1476,Peldon,564,Other
+1477,Horton-cum-Studley,455,Other
+1478,Stoke St Mary,433,Other
+1479,Heswall,29436,Medium Town
+1480,Leigh (West Dorset),478,Other
+1481,Appleton Roebuck,907,Other
+1482,Harmer Hill,350,Other
+1483,Shotley,881,Other
+1484,Axbridge,1983,Other
+1485,Constantine Bay,127,Other
+1486,Mears Ashby,391,Other
+1487,Willington (Bedford),796,Other
+1488,Finchingfield,746,Other
+1489,Sheerness,13418,Other
+1490,North Duffield,1374,Other
+1491,Driffield,13117,Other
+1492,Norleywood,354,Other
+1493,Tenbury Wells,4086,Other
+1494,Hanley Swan,596,Other
+1495,Tibberton (Wychavon),624,Other
+1496,Martin Hussingtree,267,Other
+1497,Old Leake,1405,Other
+1498,Corby Glen,1056,Other
+1499,Loxwood,1056,Other
+1500,Llangrove,480,Other
+1501,Potter Heigham,834,Other
+1502,Retford,23348,Other
+1503,North Waltham,839,Other
+1504,Bottom o' th' Moor,813,Other
+1505,Balcombe,1426,Other
+1506,Houghton (Huntingdonshire),1381,Other
+1507,Arlingham,482,Other
+1508,Rusper,649,Other
+1509,Shorwell,453,Other
+1510,Eltisley,368,Other
+1511,Swinderby,524,Other
+1512,Highley,3324,Other
+1513,Layer-de-la-Haye,1673,Other
+1514,Wollaston,3479,Other
+1515,Horley,324,Other
+1516,Radcliffe on Trent,7551,Other
+1517,Knowle,1584,Other
+1518,Ruskington,5572,Other
+1519,Glazebury,1032,Other
+1520,Thurlaston,840,Other
+1521,Patrington,1311,Other
+1522,Locking,1919,Other
+1523,Stogumber,427,Other
+1524,Arnside,2245,Other
+1525,North Somercotes,1692,Other
+1526,Christian Malford,592,Other
+1527,Otley,698,Other
+1528,Roydon,1531,Other
+1529,Fownhope,784,Other
+1530,Gargrave,1827,Other
+1531,Felsham,492,Other
+1532,Melbourne (South Derbyshire),5332,Other
+1533,Penny Bridge,456,Other
+1534,Woodbury,1739,Other
+1535,Wigton,6025,Other
+1536,Bromham (Wiltshire),1032,Other
+1537,Welland,1238,Other
+1538,Ryall,919,Other
+1539,Castle Hedingham,1120,Other
+1540,Hessett,533,Other
+1541,Burbage,1925,Other
+1542,Monkton Farleigh,441,Other
+1543,Leominster,11614,Other
+1544,Bratton,1187,Other
+1545,Harwell,2505,Other
+1546,Oxenpill,887,Other
+1547,Blackmore End,833,Other
+1548,Whaddon,509,Other
+1549,Huby (Harrogate),751,Other
+1550,Weybourne,513,Other
+1551,Twyford (Winchester),1481,Other
+1552,Alburgh,419,Other
+1553,Tuxford,2717,Other
+1554,Castle Bytham,462,Other
+1555,Bamford,776,Other
+1556,High Littleton,1599,Other
+1557,Dickleburgh,1132,Other
+1558,Doddinghurst Common,157,Other
+1559,Praze-an-Beeble,1415,Other
+1560,Woodford,1507,Other
+1561,Wickhamford,714,Other
+1562,Uffington (Vale of White Horse),889,Other
+1563,Wick (South Gloucestershire),1960,Other
+1564,Yorkley,2753,Other
+1565,Great Clifton,600,Other
+1566,RAF Wyton,1498,Other
+1567,Mollington (Cheshire West and Chester),644,Other
+1568,Ram Lane,170,Other
+1569,Coleshill (Chiltern),394,Other
+1570,Sandhurst (Tewkesbury),491,Other
+1571,Sixpenny Handley,929,Other
+1572,St Martin's,2653,Other
+1573,Claybrooke Magna,596,Other
+1574,Mosterton,612,Other
+1575,Freeland,1490,Other
+1576,Hill Ridware,928,Other
+1577,Gayton (King's Lynn and West Norfolk),1436,Other
+1578,Stallingborough,1187,Other
+1579,Sturminster Newton,3646,Other
+1580,Hayfield,1893,Other
+1581,Old Newton,788,Other
+1582,Tackley,890,Other
+1583,Wybunbury,865,Other
+1584,Cerne Abbas,887,Other
+1585,Wicken Green Village,824,Other
+1586,Wootton Courtenay,294,Other
+1587,Tilbrook,361,Other
+1588,Claverley,581,Other
+1589,Moulton (South Holland),1625,Other
+1590,Ellerton,371,Other
+1591,Muston,337,Other
+1592,Pilton,717,Other
+1593,Walsham Le Willows,1292,Other
+1594,Norton Lindsey,318,Other
+1595,Kirton End,387,Other
+1596,Upton Grey,464,Other
+1597,North Newbald,1118,Other
+1598,South Croxton,253,Other
+1599,Moresby Parks,1200,Other
+1600,Mattishall,2419,Other
+1601,Helpringham,859,Other
+1602,Bodmin,16000,Other
+1603,Michelmersh,903,Other
+1604,Wilbarston,703,Other
+1605,Alpington,671,Other
+1606,Tunstall,303,Other
+1607,Caister-on-Sea,8801,Other
+1608,Mere Brow,559,Other
+1609,Ramsey Forty Foot,552,Other
+1610,Little Totham,754,Other
+1611,Widdington,484,Other
+1612,Monks Eleigh,483,Other
+1613,Weston (Stafford),1079,Other
+1614,Gislingham,666,Other
+1615,Stannington Station,440,Other
+1616,Tarrant Keyneston,323,Other
+1617,Allerston,321,Other
+1618,Great Green,312,Other
+1619,Costock,373,Other
+1620,Scotton (West Lindsey),654,Other
+1621,Great Sampford,597,Other
+1622,Corpusty,540,Other
+1623,Torksey Lock,528,Other
+1624,Farrington Gurney,924,Other
+1625,Buckingham Park,3448,Other
+1626,Cranwell,1433,Other
+1627,Somersham (Huntingdonshire),3448,Other
+1628,Sutton Veny,655,Other
+1629,Skelton (York),1531,Other
+1630,Ball Hill,473,Other
+1631,Slaley,745,Other
+1632,Ashby cum Fenby,229,Other
+1633,Swaffham Prior,914,Other
+1634,Bagnall,421,Other
+1635,Woodsetts,1684,Other
+1636,All Cannings,571,Other
+1637,Longstanton,3655,Other
+1638,Caxton,561,Other
+1639,Stoke-by-Nayland,401,Other
+1640,Wortham,443,Other
+1641,Milverton,1085,Other
+1642,Cornhill on Tweed,310,Other
+1643,Devizes,19097,Other
+1644,Yarpole,298,Other
+1645,Blisworth,1619,Other
+1646,Easton on the Hill,1108,Other
+1647,Colne Engaine,1050,Other
+1648,Enstone,956,Other
+1649,Winslow,5088,Other
+1650,Wilburton,994,Other
+1651,Hunton,443,Other
+1652,Bromley Green,335,Other
+1653,Lingdale,1345,Other
+1654,Darenth,2492,Other
+1655,Bucknell (Shropshire),759,Other
+1656,Keinton Mandeville,1076,Other
+1657,Pannal,2410,Other
+1658,Ellington (Huntingdonshire),600,Other
+1659,Trefonen,740,Other
+1660,Everton (New Forest),1640,Other
+1661,Orford,563,Other
+1662,Welford,1180,Other
+1663,St Merryn,679,Other
+1664,Lapford,925,Other
+1665,Burghfield,335,Other
+1666,Worthen,312,Other
+1667,Sandy Cross,277,Other
+1668,Great Ayton,4467,Other
+1669,Stretham,2044,Other
+1670,Cuckfield,3885,Other
+1671,Flimwell,1175,Other
+1672,Cononley,1064,Other
+1673,Upper Tankersley,413,Other
+1674,Winchmore Hill,644,Other
+1675,Endmoor,617,Other
+1676,Little Harrowden,863,Other
+1677,Failand,723,Other
+1678,Croston,3194,Other
+1679,Rawcliffe,1591,Other
+1680,Freethorpe,1020,Other
+1681,Stewkley,1852,Other
+1682,Leedstown,329,Other
+1683,Hoveringham,326,Other
+1684,Cotgrave,8113,Other
+1685,Embleton,364,Other
+1686,Lea Valley,631,Other
+1687,Braunston-in-Rutland,526,Other
+1688,Champneys College,531,Other
+1689,Grafty Green,485,Other
+1690,Cottingham,1319,Other
+1691,Rockland St Mary,801,Other
+1692,Harmston,693,Other
+1693,Ulleskelf,764,Other
+1694,Wingate,5186,Other
+1695,Sampford Peverell,1279,Other
+1696,Pakenham,592,Other
+1697,Great Addington,301,Other
+1698,Kirkby Lonsdale,1853,Other
+1699,Castle Rising,199,Other
+1700,Great Kimble,683,Other
+1701,Oakridge Lynch,324,Other
+1702,Elland,16255,Other
+1703,Grampound,695,Other
+1704,Cullingworth,2937,Other
+1705,Potterspury,1594,Other
+1706,Connor Downs,1534,Other
+1707,Orwell,1022,Other
+1708,Chelston,418,Other
+1709,Bishop's Stortford,40815,Medium Town
+1710,Bowerchalke,365,Other
+1711,Toll Bar,1281,Other
+1712,Walkeringham,683,Other
+1713,Kenilworth,21616,Other
+1714,Much Wenlock,2228,Other
+1715,Chardstock,287,Other
+1716,East Drayton,232,Other
+1717,Tockwith,1511,Other
+1718,Apperknowle,278,Other
+1719,Hartwell,2041,Other
+1720,Burham,1254,Other
+1721,Leconfield,2038,Other
+1722,Wellow (Newark and Sherwood),482,Other
+1723,Digby,622,Other
+1724,Scorton,1016,Other
+1725,Haslington,4756,Other
+1726,North Mymms,375,Other
+1727,Bearley,668,Other
+1728,Germoe,179,Other
+1729,Unstone Green,937,Other
+1730,Aust,209,Other
+1731,Hungerford,5157,Other
+1732,Stonesfield,1625,Other
+1733,Godolphin Cross,719,Other
+1734,Shilbottle,1829,Other
+1735,Swavesey,2602,Other
+1736,Barningham,941,Other
+1737,Countesthorpe,7447,Other
+1738,St Keverne,995,Other
+1739,Ravensmoor,275,Other
+1740,Kilmington,928,Other
+1741,Denton (South Northamptonshire),694,Other
+1742,Fulford,659,Other
+1743,Burton Lazars,403,Other
+1744,Elder Street,836,Other
+1745,Hoby,282,Other
+1746,Rooks Bridge,393,Other
+1747,Shebbear,724,Other
+1748,Easington (County Durham),7093,Other
+1749,Hempnall Green,333,Other
+1750,Wood Street Village,1723,Other
+1751,Corston (Bath and North East Somerset),512,Other
+1752,Studland,261,Other
+1753,Collingbourne Ducis,962,Other
+1754,Bishop Burton,522,Other
+1755,Shackleford,221,Other
+1756,Downe,349,Other
+1757,New Romney,9989,Other
+1758,Bishop Middleham,1179,Other
+1759,Thorpe Audlin,641,Other
+1760,Withington (County of Herefordshire),1232,Other
+1761,Guilsborough,742,Other
+1762,Old Dalby,336,Other
+1763,Toy's Hill,314,Other
+1764,Highworth,7750,Other
+1765,Bolney,597,Other
+1766,Oldhill Wood,155,Other
+1767,Wrays,347,Other
+1768,Freckenham,366,Other
+1769,Sedgefield,4394,Other
+1770,Grainthorpe,566,Other
+1771,Hook Norton,1950,Other
+1772,Etchinghill,651,Other
+1773,"Dunstan Lane, nr Burton",170,Other
+1774,Malborough,898,Other
+1775,Corse,1219,Other
+1776,Sandford,658,Other
+1777,Bean,1474,Other
+1778,Ockley,590,Other
+1779,Rock (Cornwall),1183,Other
+1780,Broughton (Kettering),2321,Other
+1781,Meonstoke,889,Other
+1782,Cuffley,4437,Other
+1783,Letty Green,296,Other
+1784,Griston,1589,Other
+1785,Gedney Dyke,331,Other
+1786,Ince Blundell,487,Other
+1787,Henley-In-Arden,2991,Other
+1788,Brogborough,331,Other
+1789,Stalbridge,2222,Other
+1790,Wrentham,818,Other
+1791,Wendens Ambo,464,Other
+1792,Bredon,2053,Other
+1793,Cornforth,2481,Other
+1794,Welford-on-Avon,1701,Other
+1795,Coffinswell,232,Other
+1796,Dorstone,399,Other
+1797,Bourn,737,Other
+1798,Shere,618,Other
+1799,Great Haywood,2050,Other
+1800,Kineton,2155,Other
+1801,Abbotsley,394,Other
+1802,St Germans,549,Other
+1803,Fairfield Park,3763,Other
+1804,Colden Common,3518,Other
+1805,Washingborough,6757,Other
+1806,Fyfield,747,Other
+1807,Charfield,2510,Other
+1808,Great Eversden,235,Other
+1809,Renishaw,2494,Other
+1810,Portreath,1133,Other
+1811,Manfield,271,Other
+1812,Essendine,450,Other
+1813,Oakhill,743,Other
+1814,West Bank,118,Other
+1815,Gedney Drove End,702,Other
+1816,Horning,1146,Other
+1817,Brockenhurst,3637,Other
+1818,Mayland,4079,Other
+1819,Arnesby,335,Other
+1820,Menheniot,786,Other
+1821,Minety,886,Other
+1822,Nassington,875,Other
+1823,Bradley,681,Other
+1824,Rampton (South Cambridgeshire),402,Other
+1825,Wysall,414,Other
+1826,Craven Arms,2643,Other
+1827,Billy Row,1531,Other
+1828,Wistanswick,279,Other
+1829,Cliffe Woods,2635,Other
+1830,East Rainton,1449,Other
+1831,Bosham Hoe,252,Other
+1832,Meopham (South),1242,Other
+1833,Hartlip,774,Other
+1834,Worlaby,530,Other
+1835,Cranwell (North West),200,Other
+1836,Branton,2219,Other
+1837,Dummer,943,Other
+1838,Little Brickhill,392,Other
+1839,Ansty,389,Other
+1840,Burton upon Stather,2330,Other
+1841,Market Overton,623,Other
+1842,Chevington,319,Other
+1843,Heather,947,Other
+1844,Saxtead Green,347,Other
+1845,Cargo,478,Other
+1846,Romsley,1355,Other
+1847,Whitchurch Canonicorum,344,Other
+1848,South Ockendon,22303,Other
+1849,Axmouth,491,Other
+1850,Royal Hospital School,536,Other
+1851,Brimfield,741,Other
+1852,South Chailey,1027,Other
+1853,Sole Street,970,Other
+1854,Lower Hardres,272,Other
+1855,Furneux Pelham,560,Other
+1856,Rothersthorpe,465,Other
+1857,Ickford,687,Other
+1858,Upper Gravenhurst,583,Other
+1859,Newnham (Forest of Dean),1072,Other
+1860,Ettington,1009,Other
+1861,Bream,3130,Other
+1862,Tow House,744,Other
+1863,Kington St Michael,730,Other
+1864,Minsterworth,538,Other
+1865,Apperley,607,Other
+1866,Denby Dale,3119,Other
+1867,Defford,546,Other
+1868,Wylye,438,Other
+1869,Howle Hill,506,Other
+1870,Toft,518,Other
+1871,Sambourne,235,Other
+1872,Ardingly,1259,Other
+1873,North Frodingham,814,Other
+1874,Hamble-le-Rice,4771,Other
+1875,Eastleach Martin,298,Other
+1876,Halland,449,Other
+1877,Little Haywood,1985,Other
+1878,Breighton,270,Other
+1879,Chipping Norton,6254,Other
+1880,Eardisley,598,Other
+1881,Ancaster,1277,Other
+1882,Rolvenden Layne,397,Other
+1883,Sarratt,900,Other
+1884,Tyler Hill,551,Other
+1885,Denton (South Kesteven),257,Other
+1886,Barrow Hill,397,Other
+1887,Beeston,568,Other
+1888,Maidwell,489,Other
+1889,Grange Moor,1101,Other
+1890,Upper Longdon,302,Other
+1891,Bempton,1062,Other
+1892,Elswick,975,Other
+1893,West Chiltington Common,7867,Other
+1894,New Rossington,13656,Other
+1895,Kingston near Lewes,889,Other
+1896,Stourton,498,Other
+1897,Countess,278,Other
+1898,Stoke Hammond,1460,Other
+1899,Seagrave,553,Other
+1900,Swillington,2946,Other
+1901,Coxheath,4491,Other
+1902,Tipton St John,606,Other
+1903,Lympstone,1844,Other
+1904,Mawsley Village,2479,Other
+1905,Holywell Green,3120,Other
+1906,Cockshutt,821,Other
+1907,Erpingham,374,Other
+1908,Milton Malsor,809,Other
+1909,Corston (Wiltshire),298,Other
+1910,Standlake,1195,Other
+1911,Garvestone,363,Other
+1912,Belton (Great Yarmouth),4291,Other
+1913,Kemerton,377,Other
+1914,Meldreth,1984,Other
+1915,Tollerton (Hambleton),1016,Other
+1916,Timsbury,2535,Other
+1917,Ixworth,2256,Other
+1918,Purton,3556,Other
+1919,Christow,873,Other
+1920,Moretonhampstead,1386,Other
+1921,Ashover,605,Other
+1922,Chilton (Vale of White Horse),1700,Other
+1923,Boughton Lees,445,Other
+1924,Birdingbury,324,Other
+1925,Croft (Warrington),1521,Other
+1926,Puttenham,580,Other
+1927,Stokenham,358,Other
+1928,Wheaton Aston,2005,Other
+1929,Chrishall,317,Other
+1930,Long Lawford,4052,Other
+1931,Wrawby,1384,Other
+1932,Great Ryburgh,656,Other
+1933,Hatherleigh,1566,Other
+1934,Culham,487,Other
+1935,Thornwood Common,1072,Other
+1936,Stoke Row,686,Other
+1937,Epperstone,608,Other
+1938,Brightlingsea,8651,Other
+1939,Ridgmont,433,Other
+1940,Cropston,1148,Other
+1941,Mumby,452,Other
+1942,Ashwellthorpe,500,Other
+1943,West Butterwick,777,Other
+1944,Hinton St Mary,233,Other
+1945,Stone Hill,417,Other
+1946,Wighton,219,Other
+1947,Chaldon,744,Other
+1948,Clun,690,Other
+1949,Cassington,735,Other
+1950,Ebberston,453,Other
+1951,Capenhurst,349,Other
+1952,St Mary Bourne,717,Other
+1953,Medbourne,506,Other
+1954,Maple Cross,2461,Other
+1955,Wilcott,234,Other
+1956,Stanford-le-Hope,29004,Medium Town
+1957,Rookley,616,Other
+1958,Newton (Fenland),348,Other
+1959,Claverdon,826,Other
+1960,Yeovil,48615,Medium Town
+1961,Bolton,434,Other
+1962,Hatton,1901,Other
+1963,Swainby,586,Other
+1964,North Baddesley,6950,Other
+1965,Brinkley,381,Other
+1966,Worlington,521,Other
+1967,Mundesley,2727,Other
+1968,Marston Moretaine,5185,Other
+1969,Easton Royal,256,Other
+1970,"Pudsey Hall Lane, nr Rochford",494,Other
+1971,Harrietsham,1855,Other
+1972,Semington,790,Other
+1973,Somersham (Mid Suffolk),685,Other
+1974,Brantham,2356,Other
+1975,Morchard Bishop,1034,Other
+1976,Binfield Heath,722,Other
+1977,Harpole,1320,Other
+1978,Dodford,256,Other
+1979,Wisborough Green,874,Other
+1980,Amesbury,11754,Other
+1981,Baltonsborough,647,Other
+1982,Bassingbourn,2380,Other
+1983,Seghill,2939,Other
+1984,Wrea Green,1692,Other
+1985,"Ferriby High Road, nr North Ferriby",250,Other
+1986,Braithwell,846,Other
+1987,Hawkshaw,381,Other
+1988,Scampton Airfield,1161,Other
+1989,Pebworth,893,Other
+1990,North Greetwell,567,Other
+1991,Crook,9627,Other
+1992,Nawton,911,Other
+1993,Kingston Lisle,227,Other
+1994,Lyminge,2017,Other
+1995,Walpole Highway,720,Other
+1996,East Meon,806,Other
+1997,Lambourn,3117,Other
+1998,Ruan Minor,656,Other
+1999,Napton on the Hill,926,Other
+2000,Holmesfield,822,Other
+2001,Whatstandwell,294,Other
+2002,Longrock,593,Other
+2003,Bentley (Babergh),538,Other
+2004,Lower Down,332,Other
+2005,Podington,373,Other
+2006,East Hanningfield,941,Other
+2007,Easton (Suffolk Coastal),346,Other
+2008,Shipston-on-Stour,5243,Other
+2009,Mid Lavant,1455,Other
+2010,Drayton Parslow,642,Other
+2011,Long Sutton (Hart),265,Other
+2012,Alston,1029,Other
+2013,West Bretton,481,Other
+2014,Uley,1002,Other
+2015,Eynsford,2830,Other
+2016,Abbots Leigh,614,Other
+2017,Barcombe Cross,746,Other
+2018,Mattersey,411,Other
+2019,Wangford,463,Other
+2020,Waddingham,613,Other
+2021,West Bradford,588,Other
+2022,Woodhouse Eaves,1711,Other
+2023,Kingfisher Court,549,Other
+2024,Great Somerford,598,Other
+2025,Soberton Heath,364,Other
+2026,Gotherington,1063,Other
+2027,Oulton,632,Other
+2028,Kelfield,433,Other
+2029,Flockton,1469,Other
+2030,East Harling,2283,Other
+2031,Aylesham,5116,Other
+2032,Newton (Bolsover),3148,Other
+2033,Stockton,1462,Other
+2034,Babraham,314,Other
+2035,Mendlesham,1009,Other
+2036,Eydon,428,Other
+2037,Granborough,594,Other
+2038,Cornholme,1694,Other
+2039,Maldon,22032,Other
+2040,Woodhouse,226,Other
+2041,Fowlmere,1261,Other
+2042,Istead Rise,3324,Other
+2043,Bilsborrow,941,Other
+2044,Huggate,342,Other
+2045,Bampton (Mid Devon),1287,Other
+2046,Glasshouses,536,Other
+2047,Nayland,986,Other
+2048,Peasmarsh (Guildford),531,Other
+2049,North Country,956,Other
+2050,Westhope,254,Other
+2051,Sudbury,23842,Other
+2052,Brandon (County Durham),10177,Other
+2053,Middle Barton,1757,Other
+2054,Yatton Keynell,841,Other
+2055,Weston (South Holland),969,Other
+2056,Workhouse End,367,Other
+2057,Walgrave,895,Other
+2058,Downgate,300,Other
+2059,Ormskirk,26262,Medium Town
+2060,Sutton St James,1007,Other
+2061,West Horndon,1644,Other
+2062,Rickling Green,649,Other
+2063,Longtown,2045,Other
+2064,Fawley,229,Other
+2065,Wrotham Heath,240,Other
+2066,Deddington,1619,Other
+2067,Barkston Ash,377,Other
+2068,Coldwaltham,636,Other
+2069,South Wonston,2264,Other
+2070,Moulton (Forest Heath),1290,Other
+2071,Boxford,1100,Other
+2072,Blyth (Northumberland),39535,Medium Town
+2073,Norton St Philip,692,Other
+2074,Ardleigh,1050,Other
+2075,Sparsholt,409,Other
+2076,Great Cheverell,452,Other
+2077,Tibberton (Forest of Dean),548,Other
+2078,Laughton,408,Other
+2079,Newbold-on-Stour,636,Other
+2080,Four Throws,414,Other
+2081,Branston,4021,Other
+2082,Sandwich Bay Estate,308,Other
+2083,Holbeach,8418,Other
+2084,Duxford,2177,Other
+2085,Faldingworth,489,Other
+2086,Stow cum Quy,498,Other
+2087,Higher Wheelton,657,Other
+2088,Coates (Fenland),2232,Other
+2089,Dodleston,687,Other
+2090,Haydon Bridge,1571,Other
+2091,Martham,3302,Other
+2092,Hodnet,316,Other
+2093,Cann Common,272,Other
+2094,East End,205,Other
+2095,Helmdon,774,Other
+2096,Brigham,722,Other
+2097,Clipston,639,Other
+2098,Great Ponton,369,Other
+2099,South Grove,231,Other
+2100,Shap,1285,Other
+2101,Burford,1330,Other
+2102,Sherston,1345,Other
+2103,East Horsley,6002,Other
+2104,Icklesham,979,Other
+2105,Soulbury,320,Other
+2106,Ticknall,621,Other
+2107,Christ's Hospital,1283,Other
+2108,Charlton (Wychavon),563,Other
+2109,Callow End,900,Other
+2110,Burton,519,Other
+2111,Bradford-on-Tone,641,Other
+2112,Gander's Green,206,Other
+2113,North Lopham,668,Other
+2114,Heywood,475,Other
+2115,Alconbury Weston,774,Other
+2116,Diseworth,647,Other
+2117,Barlaston,2008,Other
+2118,St Helens,1164,Other
+2119,Horsleys Green,833,Other
+2120,St Neot,292,Other
+2121,Gretton (Corby),1474,Other
+2122,Codford St Peter,851,Other
+2123,Burwell,6417,Other
+2124,Longhope,1197,Other
+2125,Tremar,662,Other
+2126,East Chinnock,487,Other
+2127,Acton Trussell,762,Other
+2128,Orcheston,325,Other
+2129,Kirkby Malzeard,873,Other
+2130,Black Notley,1971,Other
+2131,Nailstone,564,Other
+2132,Corscombe,500,Other
+2133,Wootton (North Lincolnshire),513,Other
+2134,Ringstead,1970,Other
+2135,Yealmpton,2015,Other
+2136,Mareham le Fen,984,Other
+2137,Compton End,409,Other
+2138,Eton Wick,2050,Other
+2139,Darlington,93305,Other
+2140,Eastrington,1160,Other
+2141,Kessingland,4342,Other
+2142,Lawns Wood,406,Other
+2143,Stoke Fleming,764,Other
+2144,Bramdean,264,Other
+2145,Bere Ferrers,377,Other
+2146,Drinkstone Green,628,Other
+2147,Witnesham,349,Other
+2148,Stanton Harcourt,608,Other
+2149,Worth Matravers,241,Other
+2150,Hopton on Sea,2492,Other
+2151,Fort Halstead,342,Other
+2152,Whitminster,855,Other
+2153,Crowle (Wychavon),1103,Other
+2154,Dundry,279,Other
+2155,Gayton (South Northamptonshire),547,Other
+2156,Kelloe,1411,Other
+2157,Wardington,566,Other
+2158,Axminster,6788,Other
+2159,Looe,5175,Other
+2160,Long Sutton (South Somerset),531,Other
+2161,Horringer,798,Other
+2162,Southwater,9313,Other
+2163,Raymond's Hill,828,Other
+2164,Audlem,1683,Other
+2165,Ash (South Somerset),597,Other
+2166,St Mabyn,260,Other
+2167,Clifford's Mesne,385,Other
+2168,Burwash,1398,Other
+2169,Tockington,443,Other
+2170,Cranfield,6427,Other
+2171,Pytchley,480,Other
+2172,Culford,755,Other
+2173,Shoreham,756,Other
+2174,Norton Canes,7482,Other
+2175,Walesby (West Lindsey),237,Other
+2176,Chipperfield (Three Rivers),310,Other
+2177,Ouston,325,Other
+2178,Newquay,22612,Other
+2179,Burton-in-Kendal,1383,Other
+2180,Hemsworth,9425,Other
+2181,"Plaw Hatch Lane, nr Sharpthorne",358,Other
+2182,Dunton Bassett,837,Other
+2183,Higham,813,Other
+2184,Clare,2173,Other
+2185,Gazeley,660,Other
+2186,Yetminster,1120,Other
+2187,Thorney Island,1192,Other
+2188,Huntspill,1102,Other
+2189,Lightwater,6720,Other
+2190,Warkworth,1441,Other
+2191,Linton,4558,Other
+2192,Larkhill,2219,Other
+2193,High Pittington,1149,Other
+2194,Mickleton (Cotswold),2124,Other
+2195,Terrington,357,Other
+2196,Owermoigne,365,Other
+2197,Bewdley,8686,Other
+2198,Southery,1169,Other
+2199,Roughton,613,Other
+2200,Sawtry,5687,Other
+2201,Sparkford,520,Other
+2202,Upper Cumberworth,654,Other
+2203,Sabden,1565,Other
+2204,Welton (Daventry),604,Other
+2205,Reedness,310,Other
+2206,Newton (Babergh),513,Other
+2207,Cookley,1702,Other
+2208,North Cheriton,196,Other
+2209,Kirkby-in-Furness,563,Other
+2210,Millom,5787,Other
+2211,Pitsford,688,Other
+2212,Foxton (South Cambridgeshire),1251,Other
+2213,Catcott,924,Other
+2214,Wookey,854,Other
+2215,Lower Dicker,448,Other
+2216,Chieveley,979,Other
+2217,Cocking,454,Other
+2218,Exminster,4262,Other
+2219,Pluckley Thorne,646,Other
+2220,Newborough (City of Peterborough),1247,Other
+2221,Lockington,373,Other
+2222,Tolleshunt Knights,1043,Other
+2223,Gilberdyke,3544,Other
+2224,Denholme,2825,Other
+2225,Assington,445,Other
+2226,Carlton (Hinckley and Bosworth),380,Other
+2227,Thorpe on the Hill,438,Other
+2228,Gainford,1155,Other
+2229,Great Massingham,961,Other
+2230,Low Etherley,1942,Other
+2231,Tintagel,1042,Other
+2232,Gowdall,330,Other
+2233,Nether Stowey,1478,Other
+2234,Litcham,441,Other
+2235,Crantock,835,Other
+2236,Fairlands,1425,Other
+2237,Crawley (Winchester),287,Other
+2238,Osbournby,417,Other
+2239,Porlock,1142,Other
+2240,Brandesburton,1337,Other
+2241,Lackford,249,Other
+2242,Chilton Polden,717,Other
+2243,Bicker,701,Other
+2244,Lower Stanton St Quintin,541,Other
+2245,Seething,367,Other
+2246,Thornhill,860,Other
+2247,Denbury,689,Other
+2248,Brampton (Carlisle),4362,Other
+2249,Wiveliscombe,2271,Other
+2250,Essendon,561,Other
+2251,North Thoresby,1094,Other
+2252,Thirsk,10946,Other
+2253,Allonby,466,Other
+2254,Westleton,334,Other
+2255,Huntingdon,26004,Medium Town
+2256,Thorney,1944,Other
+2257,Hopton,634,Other
+2258,Evenley,625,Other
+2259,Little Hallingbury,1388,Other
+2260,Great Waldingfield,1407,Other
+2261,North Coates Airfield,472,Other
+2262,Peasmarsh (Rother),1168,Other
+2263,Gretton (Tewkesbury),460,Other
+2264,Oldbury-on-Severn,357,Other
+2265,Darley,774,Other
+2266,Anwick,386,Other
+2267,Camelford,2795,Other
+2268,Dry Drayton,639,Other
+2269,Shapwick,485,Other
+2270,Broadwell (Cotswold),335,Other
+2271,Blandford Camp,1790,Other
+2272,Aldford,268,Other
+2273,Dagnall,370,Other
+2274,Great Houghton (Northampton),627,Other
+2275,Newton (South Cambridgeshire),379,Other
+2276,Cogenhoe,1402,Other
+2277,Warmington (Stratford-on-Avon),350,Other
+2278,Great Limber,256,Other
+2279,Sydling St Nicholas,427,Other
+2280,Southfields,1029,Other
+2281,Thorpe Willoughby,3176,Other
+2282,Wickwar,1603,Other
+2283,Shirebrook,12408,Other
+2284,Whiteparish,1131,Other
+2285,Upper Lambourn,463,Other
+2286,Rotherwick,591,Other
+2287,Bramshall,662,Other
+2288,Chattenden,1006,Other
+2289,Belford,1372,Other
+2290,Blackdown,173,Other
+2291,Akeley,540,Other
+2292,Eggborough,2173,Other
+2293,Scarcliffe,464,Other
+2294,South Newington,260,Other
+2295,Whissendine,1211,Other
+2296,Ingoldsby,292,Other
+2297,East Bridgford,1889,Other
+2298,Bishops Lydeard,2013,Other
+2299,Clifton (Derbyshire Dales),287,Other
+2300,Saughall,2678,Other
+2301,Cowling,1399,Other
+2302,Lidgate,223,Other
+2303,Easingwold,4884,Other
+2304,Prees Higher Heath,1177,Other
+2305,Pimperne,1070,Other
+2306,Great Haseley,515,Other
+2307,Lynton,1068,Other
+2308,Knowles Hill,621,Other
+2309,Allendale Town,797,Other
+2310,Blagdon Hill,540,Other
+2311,North Coker,714,Other
+2312,Gorefield,999,Other
+2313,Kensworth,1498,Other
+2314,Elsham,400,Other
+2315,East Winch,834,Other
+2316,Scole,1076,Other
+2317,Newton-on-Ouse,689,Other
+2318,Upton (Vale of White Horse),438,Other
+2319,Fillongley,764,Other
+2320,Lower Green,294,Other
+2321,Bagby,540,Other
+2322,Market Rasen,5307,Other
+2323,Musbury,508,Other
+2324,Wisbech St Mary,1007,Other
+2325,Dolton,684,Other
+2326,Leven,2468,Other
+2327,Framlingham,3723,Other
+2328,Hales,786,Other
+2329,Shelfanger,408,Other
+2330,Ufford (Suffolk Coastal),600,Other
+2331,Saltfleet,541,Other
+2332,Catherine-de-Barnes,642,Other
+2333,Kelvedon Hatch,2434,Other
+2334,Bellingham,1071,Other
+2335,Old Sarum,3242,Other
+2336,Havenstreet,431,Other
+2337,Weston (Newark and Sherwood),371,Other
+2338,Cliff End,250,Other
+2339,Kegworth,4034,Other
+2340,Stockbridge,756,Other
+2341,Sedgeford,601,Other
+2342,Aldbrough,1263,Other
+2343,Silkstone Common,1339,Other
+2344,Thruxton Aerodrome,566,Other
+2345,Doddinghurst,4495,Other
+2346,Long Stratton,4502,Other
+2347,Lidlington,1317,Other
+2348,Rackheath,1666,Other
+2349,Four Lanes,1629,Other
+2350,Berkeley,2068,Other
+2351,Carlton (Selby),1988,Other
+2352,Childrey,513,Other
+2353,Arkesden,398,Other
+2354,Kingston Bagpuize,3337,Other
+2355,Charlton (South Northamptonshire),527,Other
+2356,Odiham Airfield,1707,Other
+2357,Easter Compton,330,Other
+2358,Westwoodside,2105,Other
+2359,Eastry,2509,Other
+2360,Beckington,980,Other
+2361,Spratton,1309,Other
+2362,Low Bentham,708,Other
+2363,Dickens Heath,4918,Other
+2364,Walesby (Newark and Sherwood),1236,Other
+2365,Sherborne,9894,Other
+2366,Myddle,355,Other
+2367,Broomedge,432,Other
+2368,Darrington,1129,Other
+2369,Ombersley,591,Other
+2370,Bridge,1596,Other
+2371,Ulceby,1690,Other
+2372,Ringmer,3235,Other
+2373,Etwall,2834,Other
+2374,Coates (Cotswold),490,Other
+2375,Whitchurch Hill,662,Other
+2376,Wilstead,2213,Other
+2377,Barrow upon Trent,609,Other
+2378,Croyde,645,Other
+2379,Middleton (Derbyshire Dales),938,Other
+2380,Long Marston (Harrogate),646,Other
+2381,Lelant,993,Other
+2382,Silsden,7996,Other
+2383,Burston,564,Other
+2384,Ansley,901,Other
+2385,Leyburn,2342,Other
+2386,Onehouse,857,Other
+2387,Hollym,302,Other
+2388,Fishburn,2574,Other
+2389,North Leigh,1508,Other
+2390,Wistow (Huntingdonshire),539,Other
+2391,Halwill Junction,580,Other
+2392,Henstridge,1443,Other
+2393,Weston-sub-Edge,465,Other
+2394,Greens Norton,1553,Other
+2395,Meppershall,1811,Other
+2396,Dane End,586,Other
+2397,Stoke Holy Cross,1153,Other
+2398,Woodbeck,286,Other
+2399,Kedington,2032,Other
+2400,Quenington,541,Other
+2401,Porthleven,3141,Other
+2402,Sharpstone Street,555,Other
+2403,Langham (Rutland),1493,Other
+2404,Wattisfield,512,Other
+2405,Newbold,897,Other
+2406,Tetsworth,758,Other
+2407,Bitton,580,Other
+2408,Ribchester,880,Other
+2409,Dinton (Aylesbury Vale),242,Other
+2410,Thriplow,450,Other
+2411,Clifton (Fylde),896,Other
+2412,Upper Seagry,315,Other
+2413,Creech St Michael,1858,Other
+2414,Brafield-on-the-Green,659,Other
+2415,Sutton cum Lound,686,Other
+2416,Necton,1986,Other
+2417,New Marske,3097,Other
+2418,Hollesley,665,Other
+2419,Waddesdon,1812,Other
+2420,Addingham,3644,Other
+2421,Copplestone,1253,Other
+2422,Troon,1409,Other
+2423,Gringley on the Hill,919,Other
+2424,Carlton-le-Moorland,547,Other
+2425,Fairburn,851,Other
+2426,Glaisdale,630,Other
+2427,Stanley (Erewash),762,Other
+2428,Wistow (Selby),1323,Other
+2429,Flyford Flavell,322,Other
+2430,Willington (County Durham),6832,Other
+2431,South Molton,5674,Other
+2432,Holmwood,1058,Other
+2433,Killinghall,1179,Other
+2434,Bramcote,767,Other
+2435,Tolpuddle,491,Other
+2436,High Park Corner,253,Other
+2437,Grendon,542,Other
+2438,Shardlow,676,Other
+2439,Long Load,333,Other
+2440,Ashbocking,373,Other
+2441,Wilsford,449,Other
+2442,Eagle,816,Other
+2443,Minsterley,1705,Other
+2444,Honiton,11549,Other
+2445,Low Worsall,289,Other
+2446,Coton,929,Other
+2447,Marsden,3756,Other
+2448,Winford (North Somerset),1209,Other
+2449,Esh Winning,3855,Other
+2450,Little Gaddesden,621,Other
+2451,Southrepps,584,Other
+2452,Playing Place,817,Other
+2453,Stanhoe,264,Other
+2454,North Weald Bassett,4574,Other
+2455,Gawcott,911,Other
+2456,Nettlesworth,1191,Other
+2457,Kentisbeare,626,Other
+2458,Tiddington,684,Other
+2459,Durham Tees Valley International Airport,296,Other
+2460,Little Thetford,769,Other
+2461,Low Bradley,1274,Other
+2462,Polruan,547,Other
+2463,Sutton Scotney,936,Other
+2464,Wickham Market,2332,Other
+2465,Maisemore,511,Other
+2466,Dinton (Wiltshire),733,Other
+2467,Eastbury,294,Other
+2468,Chippenham (Wiltshire),35469,Medium Town
+2469,Milnthorpe,2220,Other
+2470,Spaldwick,647,Other
+2471,Charminster,1427,Other
+2472,Gillingham (North Dorset),11490,Other
+2473,Redbourn,5178,Other
+2474,Stanion,825,Other
+2475,Swindon (South Staffordshire),1138,Other
+2476,Spittlegate,290,Other
+2477,Witham St Hughs,3111,Other
+2478,Modbury,1540,Other
+2479,Brancaster,427,Other
+2480,Widemouth Bay,319,Other
+2481,Sedgeberrow,849,Other
+2482,Iron Acton,546,Other
+2483,Great Shefford,921,Other
+2484,Ditton Priors,891,Other
+2485,St Newlyn East,979,Other
+2486,Eaton Bray,4105,Other
+2487,Woodmansey,853,Other
+2488,Charlton Marshall,1049,Other
+2489,Laughterton,420,Other
+2490,Stradbroke,1204,Other
+2491,Stokesley,4670,Other
+2492,Bitchet Green,290,Other
+2493,Bretherton,456,Other
+2494,Northwold,696,Other
+2495,Netherseal,705,Other
+2496,Kirby Misperton,353,Other
+2497,Lindale,559,Other
+2498,Grendon Underwood,687,Other
+2499,South Witham,1651,Other
+2500,Flexbury,2291,Other
+2501,Wethersfield,718,Other
+2502,Amberley,593,Other
+2503,West Mersea,7144,Other
+2504,Hanwood,1192,Other
+2505,Lavenham,1520,Other
+2506,Roxton,356,Other
+2507,Ambleside,2601,Other
+2508,Rimpton,250,Other
+2509,Tring,12297,Other
+2510,Guisborough,17795,Other
+2511,Farnsfield,2877,Other
+2512,Combwich,636,Other
+2513,Longframlington,1025,Other
+2514,Utterby,316,Other
+2515,Great Gidding,341,Other
+2516,Elham,872,Other
+2517,Willoughby (Rugby),390,Other
+2518,Hamsterley Mill,321,Other
+2519,Luckington,681,Other
+2520,Turvey,927,Other
+2521,Longborough,440,Other
+2522,Dove Holes,1063,Other
+2523,Farnborough (Stratford-on-Avon),270,Other
+2524,Bishampton,625,Other
+2525,Great Barton,1623,Other
+2526,Olney,6060,Other
+2527,New Alresford,5393,Other
+2528,Wilberfoss,2020,Other
+2529,Longhoughton,1269,Other
+2530,St Columb Major,3996,Other
+2531,Peopleton,591,Other
+2532,Chearsley,563,Other
+2533,Tatworth,2215,Other
+2534,Week St Mary,743,Other
+2535,Mepal,954,Other
+2536,Toynton All Saints,417,Other
+2537,Sheriffhales,386,Other
+2538,Marchwood,6035,Other
+2539,Kingsdown (Wiltshire),288,Other
+2540,Rudheath Woods,258,Other
+2541,Croxton,294,Other
+2542,Kilcot,269,Other
+2543,Belchford,238,Other
+2544,Long Itchington,1825,Other
+2545,Shotley Gate,1454,Other
+2546,High Ercall,671,Other
+2547,Condover,785,Other
+2548,Castleside,5680,Other
+2549,Marsh Baldon,282,Other
+2550,North Elmham,1244,Other
+2551,Cookshill,332,Other
+2552,Rugeley,24725,Other
+2553,Hellifield,1437,Other
+2554,Milborne St Andrew,1093,Other
+2555,Woodborough (Gedling),1676,Other
+2556,Coven,2616,Other
+2557,Poughill,717,Other
+2558,Etchingham,404,Other
+2559,Keelby,2071,Other
+2560,Saffron Walden,17012,Other
+2561,Wolsingham,2523,Other
+2562,Cutnall Green,451,Other
+2563,Draycott,1020,Other
+2564,Shadoxhurst,1342,Other
+2565,Blackfordby,846,Other
+2566,Bawdeswell,822,Other
+2567,Snape (Hambleton),413,Other
+2568,Bletchingdon,740,Other
+2569,Sharow,572,Other
+2570,Bourton-on-the-Water,4073,Other
+2571,Tregony,774,Other
+2572,Hinstock,880,Other
+2573,Haynes,899,Other
+2574,Hathern,2265,Other
+2575,East Boldre,589,Other
+2576,Stamfordham,361,Other
+2577,Odcombe,764,Other
+2578,Wroot,481,Other
+2579,Finmere,475,Other
+2580,Kirdford,735,Other
+2581,Loddiswell,1055,Other
+2582,Wittersham,795,Other
+2583,Waldringfield,449,Other
+2584,Kingsclere,3044,Other
+2585,Clifton Hampden,297,Other
+2586,Shenington,384,Other
+2587,Bucknell (Cherwell),239,Other
+2588,Gotham,1572,Other
+2589,Fincham,503,Other
+2590,Inner Hope,202,Other
+2591,Wouldham,1276,Other
+2592,Henley,631,Other
+2593,Salhouse,1016,Other
+2594,Wootton (West Oxfordshire),585,Other
+2595,Westbury (Aylesbury Vale),452,Other
+2596,Mawnan Smith,1020,Other
+2597,Westcott,2574,Other
+2598,Badwell Ash,810,Other
+2599,Naseby,750,Other
+2600,Wellington (County of Herefordshire),1044,Other
+2601,Rempstone,389,Other
+2602,Norham,617,Other
+2603,Knutsford,13095,Other
+2604,North Muskham,979,Other
+2605,Snainton,808,Other
+2606,Shepley,5438,Other
+2607,Biggleswade,21673,Other
+2608,Broom,628,Other
+2609,Brassington,559,Other
+2610,Curry Rivel,1855,Other
+2611,Stocksfield,2555,Other
+2612,Hadlow,2805,Other
+2613,Rawcliffe Bridge,847,Other
+2614,Northleach,1986,Other
+2615,Overstrand,980,Other
+2616,Hinton Waldrist,348,Other
+2617,Great Barrow,567,Other
+2618,Colkirk,602,Other
+2619,Longworth,570,Other
+2620,Twyning,1043,Other
+2621,Fotherby,505,Other
+2622,Ripon,16121,Other
+2623,Southwick (Wiltshire),1812,Other
+2624,Aldermaston Wharf,1046,Other
+2625,Ramsey (Wiltshire),2026,Other
+2626,Littledean,939,Other
+2627,Blindley Heath,1167,Other
+2628,Carlton (Bedford),883,Other
+2629,Kellington,974,Other
+2630,Appleton Thorn,1356,Other
+2631,South Cockerington,201,Other
+2632,Islip,645,Other
+2633,Crow Hill,614,Other
+2634,Aldington,1221,Other
+2635,Selsey,10519,Other
+2636,Hempstead,415,Other
+2637,Bishopthorpe,3361,Other
+2638,Cawston,1126,Other
+2639,Clapton in Gordano,363,Other
+2640,Cockfield,1530,Other
+2641,Bromham (Bedford),4634,Other
+2642,Calvert,1445,Other
+2643,Hugh town,985,Other
+2644,Kingstone (East Staffordshire),643,Other
+2645,High Shincliffe,1031,Other
+2646,Willoughton,351,Other
+2647,Sadberge,677,Other
+2648,Elsworth,606,Other
+2649,South Darenth,4899,Other
+2650,Trunch,936,Other
+2651,Ilfracombe,10946,Other
+2652,Stoney Stratton,302,Other
+2653,Great Houghton (Barnsley),2541,Other
+2654,Kirkby Mallory,428,Other
+2655,Aldreth,288,Other
+2656,Hullavington,900,Other
+2657,Theydon Bois,3905,Other
+2658,Cowfold,1328,Other
+2659,Hamsterley (nr Consett),1065,Other
+2660,Thursley,314,Other
+2661,Uffington (South Kesteven),465,Other
+2662,Polperro,1172,Other
+2663,Chilbolton,862,Other
+2664,Burgh by Sands,595,Other
+2665,Ford,733,Other
+2666,Alfold Crossways,565,Other
+2667,Fladbury,695,Other
+2668,Netherton,2421,Other
+2669,Wattisham Airfield,2061,Other
+2670,Hitcham,790,Other
+2671,Crouch,579,Other
+2672,Long Buckby,4081,Other
+2673,Hevingham,1080,Other
+2674,Adisham,639,Other
+2675,Stow-on-the-Wold,1941,Other
+2676,Saltburn-by-the-Sea,6112,Other
+2677,Hilgay,834,Other
+2678,Bluntisham,2765,Other
+2679,Prickwillow,377,Other
+2680,Redgrave,422,Other
+2681,St Stephen,2375,Other
+2682,Hatfield Broad Oak,903,Other
+2683,Scopwick,884,Other
+2684,Ventnor,5809,Other
+2685,Silverton,1536,Other
+2686,Combe Martin,2596,Other
+2687,Newton Aycliffe,26116,Medium Town
+2688,Marham Airfield,2223,Other
+2689,Hadston,3593,Other
+2690,Walberswick,356,Other
+2691,Guilden Sutton,1504,Other
+2692,Newbiggin-by-the-Sea,6133,Other
+2693,Sherington,899,Other
+2694,Whixley,382,Other
+2695,Felton (Northumberland),1095,Other
+2696,Bromyard,4342,Other
+2697,Dobwalls,1619,Other
+2698,Fritwell,660,Other
+2699,Elmdon,300,Other
+2700,Aughton,271,Other
+2701,Kirkby Overblow,479,Other
+2702,Marsworth,747,Other
+2703,Empingham,998,Other
+2704,Harby,911,Other
+2705,Darley Dale,635,Other
+2706,Brading,1807,Other
+2707,Croft (Blaby),1684,Other
+2708,Grewelthorpe,527,Other
+2709,Bures,1512,Other
+2710,Filey,6772,Other
+2711,Abridge,1661,Other
+2712,Leadenham,395,Other
+2713,West Coker,1205,Other
+2714,Madeley,3989,Other
+2715,Hoo St Werburgh,7047,Other
+2716,Kings Sutton,2467,Other
+2717,Gamble's Green,332,Other
+2718,Horton (South Northamptonshire),389,Other
+2719,Kirkbymoorside,2894,Other
+2720,Fairfield,989,Other
+2721,Ashford (North Devon),336,Other
+2722,Lowdham,2149,Other
+2723,Newington,2375,Other
+2724,Kington Magna,323,Other
+2725,Arlesey,6106,Other
+2726,Lindal in Furness,756,Other
+2727,South Woodham Ferrers,15978,Other
+2728,Earls Barton,5685,Other
+2729,Halvergate,624,Other
+2730,Wroxall,1720,Other
+2731,Lichfield,34169,Medium Town
+2732,Saltford,4220,Other
+2733,Keswick (Allerdale),4763,Other
+2734,Milland,316,Other
+2735,Holsworthy,3287,Other
+2736,Duns Tew,459,Other
+2737,Credenhill,2507,Other
+2738,Shipton (Hambleton),994,Other
+2739,Cricklade,3797,Other
+2740,Newgate Street,402,Other
+2741,Lanchester,3466,Other
+2742,Mannings Heath,1121,Other
+2743,Wicklewood,741,Other
+2744,Calverton,7139,Other
+2745,Threehammer Common,541,Other
+2746,Didmarton,392,Other
+2747,Sandwich,4752,Other
+2748,Thurgoland,1259,Other
+2749,Bere Regis,1341,Other
+2750,Alkham,331,Other
+2751,Geddington,1416,Other
+2752,Roche,2646,Other
+2753,Wellow (Bath and North East Somerset),604,Other
+2754,Cheddington,1633,Other
+2755,Beachley,905,Other
+2756,Packington,798,Other
+2757,Otterton,711,Other
+2758,Whittingham,247,Other
+2759,Slapton,196,Other
+2760,Funtington,323,Other
+2761,Wreningham,317,Other
+2762,Hotham,202,Other
+2763,Willand,3415,Other
+2764,Blackfield,13505,Other
+2765,Stickney,1091,Other
+2766,St. Edward's Park,817,Other
+2767,Torton,335,Other
+2768,Madron,672,Other
+2769,Ash (Dover),2465,Other
+2770,Normanton-on-the-Wolds,239,Other
+2771,Sculthorpe,280,Other
+2772,Barmby on the Marsh,413,Other
+2773,Hawksworth,147,Other
+2774,Bedale,5098,Other
+2775,Bretforton,1320,Other
+2776,Bilbrough,373,Other
+2777,Hempnall,987,Other
+2778,Sheering,920,Other
+2779,Old Sodbury,683,Other
+2780,Appleby,313,Other
+2781,West Tytherley,301,Other
+2782,Castle Cary,3308,Other
+2783,South Kyme,425,Other
+2784,Brighstone,1203,Other
+2785,New Bolingbroke,324,Other
+2786,Cheselbourne,312,Other
+2787,Cuddington (Cheshire West and Chester),765,Other
+2788,Sling,948,Other
+2789,Dorrington (North Kesteven),325,Other
+2790,Braishfield,660,Other
+2791,Kirklevington,1368,Other
+2792,Lamberhurst,1143,Other
+2793,Fortuneswell,3761,Other
+2794,Yaxley,9505,Other
+2795,Upper Tean,3402,Other
+2796,Ullenhall,344,Other
+2797,Sewards End,532,Other
+2798,Burtonwood,3292,Other
+2799,Lymm,11908,Other
+2800,South Cerney Army Station,610,Other
+2801,Horsington,295,Other
+2802,Orston,514,Other
+2803,Clophill,2412,Other
+2804,Pangbourne,4081,Other
+2805,Thurcaston,809,Other
+2806,Wigmore,812,Other
+2807,Holt (North Norfolk),4189,Other
+2808,Upper Broadheath,304,Other
+2809,South Warnborough,479,Other
+2810,Melbourn,4807,Other
+2811,Gorsley Common,642,Other
+2812,Tangmere,3745,Other
+2813,Coverack,273,Other
+2814,Dereham,21362,Other
+2815,Fringford,576,Other
+2816,Great Yeldham,1858,Other
+2817,Everton (Bassetlaw),643,Other
+2818,Shrewsbury,76621,Other
+2819,Carkeel,331,Other
+2820,Groombridge,1135,Other
+2821,Roade,3050,Other
+2822,Misson,784,Other
+2823,Garthorpe,469,Other
+2824,Witley,6423,Other
+2825,Shalfleet,629,Other
+2826,Barton (Richmondshire),811,Other
+2827,Hurworth-on-Tees,2814,Other
+2828,Beadnell,381,Other
+2829,Burghwallis,302,Other
+2830,North Leverton with Habblesthorpe,1039,Other
+2831,Haddiscoe,396,Other
+2832,Storrs,289,Other
+2833,Westoning,2089,Other
+2834,Ambrosden,1987,Other
+2835,Biddenden,1293,Other
+2836,Burghclere,616,Other
+2837,Godshill (New Forest),393,Other
+2838,King's Cliffe,1580,Other
+2839,Buckland Dinham,374,Other
+2840,Chiseldon,2000,Other
+2841,Felthorpe,628,Other
+2842,Inkberrow,1758,Other
+2843,Trimingham,459,Other
+2844,Newbourne,305,Other
+2845,Curbridge,561,Other
+2846,Upper Basildon,1493,Other
+2847,Blaxton,827,Other
+2848,High Kelling,493,Other
+2849,Frankton,406,Other
+2850,Ruyton-XI-Towns,1002,Other
+2851,Sedbergh,1942,Other
+2852,Newport (Telford and Wrekin),13539,Other
+2853,Baydon,699,Other
+2854,Baston,1602,Other
+2855,Willersey,881,Other
+2856,Lower Heyford,251,Other
+2857,Laxfield,1007,Other
+2858,Great Barton (East),233,Other
+2859,Alconbury,2107,Other
+2860,Shudy Camps,325,Other
+2861,Alveley,1553,Other
+2862,Langtoft (South Kesteven),2002,Other
+2863,Great Broughton (Hambleton),837,Other
+2864,Heads Nook,376,Other
+2865,Brock Hill,400,Other
+2866,Marhamchurch,660,Other
+2867,Slindon,262,Other
+2868,Northwood,368,Other
+2869,Elford,598,Other
+2870,Beaconsfield,14667,Other
+2871,Rickinghall,2209,Other
+2872,Rettendon,761,Other
+2873,Niton,1178,Other
+2874,Ludham,1027,Other
+2875,Croesowallt,20119,Other
+2876,Chapel-en-le-Frith,7614,Other
+2877,Woodborough (Wiltshire),305,Other
+2878,Chedburgh,668,Other
+2879,Stonham Aspal,310,Other
+2880,Woodseaves,708,Other
+2881,Greatworth,709,Other
+2882,Strangways,327,Other
+2883,Shimpling Street,436,Other
+2884,Kilham,918,Other
+2885,Ravensthorpe,644,Other
+2886,Godstone,2709,Other
+2887,Ridge,286,Other
+2888,Brook,328,Other
+2889,Aston (West Oxfordshire),1086,Other
+2890,High Halstow,1672,Other
+2891,Hampstead Norreys,622,Other
+2892,Norton (Isle of Wight),226,Other
+2893,Chorlton,357,Other
+2894,Forncett End,1031,Other
+2895,Hopwas,634,Other
+2896,Cubert,835,Other
+2897,Fernhill Heath,3346,Other
+2898,Brookenby,649,Other
+2899,Mickleham,603,Other
+2900,Appleby-in-Westmorland,3108,Other
+2901,Willingham,4053,Other
+2902,Tansley,1143,Other
+2903,Papworth Everard,3778,Other
+2904,Longridge,8087,Other
+2905,Ropsley,615,Other
+2906,Newton on Trent,363,Other
+2907,Sleights,1965,Other
+2908,South Walsham,370,Other
+2909,Sockbridge,373,Other
+2910,East Cowton,492,Other
+2911,Warwick Bridge,1218,Other
+2912,Bozeat,2166,Other
+2913,Hogpits Bottom,313,Other
+2914,Coton in the Elms,887,Other
+2915,Verwood,13650,Other
+2916,Willoughby-on-the-Wolds,560,Other
+2917,Alexandra Park,666,Other
+2918,Uppingham,4853,Other
+2919,Sutton Bonington,1210,Other
+2920,Sproatley,1143,Other
+2921,Little Weighton,945,Other
+2922,Austwick,553,Other
+2923,Chapmanslade,659,Other
+2924,Swarland,602,Other
+2925,Whitchurch (Shropshire),10211,Other
+2926,Habrough,594,Other
+2927,Upavon,466,Other
+2928,Child's Ercall,482,Other
+2929,Barford St Michael,502,Other
+2930,Marsh Gibbon,982,Other
+2931,Shurlock Row,282,Other
+2932,Harston,1851,Other
+2933,Washford,612,Other
+2934,Great Dalby,554,Other
+2935,Burton Leonard,694,Other
+2936,Hermitage,2235,Other
+2937,Bugbrooke,2954,Other
+2938,East Knoyle,371,Other
+2939,Cottered,418,Other
+2940,Crosby,794,Other
+2941,East Keal,366,Other
+2942,Hedenham,242,Other
+2943,Newton Arlosh,329,Other
+2944,Cropwell Butler,346,Other
+2945,Lyddington,384,Other
+2946,East Harptree,661,Other
+2947,Stanhope,1627,Other
+2948,Dorney Reach,430,Other
+2949,Churt Lea,236,Other
+2950,Hanslope,1814,Other
+2951,Settle,3875,Other
+2952,Pengersick,237,Other
+2953,Hambridge,263,Other
+2954,Weston-on-Trent,822,Other
+2955,Charlbury,2897,Other
+2956,Austrey,958,Other
+2957,Merstone,380,Other
+2958,Barford (South Norfolk),536,Other
+2959,Folkingham,795,Other
+2960,Hockliffe,1014,Other
+2961,Tidworth,11686,Other
+2962,Churton,347,Other
+2963,Redmarley D'Abitot,390,Other
+2964,Holt (Wiltshire),1790,Other
+2965,Alford,3789,Other
+2966,Teynham,2781,Other
+2967,Kintbury,2116,Other
+2968,Acton Burnell,723,Other
+2969,Bracebridge Heath,6082,Other
+2970,Wragby,1891,Other
+2971,Thorngumbald,2915,Other
+2972,Wymeswold,1358,Other
+2973,Milcombe,687,Other
+2974,Borden,743,Other
+2975,Cropwell Bishop,1917,Other
+2976,Uphampton,389,Other
+2977,Newton Longville,1948,Other
+2978,Newton (North Dorset),274,Other
+2979,Deanshanger,4133,Other
+2980,Harman's Cross,402,Other
+2981,Capel St Mary,2749,Other
+2982,Middleton-in-Teesdale,938,Other
+2983,Kirk Smeaton,693,Other
+2984,Hawthorn,521,Other
+2985,Thorndon,699,Other
+2986,Primrose Valley,443,Other
+2987,Breedon on the Hill,720,Other
+2988,Chacewater,1211,Other
+2989,Warborough,929,Other
+2990,Orwell Meadows Caravan Site,447,Other
+2991,Barton-upon-Humber,11670,Other
+2992,Horsley,460,Other
+2993,Dunham-on-the-Hill,561,Other
+2994,Onley,1641,Other
+2995,Lower Stoke,767,Other
+2996,Huncote,2063,Other
+2997,Croxton Kerrial,525,Other
+2998,Old Bolingbroke,343,Other
+2999,Silk Willoughby,281,Other
+3000,Upper Minety,264,Other
+3001,Flamborough,1865,Other
+3002,Sevenoaks Weald,827,Other
+3003,Burnopfield,3877,Other
+3004,Normanby-by-Spital,783,Other
+3005,West Deeping,282,Other
+3006,Aylsham,7329,Other
+3007,Melbourne (East Riding of Yorkshire),849,Other
+3008,Needingworth,2108,Other
+3009,Myerscough,199,Other
+3010,Spaxton,323,Other
+3011,Kingskerswell,4962,Other
+3012,Peasemore,306,Other
+3013,Nether Heyford,1708,Other
+3014,Badsworth,677,Other
+3015,Chart Sutton,490,Other
+3016,Georgeham,443,Other
+3017,Halton,2353,Other
+3018,East Rudham,555,Other
+3019,Poringland,6795,Other
+3020,Charlesworth,950,Other
+3021,Gnosall,3998,Other
+3022,Manningtree,5996,Other
+3023,Croscombe,554,Other
+3024,Longburton,494,Other
+3025,Boughton Under Blean,2273,Other
+3026,Gedney,307,Other
+3027,Keynsham,18361,Other
+3028,Damerham,236,Other
+3029,Long Bennington,2091,Other
+3030,Martock,4426,Other
+3031,Kinsham,342,Other
+3032,Tibberton (Telford and Wrekin),534,Other
+3033,Barrowby,1986,Other
+3034,Kinver,4762,Other
+3035,Feniton,1703,Other
+3036,Elwick,503,Other
+3037,Honeybourne,1722,Other
+3038,Upstreet,632,Other
+3039,Great Ellingham,846,Other
+3040,Kingsley (Cheshire West and Chester),1569,Other
+3041,Grimston,2010,Other
+3042,Caddington,3130,Other
+3043,Culgaith,409,Other
+3044,Fontmell Magna,323,Other
+3045,South Tehidy,1077,Other
+3046,Hinderwell,632,Other
+3047,Old Buckenham,803,Other
+3048,Point Clear,1659,Other
+3049,Compton Dundon,375,Other
+3050,Newton Tony,352,Other
+3051,Headcorn,2984,Other
+3052,Canwick,342,Other
+3053,Chawleigh,645,Other
+3054,Northend,297,Other
+3055,Wolverhampton Airport,317,Other
+3056,Cottesmore,1190,Other
+3057,Ilton,821,Other
+3058,Waddington,1031,Other
+3059,Glemsford,3677,Other
+3060,Burstall,227,Other
+3061,Ludford,419,Other
+3062,Martinstown,491,Other
+3063,Howsham,425,Other
+3064,Freiston,353,Other
+3065,Long Whatton,1186,Other
+3066,Dousland,807,Other
+3067,Herstmonceux,1150,Other
+3068,Sleaford,18569,Other
+3069,Clifton Campville,612,Other
+3070,Horsford,4701,Other
+3071,Ranskill,1330,Other
+3072,Coxhoe,3533,Other
+3073,West Meon,779,Other
+3074,Great Stukeley,813,Other
+3075,Barrow-in-Furness,44513,Medium Town
+3076,Lodsworth,343,Other
+3077,Chipping,613,Other
+3078,Blackboys,312,Other
+3079,Wellesbourne,6503,Other
+3080,Seaton (Rutland),269,Other
+3081,Bosham,2654,Other
+3082,Houghton on the Hill,1434,Other
+3083,Ewerby,492,Other
+3084,Kingston Blount,539,Other
+3085,Harlaxton,818,Other
+3086,Albury,544,Other
+3087,North Kelsey,778,Other
+3088,Ford End,739,Other
+3089,South Leverton,522,Other
+3090,Auckley,1333,Other
+3091,Braithwaite,332,Other
+3092,Winterborne Kingston,726,Other
+3093,Manuden,710,Other
+3094,Wookey Hole,334,Other
+3095,Clowne,8393,Other
+3096,Hough,743,Other
+3097,Albourne,335,Other
+3098,Merry Lees,232,Other
+3099,Chatteris,10978,Other
+3100,Dishforth Airfield,511,Other
+3101,Brixham,16982,Other
+3102,Pitton,502,Other
+3103,Houghton (Test Valley),332,Other
+3104,Robin Hood's Bay,391,Other
+3105,Iden,482,Other
+3106,Murton (County Durham),7536,Other
+3107,Dittisham,182,Other
+3108,Bosbury,249,Other
+3109,Tiverton,20587,Other
+3110,Tarrington,540,Other
+3111,Potton,5327,Other
+3112,Stogursey,795,Other
+3113,West Runton,776,Other
+3114,Derrington,627,Other
+3115,Kington Langley,810,Other
+3116,East Challow,979,Other
+3117,Hornton,318,Other
+3118,Churchill (West Oxfordshire),382,Other
+3119,Kirkhamgate,935,Other
+3120,Lower Quinton,2656,Other
+3121,Hurstpierpoint,13926,Other
+3122,Little Melton,943,Other
+3123,Shalbourne,574,Other
+3124,Hogsthorpe,977,Other
+3125,Madley,751,Other
+3126,South Hayling,16020,Other
+3127,Adderbury,2963,Other
+3128,Belton-in-Rutland,367,Other
+3129,Highnam,1835,Other
+3130,Foulden,448,Other
+3131,Harleston,5042,Other
+3132,Norton (Arun),323,Other
+3133,Okeford Fitzpaine,802,Other
+3134,Winscombe,4498,Other
+3135,Horningsea,328,Other
+3136,Highpoint Prison,1540,Other
+3137,Braughing,915,Other
+3138,Husbands Bosworth,1163,Other
+3139,Burton Bradstock,699,Other
+3140,Scruton,465,Other
+3141,Bamburgh,238,Other
+3142,Hatfield Heath,1841,Other
+3143,Baslow,1183,Other
+3144,Allhallows-on-Sea,1409,Other
+3145,Cosgrove,637,Other
+3146,Margaretting,584,Other
+3147,Barrington (South Somerset),409,Other
+3148,Lakenheath,4711,Other
+3149,Flimby,1753,Other
+3150,Bishop's Castle,1905,Other
+3151,Egremont,5838,Other
+3152,Walton,614,Other
+3153,Silloth,2904,Other
+3154,"Cheadle Road, nr Cheddleton",490,Other
+3155,High Melton,289,Other
+3156,Wheelock Heath,1304,Other
+3157,Byfield,1321,Other
+3158,Burgh le Marsh,2123,Other
+3159,Sopley,264,Other
+3160,Ampleforth,703,Other
+3161,Westbury (Shropshire),604,Other
+3162,Swaffham,8278,Other
+3163,Alanbrooke Barracks,641,Other
+3164,Coundon,3353,Other
+3165,Ledbury,9156,Other
+3166,Letcombe Regis,643,Other
+3167,Holme (South Lakeland),1390,Other
+3168,Landkey,1940,Other
+3169,Earls Colne,3829,Other
+3170,Sennen Cove,453,Other
+3171,Skipton,15329,Other
+3172,Andoversford,670,Other
+3173,Ashton (South Northamptonshire),436,Other
+3174,University of Essex,4061,Other
+3175,Bradford on Avon,9756,Other
+3176,Hingham,2312,Other
+3177,Offwell,418,Other
+3178,Ardington,286,Other
+3179,Etton,280,Other
+3180,Fulstow,571,Other
+3181,Woodhurst,394,Other
+3182,Rothbury,2308,Other
+3183,Kirtlington,975,Other
+3184,Sproughton,763,Other
+3185,Woodchurch,1203,Other
+3186,Hascombe (North),505,Other
+3187,Chilmark,449,Other
+3188,Bilsby,251,Other
+3189,Weaverthorpe,378,Other
+3190,Fowey,2248,Other
+3191,Haughton,922,Other
+3192,Mickle Trafford,1892,Other
+3193,Oundle,6372,Other
+3194,Everdon,346,Other
+3195,Morcott,309,Other
+3196,Heath and Reach,1512,Other
+3197,Gamston,255,Other
+3198,Bisley,1012,Other
+3199,Long Wittenham,823,Other
+3200,Tilstock,821,Other
+3201,Mere,2835,Other
+3202,Sherburn in Elmet,7854,Other
+3203,Ludlow,10557,Other
+3204,Worfield,273,Other
+3205,Thanington Without,330,Other
+3206,Bradford Abbas,945,Other
+3207,Reeth,695,Other
+3208,Iwade,4272,Other
+3209,Godshill (Isle of Wight),1492,Other
+3210,Thorpe Salvin,440,Other
+3211,Harling Road,368,Other
+3212,Bardwell,746,Other
+3213,Cotford St Luke,2393,Other
+3214,Risegate,741,Other
+3215,Bingham,10197,Other
+3216,Firsdown,591,Other
+3217,Southend,764,Other
+3218,Seamer (Scarborough),2082,Other
+3219,Lewes,17943,Other
+3220,Newtown Linford,536,Other
+3221,Kilsby,1253,Other
+3222,Burton Pidsea,897,Other
+3223,Pegswood,3227,Other
+3224,Kirk Ireton,545,Other
+3225,Barrow (St. Edmundsbury),1887,Other
+3226,Stanford in the Vale,2232,Other
+3227,Risby,869,Other
+3228,Thurlestone,581,Other
+3229,Aldeburgh,2276,Other
+3230,Marshchapel,739,Other
+3231,Newton Regis,555,Other
+3232,Enton Green,264,Other
+3233,Langley,375,Other
+3234,Bradfield,1262,Other
+3235,Mouldsworth,331,Other
+3236,Ratby,4828,Other
+3237,Aston Abbotts,410,Other
+3238,Benson,5936,Other
+3239,Gawsworth,699,Other
+3240,Liphook,7127,Other
+3241,Haxby,11679,Other
+3242,Panfield,866,Other
+3243,Potterne,1623,Other
+3244,Montacute,472,Other
+3245,Filby,810,Other
+3246,North Wheatley,546,Other
+3247,Orleton,670,Other
+3248,Sturton by Stow,925,Other
+3249,Drayton St Leonard,278,Other
+3250,Shaftesbury,8935,Other
+3251,Hickling (Rushcliffe),348,Other
+3252,Litchborough,354,Other
+3253,Elkesley,793,Other
+3254,Charing,2091,Other
+3255,Bungay,5112,Other
+3256,Wadworth,1138,Other
+3257,Totternhoe,981,Other
+3258,Swynnerton,590,Other
+3259,Whittington (Shropshire),1515,Other
+3260,Benington,691,Other
+3261,Brookville,339,Other
+3262,Walkern,1635,Other
+3263,Pathfinder Village,513,Other
+3264,Fressingfield,876,Other
+3265,Bickershaw,1148,Other
+3266,Ashbury,570,Other
+3267,Frithville,292,Other
+3268,Lyonshall,486,Other
+3269,Narborough,1265,Other
+3270,Banham,1139,Other
+3271,Skidby,957,Other
+3272,Cladswell,563,Other
+3273,Chilton Foliat,360,Other
+3274,Quintrell Downs,1278,Other
+3275,Wendlebury,406,Other
+3276,Lenwade,598,Other
+3277,Grasby,459,Other
+3278,Hilton (Huntingdonshire),1027,Other
+3279,Derry Hill,970,Other
+3280,Hopwood,1054,Other
+3281,Ripe,222,Other
+3282,King's Thorn,829,Other
+3283,Newent,5082,Other
+3284,Marham,780,Other
+3285,Danehill,241,Other
+3286,Thursby,951,Other
+3287,Well Hill,262,Other
+3288,Chetnole,369,Other
+3289,Ogbourne St George,523,Other
+3290,Temple Herdewyke,736,Other
+3291,Calne,18408,Other
+3292,St Olaves,261,Other
+3293,Ecton,446,Other
+3294,King's Hill,8996,Other
+3295,Fifield,583,Other
+3296,Cobham (Elmbridge),19127,Other
+3297,Aylburton,655,Other
+3298,Upton Scudamore,288,Other
+3299,Dulverton,1025,Other
+3300,Barkisland,1010,Other
+3301,Latchingdon,1168,Other
+3302,Lund,323,Other
+3303,Hinderclay,313,Other
+3304,North Kilworth,664,Other
+3305,Beccles,14197,Other
+3306,Spetisbury,547,Other
+3307,Castleton (Scarborough),532,Other
+3308,Draycott in the Clay,223,Other
+3309,Great Waltham,868,Other
+3310,Hunmanby,3123,Other
+3311,Therfield,313,Other
+3312,Goldsborough,450,Other
+3313,Methwold,933,Other
+3314,Nether Compton,291,Other
+3315,Chagford,1078,Other
+3316,Asfordby,2529,Other
+3317,Legbourne,653,Other
+3318,Cawthorne,957,Other
+3319,Holme Lacy,484,Other
+3320,Whittington Barracks,442,Other
+3321,Aston-on-Trent,2418,Other
+3322,Bowburn,4259,Other
+3323,Beckley (Rother),765,Other
+3324,Mytholmroyd,4053,Other
+3325,Soberton,322,Other
+3326,Knowbury,324,Other
+3327,Higham Park,702,Other
+3328,Netherbury,355,Other
+3329,Tiptree,9219,Other
+3330,Croucheston,469,Other
+3331,North Cadbury,653,Other
+3332,Newton Poppleford,1784,Other
+3333,Eakring,470,Other
+3334,Gamlingay,3294,Other
+3335,Stratton-on-the-Fosse,846,Other
+3336,Kislingbury,1325,Other
+3337,Fishtoft,1008,Other
+3338,Bottesford,3336,Other
+3339,Swanmore,3059,Other
+3340,Peacehaven,20247,Other
+3341,Old Langho,1335,Other
+3342,Littleton Panell,1512,Other
+3343,Slingsby,703,Other
+3344,Tetbury,5479,Other
+3345,Kirton (Suffolk Coastal),1188,Other
+3346,Tydd St Mary,698,Other
+3347,Wenhaston,559,Other
+3348,Glentham,528,Other
+3349,Mollington (Cherwell),505,Other
+3350,Bishopsteignton,2336,Other
+3351,Leighton Buzzard,42573,Medium Town
+3352,Little Waldingfield,372,Other
+3353,Ullesthorpe,1053,Other
+3354,Uffculme,2078,Other
+3355,Pembridge,478,Other
+3356,Grampound Road,1148,Other
+3357,Staxton,750,Other
+3358,Cranage,316,Other
+3359,Ham,240,Other
+3360,Broughton in Furness,468,Other
+3361,Oaksey,540,Other
+3362,Long Compton,883,Other
+3363,Boscastle,703,Other
+3364,Capel,1253,Other
+3365,Chirton,407,Other
+3366,Greenfield,1857,Other
+3367,Mickleton (County Durham),397,Other
+3368,Pattishall,677,Other
+3369,Notton,473,Other
+3370,Thurlton,1112,Other
+3371,Slimbridge,747,Other
+3372,Newport (Uttlesford),2645,Other
+3373,Broughton Astley,9220,Other
+3374,Pontesbury,1943,Other
+3375,Selborne,529,Other
+3376,Casterton,352,Other
+3377,Lostwithiel,2754,Other
+3378,Waltham St Lawrence,475,Other
+3379,Perham Down,1408,Other
+3380,Cattistock,532,Other
+3381,Ridgewell,573,Other
+3382,Charmouth,1402,Other
+3383,Preston Candover,434,Other
+3384,Buckland,590,Other
+3385,Navenby,3072,Other
+3386,Whittlesey,13329,Other
+3387,Edingley,478,Other
+3388,North Marston,770,Other
+3389,Gaunt's Common,468,Other
+3390,Brushford,229,Other
+3391,Holmeswood (West),334,Other
+3392,Grantchester,604,Other
+3393,Middle Winterslow,1634,Other
+3394,Brandon (Forest Heath),9343,Other
+3395,Langford (West Oxfordshire),378,Other
+3396,Thundridge,696,Other
+3397,Springhill,538,Other
+3398,Upper Boddington,412,Other
+3399,Nettlebed,757,Other
+3400,Wolston,2601,Other
+3401,Challock,949,Other
+3402,Kilkhampton,992,Other
+3403,School Aycliffe,653,Other
+3404,Fordcombe,586,Other
+3405,Oswaldkirk,231,Other
+3406,Surfleet Seas End,1040,Other
+3407,Brant Broughton,770,Other
+3408,Barton (Wyre),1171,Other
+3409,Cottenham,5721,Other
+3410,Little Houghton,433,Other
+3411,Stoke Golding,1962,Other
+3412,Boughton,238,Other
+3413,Stoke St Michael,744,Other
+3414,Lamerton,838,Other
+3415,Bourne,16780,Other
+3416,Bratton Fleming,882,Other
+3417,Cobham (Gravesham),290,Other
+3418,Barnetby le Wold,1729,Other
+3419,Parson Drove,831,Other
+3420,St Just,1981,Other
+3421,Staplehurst,5204,Other
+3422,Cheadle,11353,Other
+3423,Fishlake,337,Other
+3424,Wingrave,1459,Other
+3425,Wye,2165,Other
+3426,Heversham,746,Other
+3427,Spofforth,1180,Other
+3428,"Pinesfield Lane, nr Culverstone Green",258,Other
+3429,Knowle Hill,592,Other
+3430,Maltby le Marsh,327,Other
+3431,Brompton-by-Sawdon,305,Other
+3432,University of Nottingham School of Agriculture,351,Other
+3433,Ashcott,846,Other
+3434,Rollesby,679,Other
+3435,Hindon,557,Other
+3436,Hulland Ward,698,Other
+3437,Brixworth,5910,Other
+3438,Ickleton,742,Other
+3439,Bar Hill,4019,Other
+3440,Dartington,871,Other
+3441,Ash Green,483,Other
+3442,Friston,1637,Other
+3443,Upper Tysoe,881,Other
+3444,Stoke Gabriel,1247,Other
+3445,Wherwell,467,Other
+3446,Fosdyke,476,Other
+3447,Downton,2916,Other
+3448,North Stoke,357,Other
+3449,Wymondham (Melton),635,Other
+3450,Barnes Street,564,Other
+3451,Humshaugh,760,Other
+3452,Lyndhurst,2481,Other
+3453,Chipping Ongar,6407,Other
+3454,Kirton (Boston),5342,Other
+3455,Dumbleton,571,Other
+3456,Ufford (City of Peterborough),259,Other
+3457,Westleigh,608,Other
+3458,Great Horwood,1083,Other
+3459,Fleetwood,25632,Medium Town
+3460,Shildon,9938,Other
+3461,St Cleer,1737,Other
+3462,Barton Stacey,857,Other
+3463,Brocton,713,Other
+3464,Haddenham (East Cambridgeshire),2959,Other
+3465,Chideock,651,Other
+3466,Aynho,715,Other
+3467,Lakenheath Airfield,3146,Other
+3468,Ashford Carbonell,334,Other
+3469,Carlton (Stockton-on-Tees),773,Other
+3470,Langford Budville,517,Other
+3471,Kenton,943,Other
+3472,Ottringham,634,Other
+3473,Sharnford,1024,Other
+3474,Horton (South Gloucestershire),456,Other
+3475,Oakington,1507,Other
+3476,Haltwhistle,3822,Other
+3477,Ide Hill,391,Other
+3478,Milton Ernest,732,Other
+3479,Datchet,4983,Other
+3480,Foston (South Kesteven),553,Other
+3481,Barley,718,Other
+3482,Curtisden Green,437,Other
+3483,Hampsthwaite,1037,Other
+3484,Mistley,1646,Other
+3485,Laxton,395,Other
+3486,Broad Heath,259,Other
+3487,Hemsby,5687,Other
+3488,Ashby-de-la-Zouch,14528,Other
+3489,King's Bromley,1033,Other
+3490,Coalhill,277,Other
+3491,Wadebridge,7002,Other
+3492,Pailton,523,Other
+3493,Camber,1234,Other
+3494,Heytesbury,532,Other
+3495,Wicken Bonhunt,242,Other
+3496,Dauntsey,554,Other
+3497,Stoke (Havant),1267,Other
+3498,Helmsley,1627,Other
+3499,Marston Magna,528,Other
+3500,Chiddingfold,2209,Other
+3501,Beanacre,316,Other
+3502,Tarvin,2594,Other
+3503,Neasham,407,Other
+3504,Staindrop,1317,Other
+3505,Takeley Street,546,Other
+3506,Marsham,568,Other
+3507,Broadclyst,1583,Other
+3508,Harpenden,31613,Medium Town
+3509,Melsonby,688,Other
+3510,Upton upon Severn,1837,Other
+3511,Halesworth,5872,Other
+3512,Staithes,815,Other
+3513,Masham,1208,Other
+3514,Attleborough,11659,Other
+3515,Bumble's Green,486,Other
+3516,Wortwell,554,Other
+3517,Heighington,1347,Other
+3518,Sea Palling,429,Other
+3519,Great Bircham,450,Other
+3520,Pointon,510,Other
+3521,Coddenham,636,Other
+3522,Fleet,42262,Medium Town
+3523,Flecknoe,288,Other
+3524,Holcombe Rogus,263,Other
+3525,Caistor,2784,Other
+3526,Whittlebury,641,Other
+3527,Hartpury College,1369,Other
+3528,Brigstock,1403,Other
+3529,Great Rollright,536,Other
+3530,North Newton,338,Other
+3531,Needham,318,Other
+3532,Upper Arncott,1046,Other
+3533,Milborne Port,3030,Other
+3534,Fairlight,1638,Other
+3535,Ascott-under-Wychwood,533,Other
+3536,Appleby Magna,1137,Other
+3537,New Holland,917,Other
+3538,Ramsey (Huntingdonshire),7765,Other
+3539,Alkborough,461,Other
+3540,Goxhill,2311,Other
+3541,Bentworth,495,Other
+3542,Elton,658,Other
+3543,Plumpton Green,1131,Other
+3544,Eyke,372,Other
+3545,Cossington,674,Other
+3546,Langford (Central Bedfordshire),3536,Other
+3547,Shamley Green,1144,Other
+3548,Burn,465,Other
+3549,Acton,1673,Other
+3550,Wantage,19834,Other
+3551,Walpole Cross Keys,485,Other
+3552,Harmby,396,Other
+3553,High Bentham,1718,Other
+3554,Combe,766,Other
+3555,Kingham,632,Other
+3556,Milton Lilbourne,294,Other
+3557,Hawsker,237,Other
+3558,East Leake,7996,Other
+3559,Askern,5742,Other
+3560,Datchworth,1221,Other
+3561,Burwash Common,804,Other
+3562,Long Sutton (South Holland),5345,Other
+3563,Battle,6588,Other
+3564,Shiplake,566,Other
+3565,Shepherdswell,1641,Other
+3566,Stewartby,1810,Other
+3567,Breage,617,Other
+3568,Hartley Wintney,5215,Other
+3569,Woolpack Corner,206,Other
+3570,Pavenham,497,Other
+3571,New Ollerton,10955,Other
+3572,Burton-by-Lincoln,431,Other
+3573,Berry's Green,202,Other
+3574,Brinklow,1181,Other
+3575,Charlton Horethorne,626,Other
+3576,Carlby,556,Other
+3577,Duke's Hill,145,Other
+3578,Waterford,288,Other
+3579,Clanfield,927,Other
+3580,Hurst Green (Rother),1225,Other
+3581,North Cave,1447,Other
+3582,Evenwood,1670,Other
+3583,Skelton (Eden),353,Other
+3584,Aldwincle,323,Other
+3585,Elmsett,633,Other
+3586,Little Berkhamsted,497,Other
+3587,Belchamp St Paul,352,Other
+3588,Reach,329,Other
+3589,Westhampnett,568,Other
+3590,Whaplode,1702,Other
+3591,Barnston (Uttlesford),922,Other
+3592,Yardley Hastings,756,Other
+3593,Uttoxeter,13467,Other
+3594,Bircotes,8506,Other
+3595,Scropton,344,Other
+3596,Collingbourne Kingston,514,Other
+3597,Kirkby Thore,731,Other
+3598,Ilmington,769,Other
+3599,Hauxton,1015,Other
+3600,Laceby,3340,Other
+3601,Littleton,671,Other
+3602,Elston,653,Other
+3603,North Walsham,12710,Other
+3604,Hayton (Allerdale),240,Other
+3605,Kirklington,426,Other
+3606,Kenninghall,803,Other
+3607,Penwithick,2008,Other
+3608,Nocton,934,Other
+3609,Nanstallon,587,Other
+3610,Cherington,361,Other
+3611,Steeple Ashton,1422,Other
+3612,Stanton St John,431,Other
+3613,Meysey Hampton,434,Other
+3614,Greetham,839,Other
+3615,Snitterfield,997,Other
+3616,Stilton,2366,Other
+3617,Fox Street,581,Other
+3618,Rackheath/Salhouse,366,Other
+3619,High Roding,581,Other
+3620,Stow,334,Other
+3621,Broad Oak (Wealden),1079,Other
+3622,Kempsey,3369,Other
+3623,Bourton,1541,Other
+3624,Sutton (West Oxfordshire),352,Other
+3625,Seaton (East Devon),8837,Other
+3626,Northborough,1203,Other
+3627,Coopersale,1051,Other
+3628,Scawby,1658,Other
+3629,Sutton Waldron,238,Other
+3630,Great Rissington,340,Other
+3631,Kibblesworth,1404,Other
+3632,Fulmer,225,Other
+3633,Canewdon,1113,Other
+3634,Sporle,783,Other
+3635,Portinscale,532,Other
+3636,Somerton (South Somerset),4406,Other
+3637,Chudleigh Knighton,1137,Other
+3638,Coltishall,2242,Other
+3639,Alderholt,2928,Other
+3640,Woolley,371,Other
+3641,Toddington,4644,Other
+3642,Cumwhinton,431,Other
+3643,Shepreth,583,Other
+3644,Lye's Green,344,Other
+3645,Pilning,1492,Other
+3646,Kingsbury Episcopi,704,Other
+3647,Corse Lawn,279,Other
+3648,Shortstown,2374,Other
+3649,Purleigh,561,Other
+3650,Weston Hills,779,Other
+3651,Stourpaine,654,Other
+3652,Thrussington,608,Other
+3653,Pattingham,1762,Other
+3654,Stotfold,8538,Other
+3655,Puddletown,1219,Other
+3656,Tisbury,2394,Other
+3657,Luddington,435,Other
+3658,Chapel Row,627,Other
+3659,Chale Green,306,Other
+3660,Backworth,1558,Other
+3661,Bradford Peverell,363,Other
+3662,Pool,1888,Other
+3663,Westbury-sub-Mendip,810,Other
+3664,Othery,630,Other
+3665,Spellbrook,317,Other
+3666,Blundeston,989,Other
+3667,Lambley,896,Other
+3668,Barmby Moor,867,Other
+3669,Alderton (Tewkesbury),836,Other
+3670,Yoxford,775,Other
+3671,Horsmonden,1692,Other
+3672,Blunham,1060,Other
+3673,Holme next the Sea,196,Other
+3674,Willington (South Derbyshire),3357,Other
+3675,Shepshed,14059,Other
+3676,Clacton-on-Sea,53768,Medium Town
+3677,Shadwell,1352,Other
+3678,Swayfield,288,Other
+3679,Parwich,435,Other
+3680,Gressenhall,920,Other
+3681,Chilton (County Durham),4199,Other
+3682,Middleton (King's Lynn and West Norfolk),1184,Other
+3683,South Cerney,3001,Other
+3684,Whitby,13143,Other
+3685,Barton-le-Clay,4950,Other
+3686,Tebay,439,Other
+3687,East Peckham,2474,Other
+3688,Barkston,515,Other
+3689,Whissonsett,491,Other
+3690,Drakes Broughton,1401,Other
+3691,Lawshall,675,Other
+3692,Long Riston,1019,Other
+3693,Ditcheat,361,Other
+3694,Frant,728,Other
+3695,Great Milton,603,Other
+3696,Broadhempston,759,Other
+3697,Sancton,268,Other
+3698,Framfield,698,Other
+3699,Ellerker,414,Other
+3700,Buckland Monachorum,762,Other
+3701,Woore,797,Other
+3702,Gerrans,575,Other
+3703,Trebetherick,441,Other
+3704,Ashbourne,9163,Other
+3705,Galgate,2122,Other
+3706,North Curry,1005,Other
+3707,Cheltenham,117073,Other
+3708,Little Somerford,371,Other
+3709,Shipbourne,504,Other
+3710,Lizard,994,Other
+3711,Belton (North West Leicestershire),761,Other
+3712,Hallaton,637,Other
+3713,Shenstone,2200,Other
+3714,Turners Hill,843,Other
+3715,Abberton,811,Other
+3716,West Ashton,456,Other
+3717,Lydd,4023,Other
+3718,Chelford,1064,Other
+3719,Hoghton,505,Other
+3720,Congleton,26380,Medium Town
+3721,Offham,486,Other
+3722,Ludgershall (Aylesbury Vale),426,Other
+3723,Steeple Claydon,2221,Other
+3724,Staverton,450,Other
+3725,Tivetshall St Margaret,321,Other
+3726,Whitmore,124,Other
+3727,Lydden,705,Other
+3728,Durley,322,Other
+3729,Petworth,2579,Other
+3730,Mark,667,Other
+3731,Stanton (Tewkesbury),187,Other
+3732,Ampney Crucis,647,Other
+3733,North Kyme,440,Other
+3734,Woolavington,2306,Other
+3735,Kington,2694,Other
+3736,Mawgan Porth,265,Other
+3737,Middleton (Suffolk Coastal),377,Other
+3738,Rishton,6424,Other
+3739,Todmorden,12171,Other
+3740,Stocksbridge,13053,Other
+3741,Heybrook Bay,487,Other
+3742,Reawla,1063,Other
+3743,Frisby on the Wreake,613,Other
+3744,Oxenhope,1910,Other
+3745,Bredgar,456,Other
+3746,Shifnal,7618,Other
+3747,Twyford (Wokingham),7854,Other
+3748,Burnhope,1547,Other
+3749,Tilney St Lawrence,1343,Other
+3750,Everthorpe Hall,1178,Other
+3751,Brompton-on-Swale,1885,Other
+3752,Stonely,358,Other
+3753,Spennymoor,19607,Other
+3754,Long Lartin Prison,613,Other
+3755,Ashwell,1873,Other
+3756,Witheridge,1182,Other
+3757,West Wratting,490,Other
+3758,Stubbington,25239,Medium Town
+3759,Bishop Wilton,562,Other
+3760,Stone (Aylesbury Vale),2149,Other
+3761,Enham Alamein,1622,Other
+3762,Long Melford,3017,Other
+3763,West Felton,736,Other
+3764,Hurstbourne Tarrant,657,Other
+3765,Hobson,710,Other
+3766,Alton (East Hampshire),19785,Other
+3767,Whimple,1189,Other
+3768,Raskelf,553,Other
+3769,Blidworth,4341,Other
+3770,Forest Hill,539,Other
+3771,Radlett,8108,Other
+3772,Buxted,2159,Other
+3773,Hurst,1365,Other
+3774,Fovant,696,Other
+3775,Kimpton,1456,Other
+3776,Carhampton,784,Other
+3777,Morland,404,Other
+3778,Cade Street,309,Other
+3779,Hazelwood,314,Other
+3780,Dunchurch,2488,Other
+3781,Longden,332,Other
+3782,Colburn,4488,Other
+3783,Wicken (South Northamptonshire),311,Other
+3784,Blackmore,832,Other
+3785,Thaxted,3186,Other
+3786,Leaden Roding,694,Other
+3787,Newton Flotman,1453,Other
+3788,Kingsley (Staffordshire Moorlands),725,Other
+3789,Woolton Hill,2746,Other
+3790,Withernsea,6381,Other
+3791,Princetown,1458,Other
+3792,Padbury,779,Other
+3793,Brixton,1566,Other
+3794,Tanworth-in-Arden,230,Other
+3795,Bradwell (Braintree),530,Other
+3796,Blackborough End,277,Other
+3797,Trimdon Grange,1243,Other
+3798,Lynsted,656,Other
+3799,Weston-on-the-Green,529,Other
+3800,Haddenham (Aylesbury Vale),5099,Other
+3801,Neston,15104,Other
+3802,Barwick,1100,Other
+3803,Elvington,844,Other
+3804,Deeping St Nicholas,1404,Other
+3805,Eccleshall,3002,Other
+3806,Middlewich,14130,Other
+3807,Stoke-by-Clare,506,Other
+3808,Wellington Heath,511,Other
+3809,Wansford,564,Other
+3810,Fulbeck,363,Other
+3811,Chilworth,1859,Other
+3812,Ashington (Horsham),2662,Other
+3813,Hemingford Abbots,594,Other
+3814,Winkleigh,1323,Other
+3815,Rawreth,321,Other
+3816,Winterton,4825,Other
+3817,Moggerhanger,631,Other
+3818,Southwick (Winchester),770,Other
+3819,Skellingthorpe Big Wood,103,Other
+3820,Saxlingham Nethergate,710,Other
+3821,Barton St David,619,Other
+3822,Worlingworth,895,Other
+3823,Alvechurch,3889,Other
+3824,Wiggenhall St Germans,801,Other
+3825,Feltwell,2565,Other
+3826,Singleton,500,Other
+3827,Hixon,2013,Other
+3828,Meriden,2136,Other
+3829,Stratton,2550,Other
+3830,Eccles on Sea,321,Other
+3831,Poulshot,380,Other
+3832,Henham,1018,Other
+3833,Silverdale,1321,Other
+3834,Wold Newton,331,Other
+3835,Morley,230,Other
+3836,Upton (West Lindsey),469,Other
+3837,Highsted,414,Other
+3838,Bow,1122,Other
+3839,Guyhirn,349,Other
+3840,Chiserley,691,Other
+3841,Walton-on-Thames,1393,Other
+3842,Avening,1008,Other
+3843,Stuston,201,Other
+3844,Great Broughton (Allerdale),1814,Other
+3845,Terrington St Clement,3434,Other
+3846,"Aldeburgh Road, nr Leiston",274,Other
+3847,Starcross,1726,Other
+3848,Edenbridge,9004,Other
+3849,Orton,270,Other
+3850,St Erth,1108,Other
+3851,Welbourn,695,Other
+3852,Chipperfield (Dacorum),1367,Other
+3853,Blakeney (North Norfolk),758,Other
+3854,Cudworth,314,Other
+3855,Leintwardine,646,Other
+3856,Butleigh,826,Other
+3857,Catworth,356,Other
+3858,Sutton (Chichester),395,Other
+3859,Maryport,9538,Other
+3860,Winterbourne Abbas,662,Other
+3861,Wymondham (South Norfolk),16441,Other
+3862,Ellesmere,4165,Other
+3863,Creswell,5876,Other
+3864,Egginton,573,Other
+3865,Yarnfield,1989,Other
+3866,Woodmancote,323,Other
+3867,Stourton Caundle,442,Other
+3868,Ditchingham,2142,Other
+3869,Burton Joyce,3818,Other
+3870,Sedlescombe,961,Other
+3871,Wetwang,762,Other
+3872,Upper Oddington,396,Other
+3873,Froggatt,174,Other
+3874,Higher Folds,2909,Other
+3875,Perry Green,482,Other
+3876,Longnewton,829,Other
+3877,Northaw,617,Other
+3878,Corbridge,3055,Other
+3879,Quarndon,962,Other
+3880,Stillington (Hambleton),830,Other
+3881,Chilcompton,2317,Other
+3882,Westerleigh,509,Other
+3883,Bampton (West Oxfordshire),2923,Other
+3884,Millbrook,2286,Other
+3885,Warthill,248,Other
+3886,Holy Cross,580,Other
+3887,Towersey,442,Other
+3888,Micheldever,451,Other
+3889,Saltash,15762,Other
+3890,Blockley,1014,Other
+3891,Horton (South Somerset),1450,Other
+3892,Beal,484,Other
+3893,Roxwell,397,Other
+3894,Harrold,1695,Other
+3895,Cheriton Fitzpaine,547,Other
+3896,Templecombe,1571,Other
+3897,Hunsdon,971,Other
+3898,Denham,1425,Other
+3899,Broad Hinton,649,Other
+3900,Hertford Heath,2929,Other
+3901,Potters Bar,23429,Other
+3902,Laughton en le Morthen,983,Other
+3903,Upper Caldecote,1246,Other
+3904,Woodstock (West Oxfordshire),2812,Other
+3905,Minster Lovell,1294,Other
+3906,The Wells,1515,Other
+3907,Clampits,362,Other
+3908,Seavington St Michael,143,Other
+3909,Nether Broughton,485,Other
+3910,Heath End,352,Other
+3911,King's Somborne,1192,Other
+3912,Wereham,688,Other
+3913,Shabbington,544,Other
+3914,Headley (Basingstoke and Deane),684,Other
+3915,Banwell,2051,Other
+3916,Marcham,2252,Other
+3917,Winsham,689,Other
+3918,Bentley (East Hampshire),1360,Other
+3919,Pembury,6037,Other
+3920,Burghill,168,Other
+3921,Newton St Cyres,641,Other
+3922,Eythorne,1563,Other
+3923,Isleham,2304,Other
+3924,Bishopstone,349,Other
+3925,Clevedon,21138,Other
+3926,Burrington,249,Other
+3927,Carnkie,321,Other
+3928,Ubley,336,Other
+3929,Huby (Hambleton),1071,Other
+3930,Kingsland,584,Other
+3931,Hoo Marina Park,769,Other
+3932,Tytherington,695,Other
+3933,Langworth,437,Other
+3934,St Buryan,689,Other
+3935,Goulceby,321,Other
+3936,South Godstone,1464,Other
+3937,Anstey,7363,Other
+3938,Brent Knoll,1263,Other
+3939,North Moreton,334,Other
+3940,Lower Moor,767,Other
+3941,Alvescot,477,Other
+3942,Boosbeck,1209,Other
+3943,St Tudy,667,Other
+3944,Hawes,857,Other
+3945,Moss,386,Other
+3946,Roos,782,Other
+3947,Docking,812,Other
+3948,Goostrey,1883,Other
+3949,Hartpury,787,Other
+3950,Staveley,1443,Other
+3951,Mersham,1503,Other
+3952,Aslackby,258,Other
+3953,Hebden Bridge,4112,Other
+3954,Barlestone,2608,Other
+3955,Sticker,816,Other
+3956,Yardley Gobion,1260,Other
+3957,Stainton,758,Other
+3958,Hallatrow,515,Other
+3959,Spixworth,3545,Other
+3960,Holcombe,938,Other
+3961,Old Alresford,534,Other
+3962,Caythorpe,1346,Other
+3963,Little Plumstead (South),1118,Other
+3964,Mount Hawke,1573,Other
+3965,Withernwick,416,Other
+3966,St Teath,610,Other
+3967,Stamford Bridge,3526,Other
+3968,Askam in Furness,3082,Other
+3969,Hannington,485,Other
+3970,Cransford,156,Other
+3971,Iwerne Minster,1011,Other
+3972,Great Chesterford,1675,Other
+3973,Chedworth,795,Other
+3974,Takeley,5136,Other
+3975,Blofield Heath,1491,Other
+3976,Hindringham,471,Other
+3977,Hursley,491,Other
+3978,Sulgrave,430,Other
+3979,Aldbury,601,Other
+3980,Wigginton,811,Other
+3981,Great Finborough,837,Other
+3982,Fenny Drayton,526,Other
+3983,Sharnbrook,1656,Other
+3984,Drayton (Vale of White Horse),2799,Other
+3985,Treeton,3311,Other
+3986,Great Torrington,5980,Other
+3987,Hornby,472,Other
+3988,Riseley,1321,Other
+3989,Farmborough,1081,Other
+3990,Polebrook,479,Other
+3991,Dundon,365,Other
+3992,Aston (Cheshire East),444,Other
+3993,Luston,572,Other
+3994,East Studdal,532,Other
+3995,Curdworth,1109,Other
+3996,Haswell,1218,Other
+3997,Great Hockham,624,Other
+3998,Yelvertoft,810,Other
+3999,Flaxton,336,Other
+4000,Mulbarton,3736,Other
+4001,Southfleet,984,Other
+4002,Horsted Keynes,1195,Other
+4003,Wilton (County of Herefordshire),647,Other
+4004,Upton (Broadland),725,Other
+4005,Holton le Clay,3748,Other
+4006,Nanpean,2753,Other
+4007,Kingsley Holt,595,Other
+4008,Cheveley,929,Other
+4009,Wroughton,6473,Other
+4010,Harthill,1663,Other
+4011,Finningley,4913,Other
+4012,Sutton Bridge,4018,Other
+4013,Upper Heyford,1898,Other
+4014,Kingswood (Stroud),1368,Other
+4015,Great Amwell,1115,Other
+4016,Lower Halstow,1215,Other
+4017,St Mary's Bay,3033,Other
+4018,Shropham,446,Other
+4019,Matching Green,362,Other
+4020,Henbury,399,Other
+4021,Stockton on the Forest,955,Other
+4022,Broyle Side,945,Other
+4023,Shareshill,781,Other
+4024,West Rainton,2410,Other
+4025,West Bergholt,3238,Other
+4026,Hemyock,1642,Other
+4027,Whitley (Selby),777,Other
+4028,North Runcton,272,Other
+4029,Earith,1604,Other
+4030,Baschurch,1951,Other
+4031,Whitacre Heath,442,Other
+4032,Aston Tirrold,561,Other
+4033,Melton (Suffolk Coastal),677,Other
+4034,Ormesby St Margaret,2644,Other
+4035,Winfrith Newburgh,313,Other
+4036,Cholesbury,321,Other
+4037,Dorchester (South Oxfordshire),1021,Other
+4038,Shipton under Wychwood,3044,Other
+4039,Morton-on-Swale,664,Other
+4040,Mayfield (East Staffordshire),1077,Other
+4041,Binbrook,918,Other
+4042,Barby,925,Other
+4043,Nether Whitacre,341,Other
+4044,Swarthmoor,1083,Other
+4045,Langold,2635,Other
+4046,Winthorpe,614,Other
+4047,Burton Fleming,460,Other
+4048,Ellesborough,508,Other
+4049,Ashdon,586,Other
+4050,Ramsey Island,1494,Other
+4051,Butt's Green,262,Other
+4052,Alton (Staffordshire Moorlands),1038,Other
+4053,Ashleworth,533,Other
+4054,Wrenbury-cum-Frith,796,Other
+4055,Collingham,2691,Other
+4056,Wolvercote,1116,Other
+4057,Scothern,903,Other
+4058,Shepton Beauchamp,701,Other
+4059,Lanivet,973,Other
+4060,Oldcotes,323,Other
+4061,Monkwood (West),395,Other
+4062,Silchester,736,Other
+4063,Cowbit,1268,Other
+4064,Parkgate,337,Other
+4065,Stoke Orchard,995,Other
+4066,Harvington,1724,Other
+4067,Brailsford,767,Other
+4068,Seisdon,833,Other
+4069,Puckeridge,3701,Other
+4070,Treswell,277,Other
+4071,Hinton,3800,Other
+4072,St Osyth,2174,Other
+4073,Benwick,1120,Other
+4074,Bledington,466,Other
+4075,Haselbury Plucknett,726,Other
+4076,Wickham St Paul,278,Other
+4077,Langport,3360,Other
+4078,Castle Camps,652,Other
+4079,Westerfield,486,Other
+4080,Chew Stoke,786,Other
+4081,Isham,778,Other
+4082,Wetherden,582,Other
+4083,Owston Ferry,1210,Other
+4084,Murrow,928,Other
+4085,Thornford,928,Other
+4086,Great Wilbraham,686,Other
+4087,Tavistock,12545,Other
+4088,Chopwell,2966,Other
+4089,Newnham (Daventry),558,Other
+4090,Wooler,2036,Other
+4091,Tetford,484,Other
+4092,Childswickham,952,Other
+4093,Cavendish,850,Other
+4094,Corringham (West Lindsey),466,Other
+4095,Hadlow Down,433,Other
+4096,Codsall,11886,Other
+4097,Monk Sherborne,257,Other
+4098,Bradworthy,714,Other
+4099,Longcot,626,Other
+4100,Stoke Wood,353,Other
+4101,Kimbolton,1080,Other
+4102,Kidmore End,351,Other
+4103,Marnhull,1442,Other
+4104,Battisford Tye,519,Other
+4105,Langtoft (East Riding of Yorkshire),473,Other
+4106,Kinoulton,786,Other
+4107,Fletching,284,Other
+4108,Troston,381,Other
+4109,Linkhill,365,Other
+4110,Frizington,1769,Other
+4111,Flore,1364,Other
+4112,Brampton (Huntingdonshire),5462,Other
+4113,Lee Mill,512,Other
+4114,Acton Bridge,389,Other
+4115,Swanton Morley,900,Other
+4116,Berrick Salome,331,Other
+4117,Wentworth,338,Other
+4118,Garboldisham,536,Other
+4119,Cockermouth,9495,Other
+4120,Wiggenhall St Mary Magdalen,715,Other
+4121,North Boarhunt,895,Other
+4122,Blandford Forum,12363,Other
+4123,Indian Queens,4304,Other
+4124,Sherfield on Loddon,1369,Other
+4125,Ryton-on-Dunsmore,1846,Other
+4126,South Cave,3962,Other
+4127,Bunwell,586,Other
+4128,Wick (Wychavon),429,Other
+4129,Bulphan,1028,Other
+4130,Tibshelf,4111,Other
+4131,Sittingbourne,53554,Medium Town
+4132,Warninglid,236,Other
+4133,Fen Drayton,852,Other
+4134,Colsterworth,1311,Other
+4135,Buxton (High Peak),22437,Other
+4136,Motcombe,981,Other
+4137,West Hill,2015,Other
+4138,Newhaven,14118,Other
+4139,Hadleigh,8825,Other
+4140,Thetford,27290,Medium Town
+4141,Goudhurst,1152,Other
+4142,Colerne Airfield,2673,Other
+4143,Winchcombe,5347,Other
+4144,Tollesbury,2813,Other
+4145,Woolhampton,841,Other
+4146,Billingshurst,7989,Other
+4147,Barns Green,1049,Other
+4148,Annfield Plain,10894,Other
+4149,Kingswood (Maidstone),1598,Other
+4150,Emsworth,20046,Other
+4151,Bognor Regis,70309,Other
+4152,Tarleton,8624,Other
+4153,Lilleshall,1000,Other
+4154,Westbury (Wiltshire),18057,Other
+4155,Wadhurst,4069,Other
+4156,Clenchwarton,1679,Other
+4157,Bromeswell,436,Other
+4158,Bromley Cross,476,Other
+4159,Strensall,5998,Other
+4160,Milbourne,379,Other
+4161,Dymchurch,3262,Other
+4162,Mobberley,2089,Other
+4163,Mileham,634,Other
+4164,Newdigate,804,Other
+4165,Keswick (North Norfolk),1528,Other
+4166,Liss,6519,Other
+4167,Towcester,10354,Other
+4168,Horton (Windsor and Maidenhead),1161,Other
+4169,Seascale,1794,Other
+4170,Dalton,754,Other
+4171,Thornley,2701,Other
+4172,Totnes,8844,Other
+4173,Cliffs End,2796,Other
+4174,Jaywick,5165,Other
+4175,Sharpness,1260,Other
+4176,Treviscoe,636,Other
+4177,Kingsley (East Hampshire),632,Other
+4178,Hinckley,49741,Medium Town
+4179,Culworth,441,Other
+4180,Rangeworthy,530,Other
+4181,Rushmoor,880,Other
+4182,Yarm,19896,Other
+4183,Prees,1050,Other
+4184,Princes Risborough,8101,Other
+4185,Ramsdell,390,Other
+4186,Sturton le Steeple,529,Other
+4187,Seaham,22578,Other
+4188,Hexham,11378,Other
+4189,Scunthorpe,83583,Other
+4190,Belper,23891,Other
+4191,Badersfield,1988,Other
+4192,Pollington,816,Other
+4193,Littleport,9053,Other
+4194,Freckleton,8628,Other
+4195,Paslow Wood Common,320,Other
+4196,Perranwell,1336,Other
+4197,East Kirkby,312,Other
+4198,Arundel,3240,Other
+4199,Cliffe,2467,Other
+4200,Ewyas Harold,1062,Other
+4201,Berwick-upon-Tweed,13516,Other
+4202,Wickham,2300,Other
+4203,Hensall,842,Other
+4204,Menwith Hill Camp,425,Other
+4205,Woodbury Salterton,645,Other
+4206,Aldbrough St John,401,Other
+4207,Stratford-upon-Avon,30543,Medium Town
+4208,Hepworth,565,Other
+4209,Wickham Bishops,3894,Other
+4210,Wombourne,13680,Other
+4211,Scamblesby,272,Other
+4212,Little Kingshill,1488,Other
+4213,Upchurch,1304,Other
+4214,Burgess Hill,32495,Medium Town
+4215,Spalding,36334,Medium Town
+4216,Morcombelake,362,Other
+4217,Frampton on Severn,1432,Other
+4218,Newport (East Riding of Yorkshire),1518,Other
+4219,Ampthill,22089,Other
+4220,Althorne,1177,Other
+4221,Barnard Castle,7256,Other
+4222,Matlock,15864,Other
+4223,Donisthorpe,1972,Other
+4224,Furzehill,346,Other
+4225,Aveley,9461,Other
+4226,Morpeth,15130,Other
+4227,Shenley,4249,Other
+4228,Netheravon,1363,Other
+4229,South Mimms,907,Other
+4230,Fakenham,8614,Other
+4231,Fleet Hargate,1244,Other
+4232,Newton Ferrers,1297,Other
+4233,Kirkbride,513,Other
+4234,Bransgore,3855,Other
+4235,Ripley,1493,Other
+4236,Saxilby,4205,Other
+4237,Lydney,9386,Other
+4238,Bunbury,1192,Other
+4239,Cleator Moor,6752,Other
+4240,Mylor Bridge,1719,Other
+4241,Aspull,4877,Other
+4242,Lydiard Millicent,1003,Other
+4243,Brentwood,55285,Medium Town
+4244,Morton (South Kesteven),2532,Other
+4245,Haytor Vale,271,Other
+4246,Swanbourne,432,Other
+4247,Appleton,974,Other
+4248,Warrington,172684,Other
+4249,Coleshill (North Warwickshire),6677,Other
+4250,Lower Stondon,4485,Other
+4251,Langham (Colchester),780,Other
+4252,Crossways,2446,Other
+4253,Winsford (Cheshire West and Chester),31434,Medium Town
+4254,Oxton,562,Other
+4255,Witchford,2257,Other
+4256,Wrotham,2032,Other
+4257,Cranwell RAF College and Airfield,1485,Other
+4258,Bovington Camp,2732,Other
+4259,Kirkby,43796,Medium Town
+4260,Alcester,7242,Other
+4261,Mottram St Andrew,314,Other
+4262,Sandy Down,393,Other
+4263,Desborough,11520,Other
+4264,Biddulph,18049,Other
+4265,Woolaston,835,Other
+4266,Middleton St George,4035,Other
+4267,Featherstone (Wakefield),11959,Other
+4268,Foulridge,1108,Other
+4269,Richings Park,2194,Other
+4270,Brockley,457,Other
+4271,Witney,30518,Medium Town
+4272,Ottery St Mary,5618,Other
+4273,Hawkhurst,4103,Other
+4274,Liskeard,9552,Other
+4275,Faversham,20606,Other
+4276,Knaith Park,334,Other
+4277,St Bees,1525,Other
+4278,Market Harborough,26059,Medium Town
+4279,Swanage,10658,Other
+4280,Flintham,275,Other
+4281,Greystoke,647,Other
+4282,Hambledon,726,Other
+4283,Bassingbourn Barracks,330,Other
+4284,Lydbrook,1931,Other
+4285,Yelverton,3750,Other
+4286,Hutton Cranswick,1668,Other
+4287,Bletchingley,2381,Other
+4288,Boars Hill,544,Other
+4289,Evesham,28482,Medium Town
+4290,Canvey Island,38849,Medium Town
+4291,Great Malvern,38204,Medium Town
+4292,Dunkeswell,1494,Other
+4293,Teffont Magna,265,Other
+4294,Awbridge,751,Other
+4295,Seend,251,Other
+4296,Kirton Holme,359,Other
+4297,Upwell,4517,Other
+4298,Hunwick,1252,Other
+4299,Cambourne,10487,Other
+4300,Hellingly,951,Other
+4301,Ruishton,1572,Other
+4302,Sutterton,1489,Other
+4303,Salisbury,46292,Medium Town
+4304,The City,512,Other
+4305,Benenden,825,Other
+4306,Box Hill,1320,Other
+4307,Holme (Huntingdonshire),627,Other
+4308,Salcombe,1674,Other
+4309,South Hiendley,1869,Other
+4310,St Dennis,2430,Other
+4311,Hawley,1784,Other
+4312,Lowestoft,73800,Other
+4313,Leake Commonside,437,Other
+4314,Honington Airfield,1138,Other
+4315,Lifton,1211,Other
+4316,High Halden,1191,Other
+4317,Bourne End,254,Other
+4318,Crewkerne,8025,Other
+4319,Ilkley,14811,Other
+4320,Little Bealings,464,Other
+4321,Belton (North Lincolnshire),2668,Other
+4322,Millison's Wood,619,Other
+4323,Shawbury,2206,Other
+4324,Skegness,25641,Medium Town
+4325,Malmesbury,7245,Other
+4326,Danbury,6783,Other
+4327,Loftus,4896,Other
+4328,Hickling (North Norfolk),965,Other
+4329,Spencers Wood,5709,Other
+4330,Hydestile,324,Other
+4331,Hereford,63783,Other
+4332,Formby,23207,Other
+4333,Sandbach,20755,Other
+4334,Edwinstowe,5261,Other
+4335,St Ives (Cornwall),9505,Other
+4336,Flookburgh,1263,Other
+4337,Pocklington,9468,Other
+4338,Cheriton,360,Other
+4339,Nalderswood,318,Other
+4340,Melton Mowbray,27670,Medium Town
+4341,Appledore,826,Other
+4342,Brinkworth,454,Other
+4343,Catterick Garrison,12574,Other
+4344,Stanton (St. Edmundsbury),2205,Other
+4345,Chappel,419,Other
+4346,Tonbridge,41624,Medium Town
+4347,Dersingham,4655,Other
+4348,Sible Hedingham,4382,Other
+4349,Wainfleet All Saints,1741,Other
+4350,Albrighton,4690,Other
+4351,Ravenshead,5872,Other
+4352,Harwell Science and Innovation Campus,162,Other
+4353,Bledlow Ridge,777,Other
+4354,Rhodes Minnis,201,Other
+4355,Castle Donington,7266,Other
+4356,Ewhurst,1627,Other
+4357,Barnston (Wirral),725,Other
+4358,Mayfield (Wealden),2179,Other
+4359,Great Leighs,2806,Other
+4360,Kirton in Lindsey,2965,Other
+4361,Knockholt,296,Other
+4362,Lyme Regis,4805,Other
+4363,Springvale,5828,Other
+4364,Penkridge,7993,Other
+4365,Royal National Orthopaedic Hospital,640,Other
+4366,Alveston,2616,Other
+4367,Crowhurst,913,Other
+4368,Bonsall,806,Other
+4369,Eynsham,5042,Other
+4370,Tebworth,434,Other
+4371,Bakewell,3695,Other
+4372,Woolpit,1883,Other
+4373,Winwick,2506,Other
+4374,Upper Rissington,1953,Other
+4375,South Luffenham,500,Other
+4376,Callow Hill,970,Other
+4377,Milton,185,Other
+4378,Far Forest,657,Other
+4379,Donhead St Mary,242,Other
+4380,Boston,46092,Medium Town
+4381,Holbeach Clough,920,Other
+4382,Mortimer,3682,Other
+4383,Cosford Airfield,1378,Other
+4384,Blakeney (Forest of Dean),1570,Other
+4385,Crowborough,21890,Other
+4386,King's Lynn,48691,Medium Town
+4387,Elmswell,4205,Other
+4388,Sissinghurst,1097,Other
+4389,Haywards Heath,38509,Medium Town
+4390,Bridgwater,44394,Medium Town
+4391,St Breward,656,Other
+4392,Radley,2056,Other
+4393,Litton Cheney,341,Other
+4394,Gainsborough,23243,Other
+4395,Dover,45013,Medium Town
+4396,Maidstone,119905,Other
+4397,Elvington Airfield,387,Other
+4398,Ilchester,2096,Other
+4399,Baldwin's Gate,1011,Other
+4400,Bath,103614,Other
+4401,Keele,4682,Other
+4402,Caton,2452,Other
+4403,Kingstone (County of Herefordshire),1414,Other
+4404,Brenchley,1202,Other
+4405,Scarborough,61835,Other
+4406,Oxted,13840,Other
+4407,Church Fenton,1552,Other
+4408,Broad Chalke,654,Other
+4409,Great Totham,738,Other
+4410,Broadwell (West Oxfordshire),106,Other
+4411,Wittering Airfield,2837,Other
+4412,Shepton Mallet,10810,Other
+4413,Overton (Basingstoke and Deane),4152,Other
+4414,Cranmore,296,Other
+4415,West Malling,2223,Other
+4416,Marden (County of Herefordshire),1119,Other
+4417,Alconbury Airfield,412,Other
+4418,Stone (Stafford),16979,Other
+4419,Godmanchester,7120,Other
+4420,Markfield,5069,Other
+4421,Seaton Sluice,3073,Other
+4422,Sywell,1129,Other
+4423,Polesworth,10298,Other
+4424,St Michael's on Wyre,714,Other
+4425,Chadlington,916,Other
+4426,Kingswood (Warwick),1143,Other
+4427,East Huntspill,873,Other
+4428,West Stockwith,628,Other
+4429,Castor,1376,Other
+4430,Wood End (North Warwickshire),2103,Other
+4431,Lympsham,585,Other
+4432,Otford,7303,Other
+4433,Rendlesham,3286,Other
+4434,North Fambridge,846,Other
+4435,Pitstone,4241,Other
+4436,Smarden,670,Other
+4437,Croughton,984,Other
+4438,Kingsbridge,6151,Other
+4439,Tewkesbury,21305,Other
+4440,Stoke Prior,1785,Other
+4441,Worth,671,Other
+4442,Summerbridge,870,Other
+4443,Stelling Minnis,309,Other
+4444,Wilton (Wiltshire),4223,Other
+4445,St Margaret's at Cliffe,2518,Other
+4446,Weyhill,660,Other
+4447,Almodington,567,Other
+4448,Lower Brailes,1019,Other
+4449,Gosforth,938,Other
+4450,Bulford Camp,10704,Other
+4451,Slip End,1413,Other
+4452,Fivehead,562,Other
+4453,Sway,2505,Other
+4454,Staplecross,726,Other
+4455,West Clandon,5452,Other
+4456,Ifold,1195,Other
+4457,Mitcheldean,2870,Other
+4458,Dunston,826,Other
+4459,Prestwood,7146,Other
+4460,Elstead,2615,Other
+4461,Chalton,555,Other
+4462,West Winch,2687,Other
+4463,Cliviger,1419,Other
+4464,Bacton,1380,Other
+4465,Lasham Airfield,192,Other
+4466,Thurston,3075,Other
+4467,Witham on the Hill,223,Other
+4468,Barnstaple,32775,Medium Town
+4469,Wynyard Village,3261,Other
+4470,Bovey Tracey,4754,Other
+4471,Preesall,5384,Other
+4472,Ogbourne St Andrew,374,Other
+4473,Winsley,1560,Other
+4474,Birdham,1205,Other
+4475,Haverigg,1436,Other
+4476,Melksham,19618,Other
+4477,Beech,583,Other
+4478,Gobowen,3377,Other
+4479,Chicksands,1633,Other
+4480,Warminster,17824,Other
+4481,Bridport,13651,Other
+4482,Thame,11565,Other
+4483,Kirton (Newark and Sherwood),258,Other
+4484,Durham,55507,Medium Town
+4485,Wilton Park,341,Other
+4486,Wellow (Isle of Wight),297,Other
+4487,Piddlehinton,442,Other
+4488,Broad Oak (North Dorset),230,Other
+4489,Lockerley,283,Other
+4490,Crockerton,334,Other
+4491,Stoke (Basingstoke and Deane),323,Other
+4492,Lockeridge,294,Other
+4493,Priston,233,Other
+4494,Gundleton,312,Other
+4495,Chedzoy,433,Other
+4496,Hillesley,295,Other
+4497,Nympsfield,417,Other
+4498,Kingston Seymour,404,Other
+4499,Withington (Cotswold),274,Other
+4500,Binton,311,Other
+4501,Chilton (Aylesbury Vale),341,Other
+4502,White Waltham,403,Other
+4503,Winsford (West Somerset),310,Other
+4504,Moreton Pinkney,409,Other
+4505,Wappenham,321,Other
+4506,Eardington,553,Other
+4507,Shutlanger,301,Other
+4508,Tiffield,332,Other
+4509,Aston-By-Stone,358,Other
+4510,Exbourne,379,Other
+4511,Studham,574,Other
+4512,Tur Langton,304,Other
+4513,Bicton,306,Other
+4514,Little Warford,322,Other
+4515,Treburley,281,Other
+4516,Penshurst,813,Other
+4517,Collyweston,550,Other
+4518,Mankinholes,404,Other
+4519,Yarwell,447,Other
+4520,Little Hadham,414,Other
+4521,Burton in Lonsdale,545,Other
+4522,Trottiscliffe,226,Other
+4523,Holywell (Huntingdonshire),308,Other
+4524,Forton,349,Other
+4525,Spridlington,213,Other
+4526,Southrey,220,Other
+4527,Carlton in Cleveland,379,Other
+4528,North Dalton,347,Other
+4529,Leverton,343,Other
+4530,Great Wratting,186,Other
+4531,Alvingham,258,Other
+4532,Chilham,379,Other
+4533,Dunkirk,407,Other
+4534,Beachamwell,365,Other
+4535,Wickham Skeith,322,Other
+4536,Clint Green,372,Other
+4537,Metfield,407,Other
+4538,Three Legged Cross,1485,Other
+4539,Curdridge,981,Other
+4540,Cranbourne,1176,Other
+4541,Sundridge,1375,Other
+4542,Dunnington,3175,Other
+4543,Rowlands Gill,5851,Other
+4544,Bucklow Hill,463,Other
+4545,Botloe's Green,358,Other
+4546,Sibford Ferris,470,Other
+4547,Redcar,38001,Medium Town
+4548,Kidderminster,57929,Medium Town
+4549,Chadderton,36208,Medium Town
+4550,Colyton,2179,Other
+4551,Longbenton,38778,Medium Town
+4552,Elsenham,3120,Other
+4553,Trowse Newton,838,Other
+4554,Mabe Burnthouse,1099,Other
+4555,Sutton,228105,Other
+4556,Hatton,2704,Other
+4557,Watford,141651,Other
+4558,Stevenage,94081,Other
+4559,Farcet,1626,Other
+4560,Ramsbottom,17632,Other
+4561,Bradenstoke,533,Other
+4562,Queniborough,2833,Other
+4563,Collingham,2263,Other
+4564,Breadsall,793,Other
+4565,Tidbury Green,1016,Other
+4566,Holmfirth,22001,Other
+4567,North Benfleet,1844,Other
+4568,Barrow Hill,989,Other
+4569,Shalmsford Street,4121,Other
+4570,Feering,631,Other
+4571,Eye Green,619,Other
+4572,Chalford,6691,Other
+4573,Brundall,4435,Other
+4574,Wanborough,1827,Other
+4575,Copster Green,415,Other
+4576,Church,5187,Other
+4577,Bentley,27297,Medium Town
+4578,Drax,455,Other
+4579,Wednesbury,19404,Other
+4580,Bursledon,7713,Other
+4581,Hyde (Tameside),35576,Medium Town
+4582,Kilburn,4522,Other
+4583,Swanland,3921,Other
+4584,Ironville,1930,Other
+4585,Sedbury,3708,Other
+4586,Clayton-le-Moors,8166,Other
+4587,Birstall,13793,Other
+4588,Urmston,42114,Medium Town
+4589,Littlewick Green,236,Other
+4590,Billington,1545,Other
+4591,Midhurst,5335,Other
+4592,Elmbridge Village,542,Other
+4593,Lingwood,2566,Other
+4594,Poynton,15407,Other
+4595,York,164369,Other
+4596,Hindley,24853,Other
+4597,Stretton,1003,Other
+4598,Claydon,3231,Other
+4599,Horspath,1426,Other
+4600,Duffield,5208,Other
+4601,Innsworth,14707,Other
+4602,Lewisham,306424,Other
+4603,Yarmouth,482,Other
+4604,Bicknacre,2241,Other
+4605,Leeming Bar,1098,Other
+4606,New Hartley,1831,Other
+4607,Hill Dale,271,Other
+4608,Uppermill,13666,Other
+4609,Shaldon,1759,Other
+4610,Great Knowley,753,Other
+4611,Seaton Delaval,8291,Other
+4612,Coddington,1767,Other
+4613,Sedgley,31224,Medium Town
+4614,Sandy,11818,Other
+4615,Launceston,9317,Other
+4616,Brinsley,5157,Other
+4617,Elton,3539,Other
+4618,Kensington and Chelsea,156129,Other
+4619,Stock,1560,Other
+4620,Trewoon,1259,Other
+4621,Sonning Common,4801,Other
+4622,Great Moulton,383,Other
+4623,Gorleston-on-Sea,24839,Other
+4624,Maynard's Green,369,Other
+4625,Wootton (Bedford),5463,Other
+4626,Broadbridge Heath,5869,Other
+4627,North Ascot,10403,Other
+4628,Walton-on-the-Naze,12557,Other
+4629,West Hendred,391,Other
+4630,Sprotbrough,3337,Other
+4631,Meare Green,361,Other
+4632,Borrowash,7348,Other
+4633,Catsfield,668,Other
+4634,Yaverland,406,Other
+4635,St Merryn Holiday Village,397,Other
+4636,Dunscroft,14130,Other
+4637,Ravenshall,392,Other
+4638,Great Kingshill,1674,Other
+4639,Wandsworth,330802,Other
+4640,Norton,1630,Other
+4641,Whiteshill,498,Other
+4642,Halstead,630,Other
+4643,Effingham,241,Other
+4644,Hardington Mandevil,276,Other
+4645,Fence Houses,6872,Other
+4646,Gastard,258,Other
+4647,Cliffe,669,Other
+4648,Ware,20092,Other
+4649,Itchen Abbas,502,Other
+4650,Northam,10857,Other
+4651,Walton,3174,Other
+4652,Farnborough,65370,Other
+4653,Clutton,1503,Other
+4654,Rowhedge,2213,Other
+4655,Fordingbridge,4433,Other
+4656,Birdwell,4014,Other
+4657,Great Corby,546,Other
+4658,Baldock,10624,Other
+4659,Letchworth Garden City,34503,Medium Town
+4660,Nether Padley,285,Other
+4661,Lower Farringdon,310,Other
+4662,Worsthorne,1008,Other
+4663,Goosnargh,1005,Other
+4664,Chorley,38958,Medium Town
+4665,Guiseley,12320,Other
+4666,Waverton,4121,Other
+4667,Sharpthorne,685,Other
+4668,Mundford,1643,Other
+4669,Maidenhead,68117,Other
+4670,Fishbourne,2614,Other
+4671,Little Shelford,851,Other
+4672,New Longton,2594,Other
+4673,Hartley (Tunbridge Wells),444,Other
+4674,Perranporth,3198,Other
+4675,Basingstoke,114402,Other
+4676,Causeway End,357,Other
+4677,Chipping Campden,2130,Other
+4678,Little Irchester,329,Other
+4679,Swanley,17423,Other
+4680,Horwich,19764,Other
+4681,Thornton (Wyre),20021,Other
+4682,Ruddington,7651,Other
+4683,Minster (Thanet),3118,Other
+4684,Westfield,774,Other
+4685,Chorleywood,13434,Other
+4686,Shevington Vale,5124,Other
+4687,South Harting,774,Other
+4688,Hemingford Grey,3640,Other
+4689,Broadmayne,909,Other
+4690,Hedon,8401,Other
+4691,Newlyn,3521,Other
+4692,Worthing,115191,Other
+4693,Hackleton,1085,Other
+4694,Hipsburn,720,Other
+4695,Eye (City of Peterborough),3998,Other
+4696,Tiptoe,459,Other
+4697,Saltdean,13258,Other
+4698,Great Blakenham,2117,Other
+4699,Crockenhill,1541,Other
+4700,Bottom Boat,1178,Other
+4701,Romiley,35329,Medium Town
+4702,Clifton (City of Nottingham),22822,Other
+4703,South Elmsall,11301,Other
+4704,Bignall End,3336,Other
+4705,Lambeth,326034,Other
+4706,Wretton,329,Other
+4707,Nutley,1284,Other
+4708,Cheswick Green,2355,Other
+4709,Hutton Rudby,1607,Other
+4710,Ashton-in-Makerfield,28283,Medium Town
+4711,Dunholme,2096,Other
+4712,Islington,242705,Other
+4713,Frinton-on-Sea,4789,Other
+4714,Prescot,38570,Medium Town
+4715,Devoran,631,Other
+4716,Morgan's Vale,2584,Other
+4717,Sale,138206,Other
+4718,Barnt Green,3749,Other
+4719,South Kirkby,9019,Other
+4720,Hartfield,675,Other
+4721,South Horrington,777,Other
+4722,Compton,1301,Other
+4723,Barnby Dun,3287,Other
+4724,Botley (Chiltern),677,Other
+4725,Eccles,41552,Medium Town
+4726,Welton,4509,Other
+4727,Cottingham,15079,Other
+4728,Grain,1600,Other
+4729,Blunsdon St Andrew,2365,Other
+4730,Distington,1441,Other
+4731,Newburgh,1027,Other
+4732,Ramsden Heath,1984,Other
+4733,Ruddington Grange,205,Other
+4734,Sunningwell,420,Other
+4735,Dewsbury,66875,Other
+4736,Flax Bourton,326,Other
+4737,Syston,14175,Other
+4738,Morley,29893,Medium Town
+4739,Bickershaw,859,Other
+4740,Staining,1650,Other
+4741,Lyneham Airfield,4849,Other
+4742,Gillingham,108584,Other
+4743,Tollerton,1655,Other
+4744,Wargrave,2802,Other
+4745,Lynemouth,1761,Other
+4746,Pelton,5833,Other
+4747,Rothwell,19225,Other
+4748,Althorpe,390,Other
+4749,Coldfair Green,790,Other
+4750,Reepham,908,Other
+4751,Aldershot,58511,Medium Town
+4752,Ovingham,1219,Other
+4753,Puriton,1672,Other
+4754,Long Duckmanton,616,Other
+4755,Sibford Gower,533,Other
+4756,Weldon,4245,Other
+4757,Hale (New Forest),252,Other
+4758,Weeley,1271,Other
+4759,Old Arley,551,Other
+4760,Cradley,262,Other
+4761,Netherne On-The-Hill,1565,Other
+4762,Dunstable,34157,Medium Town
+4763,Trimley St Mary,5977,Other
+4764,Braunton,7479,Other
+4765,Warden,1826,Other
+4766,Great Chishill,633,Other
+4767,Marldon,2059,Other
+4768,Hazel Grove,19543,Other
+4769,Northfleet,30060,Medium Town
+4770,Betchworth,590,Other
+4771,Fen End,242,Other
+4772,Halton,833,Other
+4773,New Milton,20463,Other
+4774,Heckmondwike,12592,Other
+4775,Dormansland,2159,Other
+4776,Chew Moor,853,Other
+4777,Ottershaw,3449,Other
+4778,Caldecote,1917,Other
+4779,Brookwood,1382,Other
+4780,Ashtead,14460,Other
+4781,Fradley,667,Other
+4782,Southam,944,Other
+4783,Wyke,263,Other
+4784,Middleton (Ryedale),399,Other
+4785,The Sands,390,Other
+4786,St Day,2196,Other
+4787,Altrincham,56112,Medium Town
+4788,Moulsford,530,Other
+4789,Cleadon,4467,Other
+4790,Hullbridge,6068,Other
+4791,Bilston,33518,Medium Town
+4792,Woodbridge,11715,Other
+4793,Bramford,1847,Other
+4794,Steeton,4770,Other
+4795,Winchester,48603,Medium Town
+4796,Histon,8425,Other
+4797,Chelwood Gate,605,Other
+4798,Denton,36089,Medium Town
+4799,Plymstock,26115,Medium Town
+4800,Ash,369,Other
+4801,Irlam,20264,Other
+4802,Bedworth,31134,Medium Town
+4803,Southwell,1666,Other
+4804,Brighton and Hove,244917,Other
+4805,Grayswood,520,Other
+4806,Whickham,16000,Other
+4807,Lostock Gralam,2646,Other
+4808,Eastchurch,663,Other
+4809,Sunniside,3135,Other
+4810,Tutts Clump,303,Other
+4811,Kirkby-in-Ashfield,28650,Medium Town
+4812,Yatton,6981,Other
+4813,Woodham Ferrers,615,Other
+4814,Denby Bottles,1216,Other
+4815,North Littleton,556,Other
+4816,Lower Langford,332,Other
+4817,Campton,318,Other
+4818,Buckfastleigh,3420,Other
+4819,Abbotts Ann,581,Other
+4820,Tickton,1389,Other
+4821,Middleton (Rochdale),44973,Medium Town
+4822,Swinton,25248,Medium Town
+4823,Sandhurst,20590,Other
+4824,St Austell,26037,Medium Town
+4825,Swallownest,15166,Other
+4826,Stoke Poges,4069,Other
+4827,Streatley,958,Other
+4828,Dudley (Dudley),84813,Other
+4829,Reydon,2706,Other
+4830,Charlton Mackrell,368,Other
+4831,Finchampstead,654,Other
+4832,Pilsley,2331,Other
+4833,Great Harwood,10990,Other
+4834,Witton Gilbert,2564,Other
+4835,Tintwistle,1365,Other
+4836,Clayton West,4248,Other
+4837,Potten End,1351,Other
+4838,Groby,6844,Other
+4839,Knottingley,14569,Other
+4840,Stowupland,1845,Other
+4841,Cullompton,8407,Other
+4842,Wednesfield,25374,Medium Town
+4843,Stoke Ferry,1164,Other
+4844,Waterbeach,5480,Other
+4845,Farley Green,419,Other
+4846,Bay View,663,Other
+4847,Holywell Row,610,Other
+4848,Hooley,1023,Other
+4849,Queen's Hills,5685,Other
+4850,Fairford Airfield,744,Other
+4851,Boxted Cross,651,Other
+4852,Longlane,464,Other
+4853,Kennington,4629,Other
+4854,Little Burstead,208,Other
+4855,Ainsworth,1584,Other
+4856,Ince-in-Makerfield,12982,Other
+4857,Freshford,330,Other
+4858,Rayne,2201,Other
+4859,Holme-on-Spalding-Moor,2483,Other
+4860,Salford,122657,Other
+4861,Halifax,92923,Other
+4862,Cambridge Batch,387,Other
+4863,Elmesthorpe,723,Other
+4864,Backwell,4271,Other
+4865,Towngate,1284,Other
+4866,Crowthorne,14790,Other
+4867,Tokers Green,327,Other
+4868,Trowell,940,Other
+4869,Broadley Common,481,Other
+4870,Bromsgrove,36215,Medium Town
+4871,Holcombe,582,Other
+4872,Little Eaton,1998,Other
+4873,Grindleford,601,Other
+4874,Little Singleton,414,Other
+4875,Woodcroft,274,Other
+4876,Scawthorpe,235,Other
+4877,Cheapside,763,Other
+4878,St Blazey,10263,Other
+4879,Boorley Green,1248,Other
+4880,Thearne,455,Other
+4881,New Brancepeth,1293,Other
+4882,Gatley,21627,Other
+4883,Bloxwich,52240,Medium Town
+4884,Beeston (Central Bedfordshire),804,Other
+4885,Kelly Bray,1184,Other
+4886,Crow,146,Other
+4887,Pickering,6982,Other
+4888,South Hetton,3086,Other
+4889,West Itchenor,309,Other
+4890,East Hanney,1051,Other
+4891,Woburn Sands,6605,Other
+4892,Heathfield,8153,Other
+4893,Balderton,3278,Other
+4894,Wivelsfield Green,952,Other
+4895,Collett's Green,1325,Other
+4896,High Lane,4625,Other
+4897,Euxton,8008,Other
+4898,Weston,6232,Other
+4899,Parkeston,913,Other
+4900,Kingswinford,51099,Medium Town
+4901,Uckfield,16187,Other
+4902,Wells,11244,Other
+4903,Hetton-le-Hole,12685,Other
+4904,Danesfield,525,Other
+4905,Trowbridge,43451,Medium Town
+4906,Redhill,37818,Medium Town
+4907,Addlestone,18084,Other
+4908,Weston Rhyn,2008,Other
+4909,Cherry Willingham,3411,Other
+4910,Ushaw Moor,4278,Other
+4911,Haydock,16340,Other
+4912,Denstone,1142,Other
+4913,Moore,575,Other
+4914,Bedmond,991,Other
+4915,Ashley,655,Other
+4916,Stapleford Abbotts,666,Other
+4917,Stonnall,1317,Other
+4918,Ballinger Common,398,Other
+4919,Houghton,1139,Other
+4920,Pye Bridge,305,Other
+4921,Coleford,5573,Other
+4922,Broadbottom,981,Other
+4923,Smethwick,53663,Medium Town
+4924,Sutton in Ashfield,48527,Medium Town
+4925,Kidlington,15235,Other
+4926,Jacksdale,3097,Other
+4927,Honey Hill,427,Other
+4928,Choppington,1026,Other
+4929,Chigwell,11025,Other
+4930,Ossett,22005,Other
+4931,Mansfield Woodhouse,18713,Other
+4932,Langley,610,Other
+4933,Southend-on-Sea,185111,Other
+4934,Ramsden,344,Other
+4935,Earswick,973,Other
+4936,Grassington,1165,Other
+4937,Crowmarsh Gifford,1199,Other
+4938,Girton,2217,Other
+4939,Netherton,3539,Other
+4940,Brierley Hill,32149,Medium Town
+4941,Wallasey,60866,Other
+4942,George Green,971,Other
+4943,Tye Green (Braintree),1155,Other
+4944,St Piers School,476,Other
+4945,Harwich,21041,Other
+4946,Barrow upon Soar,6898,Other
+4947,Kendal,29672,Medium Town
+4948,South Shields,76862,Other
+4949,Arborfield Garrison,2960,Other
+4950,Langley Heath,1053,Other
+4951,East Goscote,2881,Other
+4952,Carnon Downs,1449,Other
+4953,Goldsithney,1674,Other
+4954,Fryerning,323,Other
+4955,Morton (North East Derbyshire),1290,Other
+4956,Scotby,2388,Other
+4957,Corsham,13978,Other
+4958,Carharrack,1451,Other
+4959,Carlton (Leeds),1109,Other
+4960,Mirfield,19780,Other
+4961,Coppull,8370,Other
+4962,Norwich,197212,Other
+4963,Almondsbury,884,Other
+4964,Highleigh,314,Other
+4965,Higham Ferrers,9015,Other
+4966,Sandford,2085,Other
+4967,Norton-on-Derwent,8077,Other
+4968,Gibraltar,545,Other
+4969,Welham Green,3040,Other
+4970,Stourbridge,64931,Other
+4971,Darfield,515,Other
+4972,Westhoughton,23840,Other
+4973,Carlton (Suffolk Coastal),600,Other
+4974,Felixstowe,24437,Other
+4975,Melton Constable,1208,Other
+4976,Coldeast,1234,Other
+4977,Bromley,328023,Other
+4978,Streethouse,1707,Other
+4979,Yate,30397,Medium Town
+4980,Sutton Abinger,385,Other
+4981,Goldthorpe,6186,Other
+4982,Whitehaven,23430,Other
+4983,Baildon,15806,Other
+4984,Shefford,7130,Other
+4985,Lees,12776,Other
+4986,Clifton (Central Bedfordshire),2656,Other
+4987,Steyning,6512,Other
+4988,Liddington,424,Other
+4989,New Arley,1963,Other
+4990,St Margarets,3751,Other
+4991,Ightham,2109,Other
+4992,Broom,590,Other
+4993,Nuneaton,90429,Other
+4994,Minchinhampton,3138,Other
+4995,Kirby Hill,555,Other
+4996,Wisbech,34655,Medium Town
+4997,Little Waltham,971,Other
+4998,Chatham,80820,Other
+4999,Lingfield,3652,Other
+5000,Great Eccleston,1252,Other
+5001,Dukinfield,21310,Other
+5002,Winchelsea,521,Other
+5003,Bolingey,324,Other
+5004,Falmouth,23957,Other
+5005,Springwell,2184,Other
+5006,Copmanthorpe,3656,Other
+5007,How Wood,6958,Other
+5008,Bugle,2417,Other
+5009,Farnworth,28384,Medium Town
+5010,Grassmoor,3377,Other
+5011,Sutton Weaver,492,Other
+5012,Sawbridgeworth,10579,Other
+5013,Lower Shiplake,1453,Other
+5014,Higham on the Hill,982,Other
+5015,Whitstable,33236,Medium Town
+5016,Burley Street,399,Other
+5017,Cleckheaton,11983,Other
+5018,Halesowen,59669,Medium Town
+5019,Nailsea,15936,Other
+5020,Haringey,268647,Other
+5021,Edenfield,2100,Other
+5022,Farndon (Newark and Sherwood),2406,Other
+5023,Ashford (Spelthorne),28862,Medium Town
+5024,Ashurst,3195,Other
+5025,Sutton Coldfield,107531,Other
+5026,Hughenden Valley,1872,Other
+5027,Northwood,5796,Other
+5028,Manchester,563561,Other
+5029,Narborough/Enderby,14096,Other
+5030,Brize Norton,685,Other
+5031,Begbroke,757,Other
+5032,Great Notley,7845,Other
+5033,North Wingfield,9527,Other
+5034,Sutton Courtenay,2890,Other
+5035,Matlock Bath,673,Other
+5036,Maresfield,1417,Other
+5037,St Eval,870,Other
+5038,Snaith,3027,Other
+5039,Hardwick Wood,262,Other
+5040,Burnley,83364,Other
+5041,Soham,10455,Other
+5042,Eldon Lane,1005,Other
+5043,Wolviston,830,Other
+5044,Hatfield,45390,Medium Town
+5045,Griffydam,330,Other
+5046,Callington,4745,Other
+5047,West Hanney,618,Other
+5048,Bristol International Airport,136,Other
+5049,Burnham-on-Sea,23948,Other
+5050,Ingatestone,5565,Other
+5051,Broad Oak (Canterbury),840,Other
+5052,Bingley,22740,Other
+5053,Marlow Bottom,3277,Other
+5054,Great Gransden,947,Other
+5055,Blackwater,7343,Other
+5056,Crosby,50193,Medium Town
+5057,Whitehill,1608,Other
+5058,Sandown,12074,Other
+5059,Water,822,Other
+5060,Dunswell,477,Other
+5061,Frating Green,274,Other
+5062,Buckland,297,Other
+5063,Osgodby,867,Other
+5064,Havering's Grove,366,Other
+5065,Hessle,14706,Other
+5066,Heydon,225,Other
+5067,Rudgwick,2065,Other
+5068,Mappleborough Green,383,Other
+5069,Horbling,490,Other
+5070,Bishop Auckland,25433,Medium Town
+5071,Immingham,11158,Other
+5072,Leadgate,4211,Other
+5073,Clifford,1320,Other
+5074,Siddington,850,Other
+5075,Leysdown-on-Sea,920,Other
+5076,Rhodes,3008,Other
+5077,Downham,341,Other
+5078,South Ferriby,651,Other
+5079,Kelsall,2733,Other
+5080,Bootle,52835,Medium Town
+5081,Stenalees,768,Other
+5082,Lower Upham,433,Other
+5083,Alverstone Garden Village,483,Other
+5084,Dormans Park,746,Other
+5085,Blackhall Colliery,4547,Other
+5086,Ruardean,1226,Other
+5087,Threemilestone,2840,Other
+5088,City of Westminster,260591,Other
+5089,Tutbury,3426,Other
+5090,Cosby,3511,Other
+5091,Brough,13498,Other
+5092,Ouston,5139,Other
+5093,Polegate,10806,Other
+5094,Curridge,388,Other
+5095,Haworth,6259,Other
+5096,Hurley,711,Other
+5097,Ryarsh,330,Other
+5098,Gamesley,3297,Other
+5099,Northill,342,Other
+5100,Pirbright,976,Other
+5101,Yorkletts,439,Other
+5102,Chirk Bank,564,Other
+5103,Islip,829,Other
+5104,Great Wyrley,18467,Other
+5105,Thrapston,6752,Other
+5106,Lympne,1427,Other
+5107,Broadstairs,24517,Other
+5108,Manton,300,Other
+5109,Banstead,10643,Other
+5110,West Wellow,1772,Other
+5111,Cheadle,14077,Other
+5112,Waltham,5795,Other
+5113,Holton,517,Other
+5114,Rawtenstall,24519,Other
+5115,Houghton Regis,18700,Other
+5116,Rowley Regis,35791,Medium Town
+5117,Workington,22406,Other
+5118,Chipping Sodbury,4671,Other
+5119,Ashmore Green,805,Other
+5120,Runcton,654,Other
+5121,Betley,657,Other
+5122,Billingham,34169,Medium Town
+5123,Norton Fitzwarren,3050,Other
+5124,Hebburn,20589,Other
+5125,Midsomer Norton,13882,Other
+5126,Eye (Mid Suffolk),2361,Other
+5127,Brent,330021,Other
+5128,Millhouse Green,1262,Other
+5129,Higham,2609,Other
+5130,Aldridge,39466,Medium Town
+5131,Kimberley,11736,Other
+5132,Macclesfield,56366,Medium Town
+5133,Windsor,32640,Medium Town
+5134,Smallford,336,Other
+5135,Henlow,2502,Other
+5136,Fernhurst,1834,Other
+5137,Walkden,22356,Other
+5138,Broad Blunsdon,1549,Other
+5139,Darlaston,20995,Other
+5140,Pondwell,211,Other
+5141,New Houghton,1441,Other
+5142,Heage,2731,Other
+5143,Whitburn,5208,Other
+5144,Leekbrook,447,Other
+5145,Burton Latimer,9778,Other
+5146,East Keswick,1126,Other
+5147,Hucknall,35797,Medium Town
+5148,Crich,1804,Other
+5149,Stoborough Green,893,Other
+5150,Oldbury (Sandwell),25740,Medium Town
+5151,Maypole,2078,Other
+5152,Dodworth,6124,Other
+5153,Porton,885,Other
+5154,Heskin Green,399,Other
+5155,New Gate,303,Other
+5156,Lanner,2417,Other
+5157,Glapwell,1589,Other
+5158,Eversley,390,Other
+5159,Bearpark,2152,Other
+5160,Stalybridge,27081,Medium Town
+5161,Stapleford,16585,Other
+5162,Felton,645,Other
+5163,Moorends,5545,Other
+5164,North Ferriby,3647,Other
+5165,Headley Down,5081,Other
+5166,Bury St Edmunds,41554,Medium Town
+5167,Duporth,661,Other
+5168,Odiham,2401,Other
+5169,Willaston,2340,Other
+5170,Nounsley,680,Other
+5171,Romsey,17691,Other
+5172,Rotherfield,1253,Other
+5173,Caterham,23511,Other
+5174,Teversham,915,Other
+5175,Thatcham,26135,Medium Town
+5176,Sheringham,7365,Other
+5177,Carterton,16938,Other
+5178,Newstead,2502,Other
+5179,Holbeach Drove,340,Other
+5180,Badshot Lea,1567,Other
+5181,Eastbourne,114809,Other
+5182,Darwen,27311,Medium Town
+5183,Withnoe,1292,Other
+5184,Shaw (Wiltshire),672,Other
+5185,Welwyn,4042,Other
+5186,Horbury,10567,Other
+5187,Whatton-in-the-Vale,664,Other
+5188,Stanbridge,756,Other
+5189,Byram,1451,Other
+5190,Braintree,43552,Medium Town
+5191,Bawtry,3539,Other
+5192,Fornham St Martin,956,Other
+5193,Great Casterton,557,Other
+5194,Carlton (Gedling),50815,Medium Town
+5195,Stratton,2272,Other
+5196,Woodside,493,Other
+5197,Fiskerton,776,Other
+5198,Hunger Hill,1298,Other
+5199,Wallingford,8232,Other
+5200,Swaffham Bulbeck,276,Other
+5201,Bouldnor,352,Other
+5202,Horsham,51265,Medium Town
+5203,Partridge Green,1938,Other
+5204,Briston,2052,Other
+5205,South Littleton,1173,Other
+5206,Horsham St Faith,1089,Other
+5207,Coalpit Heath,186,Other
+5208,Bacup,14261,Other
+5209,Stanborough,340,Other
+5210,Tyldesley,16640,Other
+5211,Castleford,43625,Medium Town
+5212,Parton,888,Other
+5213,Hampton in Arden,1803,Other
+5214,Woodingdean,9851,Other
+5215,Billingborough,1427,Other
+5216,Heywood,30323,Medium Town
+5217,Landbeach,599,Other
+5218,Bramhall,17254,Other
+5219,Dullingham,803,Other
+5220,Lenham Heath,241,Other
+5221,West Hythe,442,Other
+5222,Hextable,4081,Other
+5223,Hartley (Sevenoaks),16095,Other
+5224,Thurnscoe,9090,Other
+5225,Woldingham,1222,Other
+5226,Radstock,10185,Other
+5227,Yalding,1366,Other
+5228,Gunness,775,Other
+5229,Symonds Yat West,263,Other
+5230,Crawley,112198,Other
+5231,Worsbrough,9247,Other
+5232,Littlehampton,59171,Medium Town
+5233,Tower Hill,340,Other
+5234,Goole,22574,Other
+5235,Ide,553,Other
+5236,Kewstoke,886,Other
+5237,Nettlestone,1908,Other
+5238,Little Gransden,290,Other
+5239,Mexborough,15570,Other
+5240,Threshfield,649,Other
+5241,East Wittering,5734,Other
+5242,Chichester,31730,Medium Town
+5243,Littlethorpe,1781,Other
+5244,Delph,2305,Other
+5245,Sturry,5371,Other
+5246,Otterbourne,1274,Other
+5247,Borough Green,5229,Other
+5248,Stoneyhills,712,Other
+5249,Cromer,8014,Other
+5250,Ewell,54816,Medium Town
+5251,Upham,351,Other
+5252,Sowerby Bridge,4614,Other
+5253,Moor Park,411,Other
+5254,Chivenor Airfield,2383,Other
+5255,High Ackworth,754,Other
+5256,Charlton Adam,696,Other
+5257,Throckley,5821,Other
+5258,Ellington,2424,Other
+5259,Wormley,1485,Other
+5260,Penryn,10499,Other
+5261,Borehamwood,37958,Medium Town
+5262,Dedham Heath,303,Other
+5263,Leigh Woods,620,Other
+5264,Littleworth,302,Other
+5265,Edith Weston,687,Other
+5266,Hyde (New Forest),535,Other
+5267,South Earlswood,4559,Other
+5268,Royton,22992,Other
+5269,Kibworth Harcourt,6910,Other
+5270,Thornton (Bradford),5255,Other
+5271,Pinvin,603,Other
+5272,Cawston,3046,Other
+5273,Shipley,28779,Medium Town
+5274,Shorne Ridgeway,1056,Other
+5275,Terry's Green,339,Other
+5276,Droylsden,24519,Other
+5277,Thorne,12114,Other
+5278,Felcourt,596,Other
+5279,Buckfast,290,Other
+5280,Kingsley Green,301,Other
+5281,Stake Pool,817,Other
+5282,Shireoaks,1442,Other
+5283,Stetchworth,668,Other
+5284,Wharncliffe Side,1408,Other
+5285,Ruardean Woodside,603,Other
+5286,Westonzoyland,1720,Other
+5287,Banbury,47447,Medium Town
+5288,West Parley,353,Other
+5289,Aslockton,1191,Other
+5290,Carr Hall,1160,Other
+5291,Whitley,1850,Other
+5292,Swallowfield,671,Other
+5293,Earlswood,662,Other
+5294,Baker's Wood,991,Other
+5295,Sevenoaks,32120,Medium Town
+5296,Bollington,7691,Other
+5297,Bitterscote,378,Other
+5298,Shevington,5247,Other
+5299,Blackburn,120932,Other
+5300,City of London,9483,Other
+5301,Tilsworth,387,Other
+5302,Kempston,21131,Other
+5303,Cirencester,17055,Other
+5304,Broad Oak (Rother),879,Other
+5305,Westhumble,595,Other
+5306,Chobham,2884,Other
+5307,Colney,193,Other
+5308,East Runton,863,Other
+5309,Hyde Lea,692,Other
+5310,Whetstone,14212,Other
+5311,Barlby,3225,Other
+5312,Pirbright Camp,2672,Other
+5313,Hemingbrough,1919,Other
+5314,Brighouse,33874,Medium Town
+5315,Shotton Colliery,4985,Other
+5316,Walton Highway,1044,Other
+5317,Nelson (Pendle),31722,Medium Town
+5318,Whitefield,21290,Other
+5319,Topsham,3994,Other
+5320,Truro,22623,Other
+5321,Arnold,39495,Medium Town
+5322,Stamford,20649,Other
+5323,Broseley,5363,Other
+5324,Crays Hill,331,Other
+5325,Commercial End,520,Other
+5326,Boroughbridge,3976,Other
+5327,Taunton,63833,Other
+5328,Temple Cloud,1450,Other
+5329,Ashton-under-Lyne,47826,Medium Town
+5330,High Clarence,726,Other
+5331,Eckington,7439,Other
+5332,Marsh Lane,844,Other
+5333,Broad Campden,258,Other
+5334,South Stoke,538,Other
+5335,New Mills,12773,Other
+5336,Bembridge,3665,Other
+5337,Bournmoor,2003,Other
+5338,Great Gonerby,1904,Other
+5339,Oaklands,8169,Other
+5340,Knockholt Pound,926,Other
+5341,Great Doddington,1147,Other
+5342,Gedney Hill,767,Other
+5343,Poole,159449,Other
+5344,Eccleston,4684,Other
+5345,Windermere,5006,Other
+5346,Ackworth Moor Top,6114,Other
+5347,Harden,1507,Other
+5348,Arborfield Cross,761,Other
+5349,Harrowbarrow,669,Other
+5350,Craghead,909,Other
+5351,Brayton,3823,Other
+5352,Brightwell-cum-Sotwell,1200,Other
+5353,Rushden,32372,Medium Town
+5354,Fradley South,2626,Other
+5355,Alsager,14120,Other
+5356,Oswaldtwistle,11443,Other
+5357,Doe Lea,970,Other
+5358,Linford,868,Other
+5359,Horndean,49381,Medium Town
+5360,Martlesham,1490,Other
+5361,Bodicote,3771,Other
+5362,Sandleheath,1575,Other
+5363,Monkton Heathfield,2088,Other
+5364,Great Preston,1656,Other
+5365,Tatling End,332,Other
+5366,Bramley Park,489,Other
+5367,Preston (East Riding of Yorkshire),2146,Other
+5368,Thorpe End,1189,Other
+5369,Frogham,294,Other
+5370,Southwick,12028,Other
+5371,Bathpool,906,Other
+5372,Dartmouth,4912,Other
+5373,Lee Common,351,Other
+5374,Coseley,23286,Other
+5375,Blackminster,166,Other
+5376,Christchurch,56779,Medium Town
+5377,Tyrrell's Wood,128,Other
+5378,Loggerheads,2849,Other
+5379,Salfords,1539,Other
+5380,Hammersmith and Fulham,185314,Other
+5381,Box,1260,Other
+5382,Birkenhead,145775,Other
+5383,Fulwood,35917,Medium Town
+5384,Great Yarmouth,41138,Medium Town
+5385,Easebourne,1797,Other
+5386,Scholes,2346,Other
+5387,Ebford,480,Other
+5388,Hampton Lovett,314,Other
+5389,Ingleby Barwick,22491,Other
+5390,Poyle,3889,Other
+5391,Breaston,7691,Other
+5392,Monkton,782,Other
+5393,Costessey,2573,Other
+5394,North Hykeham,17365,Other
+5395,Eversley Centre,725,Other
+5396,Finstock,796,Other
+5397,Wivelsfield,344,Other
+5398,Rowly,729,Other
+5399,Hattersley,5667,Other
+5400,Merton,206548,Other
+5401,Fairfield,1489,Other
+5402,Rushmere St Andrew,672,Other
+5403,The Bank,640,Other
+5404,West Cowick,329,Other
+5405,Saxmundham,4622,Other
+5406,Camden,269938,Other
+5407,Barton Mills,632,Other
+5408,Winford,1055,Other
+5409,Rearsby,1199,Other
+5410,Wivenhoe,7949,Other
+5411,West Knighton,724,Other
+5412,Upper Beeding,3155,Other
+5413,Didcot,29922,Medium Town
+5414,Birchanger,676,Other
+5415,Chadwell St Mary,10356,Other
+5416,Chilsworthy,300,Other
+5417,Waltham Cross,10910,Other
+5418,Eastwood,19231,Other
+5419,Rosudgeon,507,Other
+5420,Bordon,15708,Other
+5421,Camborne,22630,Other
+5422,Little Abington,506,Other
+5423,Blackheath,6523,Other
+5424,Taverham,15512,Other
+5425,Wood End,334,Other
+5426,Little Lever,12444,Other
+5427,Moor End,293,Other
+5428,Potters Corner,617,Other
+5429,Atherton,73130,Other
+5430,Lane End,3048,Other
+5431,Withnell,886,Other
+5432,West Hill,343,Other
+5433,St Ives,17018,Other
+5434,Powick,400,Other
+5435,Stonebroom,3576,Other
+5436,Birchall,629,Other
+5437,Pill,4867,Other
+5438,Marlborough,8233,Other
+5439,Hambledon,281,Other
+5440,Hertford,29303,Medium Town
+5441,Whelpley Hill,304,Other
+5442,West Bridgford,48856,Medium Town
+5443,Bletchley,39220,Medium Town
+5444,Binley Woods,2466,Other
+5445,Berkhamsted,21719,Other
+5446,Sharlston,2413,Other
+5447,Knaresborough,15442,Other
+5448,Cumnor,863,Other
+5449,Willenhall,53334,Medium Town
+5450,Eton,2245,Other
+5451,Helston,11698,Other
+5452,Cutthorpe,495,Other
+5453,Cleehill,949,Other
+5454,Bulkington,6096,Other
+5455,Eversley Cross,592,Other
+5456,Wilsden,3758,Other
+5457,Cranbrook,3870,Other
+5458,Yaxley,618,Other
+5459,Paley Street,423,Other
+5460,East Morton,1138,Other
+5461,Kelvedon,4782,Other
+5462,Alsagers Bank,1181,Other
+5463,Biggin Hill,2340,Other
+5464,Ramsgate,42040,Medium Town
+5465,Adlington,10235,Other
+5466,Kippax,9692,Other
+5467,Penzance,16296,Other
+5468,Hammerwich,694,Other
+5469,Ford,1116,Other
+5470,Marks Tey,2523,Other
+5471,Sheffield,552143,Other
+5472,Hellaby,767,Other
+5473,Cheadle Hulme,25394,Medium Town
+5474,Radcliffe,31844,Medium Town
+5475,Coalville,37300,Medium Town
+5476,Stoke Mandeville,2914,Other
+5477,Kingswear,450,Other
+5478,Riseley,620,Other
+5479,Garstang,7046,Other
+5480,Cromford,1414,Other
+5481,Tipton,45283,Medium Town
+5482,Wythall,2420,Other
+5483,Piddington,389,Other
+5484,Burstow,268,Other
+5485,Kingston upon Thames,181475,Other
+5486,Woolsington,308,Other
+5487,Stoke sub Hamdon,1632,Other
+5488,Parbold,2578,Other
+5489,Taplow,630,Other
+5490,South Petherton,3084,Other
+5491,Bridlington,35264,Medium Town
+5492,Aspley Heath,615,Other
+5493,Litherland,18902,Other
+5494,Kirkham,13418,Other
+5495,Major's Green,963,Other
+5496,Rudby,416,Other
+5497,Catterall,2651,Other
+5498,Austerfield,549,Other
+5499,Holymoorside,1425,Other
+5500,Waresley,1534,Other
+5501,Upper Farringdon,364,Other
+5502,Barnsley,98924,Other
+5503,Platt Bridge,10773,Other
+5504,Luton,221502,Other
+5505,Wath upon Dearne,36318,Medium Town
+5506,Quorn (Quorndon),5974,Other
+5507,Cold Ash,1771,Other
+5508,Catcliffe,2568,Other
+5509,Styal,456,Other
+5510,Burscough,8952,Other
+5511,Dursley,15952,Other
+5512,Desford,3619,Other
+5513,Greatham,461,Other
+5514,Hackney,280489,Other
+5515,Horsley,809,Other
+5516,Harrogate,74152,Other
+5517,Godalming,23687,Other
+5518,Deepcut,2337,Other
+5519,Enfield,329372,Other
+5520,Kingsteignton,11363,Other
+5521,Shrivenham,2814,Other
+5522,Yapton,4872,Other
+5523,Seer Green,2987,Other
+5524,Rolleston on Dove,2874,Other
+5525,Lower Pilsley,1358,Other
+5526,Bebington,58427,Medium Town
+5527,East Cowes,7572,Other
+5528,Frampton Cotterell/Winterbourne,15230,Other
+5529,St Ann's Chapel,925,Other
+5530,Robin Hood,3563,Other
+5531,Cringleford,4776,Other
+5532,Norton sub Hamdon,692,Other
+5533,Long Eaton,39387,Medium Town
+5534,West Bromwich (East),20073,Other
+5535,Bidford-on-Avon,5342,Other
+5536,Bolton Upon Dearne,6845,Other
+5537,Fritchley,532,Other
+5538,Lytham St Anne's,44464,Medium Town
+5539,Wellington,12924,Other
+5540,Shavington,4121,Other
+5541,Ickwell,293,Other
+5542,Failsworth,18843,Other
+5543,Skelmanthorpe,4746,Other
+5544,Warton,1768,Other
+5545,Haslingden,16560,Other
+5546,Grimsargh,2479,Other
+5547,Colyford,615,Other
+5548,Heysham,16704,Other
+5549,Hordle,1452,Other
+5550,Chickerell,3372,Other
+5551,Wetheral,1062,Other
+5552,Cleethorpes,38562,Medium Town
+5553,Walton-on-Thames,69213,Other
+5554,Pudsey,33766,Medium Town
+5555,Grayshott,7234,Other
+5556,Brigsley,375,Other
+5557,Culdrose Airfield,1024,Other
+5558,Oldbury (Shropshire),360,Other
+5559,Todwick,1682,Other
+5560,Launton,1339,Other
+5561,Smeeton Westerby,349,Other
+5562,Cross in Hand,793,Other
+5563,Chilham,458,Other
+5564,Altham,385,Other
+5565,Cackle Street,577,Other
+5566,Middleyard,630,Other
+5567,Keevil,451,Other
+5568,Pontefract,31280,Medium Town
+5569,Stretford,27574,Medium Town
+5570,Menston,4322,Other
+5571,Summit,1673,Other
+5572,Collingtree,689,Other
+5573,Winchelsea Beach,923,Other
+5574,Brinscall,1427,Other
+5575,Boston Spa,5011,Other
+5576,Barnet,398505,Other
+5577,Teignmouth,15671,Other
+5578,Trawden,1962,Other
+5579,Ickleford,1835,Other
+5580,Crewe,74949,Other
+5581,West Walton,662,Other
+5582,Gravesend,58640,Medium Town
+5583,Rowlands Castle,2651,Other
+5584,Hatfield Peverel,3189,Other
+5585,Frimley,19385,Other
+5586,Saham Toney,1550,Other
+5587,Palgrave,937,Other
+5588,Tye Green (Colchester),474,Other
+5589,Sutton Lane Ends,904,Other
+5590,Blackrod,4686,Other
+5591,Ashingdon,365,Other
+5592,East Ogwell,876,Other
+5593,Wraysbury,7569,Other
+5594,Feock,515,Other
+5595,Newton Abbot,27153,Medium Town
+5596,Morecambe,33848,Medium Town
+5597,Aston,530,Other
+5598,Wheatley,4167,Other
+5599,Sileby,9673,Other
+5600,Grove,1078,Other
+5601,Cleveleys,10740,Other
+5602,Witherley,643,Other
+5603,Coalway,3185,Other
+5604,Penpol,541,Other
+5605,Paulton,6252,Other
+5606,Stakeford,8315,Other
+5607,Bowgreave,486,Other
+5608,East Tilbury,5484,Other
+5609,Yateley,14409,Other
+5610,Stonehouse,7341,Other
+5611,Linton,2028,Other
+5612,Colney Heath,1382,Other
+5613,Armthorpe,14405,Other
+5614,Fen Ditton,737,Other
+5615,Stainforth,6657,Other
+5616,Thorpe Hesley,4318,Other
+5617,Southwark,318830,Other
+5618,Tower Hamlets,324677,Other
+5619,Hutton,2063,Other
+5620,Beeston Regis,774,Other
+5621,Dedham,827,Other
+5622,Worthington,1333,Other
+5623,Low Ackworth,925,Other
+5624,Ickburgh,349,Other
+5625,Keighley,53538,Medium Town
+5626,Burnham-on-Crouch,7078,Other
+5627,Middlestown,2456,Other
+5628,East Hendred,1362,Other
+5629,Longsdon,297,Other
+5630,Selston,6989,Other
+5631,Bexley,307493,Other
+5632,Fornham All Saints,927,Other
+5633,Charnock Richard,1099,Other
+5634,Havant,47896,Medium Town
+5635,Golborne,24314,Other
+5636,Hardington Moor,278,Other
+5637,Cheshunt,47124,Medium Town
+5638,Sacriston,4839,Other
+5639,Shaw (Oldham),18349,Other
+5640,Newhey,3012,Other
+5641,Blofield,2353,Other
+5642,Earl Shilton,20116,Other
+5643,Leverington,1026,Other
+5644,Natland,531,Other
+5645,South Harefield,1796,Other
+5646,Shanklin,9202,Other
+5647,Catherington,379,Other
+5648,Harrow,250845,Other
+5649,Whitnash,7899,Other
+5650,Wilden,505,Other
+5651,Woldingham Garden Village,307,Other
+5652,Hythe,15544,Other
+5653,Down Field,667,Other
+5654,Mossley,11334,Other
+5655,Maltby,16328,Other
+5656,Totton,29421,Medium Town
+5657,Berry Hill,2377,Other
+5658,Portslade-by-Sea,20150,Other
+5659,Wothorpe,311,Other
+5660,Old Hunstanton,545,Other
+5661,Cross Hills,7967,Other
+5662,West Hoathly,684,Other
+5663,Pilling,868,Other
+5664,Ellistown,2852,Other
+5665,Theale,2924,Other
+5666,Lingfield Common,416,Other
+5667,West Kirby,14875,Other
+5668,Blaydon,14693,Other
+5669,Killamarsh,9336,Other
+5670,Southwold,960,Other
+5671,Milnrow,10370,Other
+5672,Bishop's Cleeve,16292,Other
+5673,Strumpshaw,230,Other
+5674,Burringham,701,Other
+5675,Lesbury,326,Other
+5676,Ringwood,14369,Other
+5677,North Warnborough,1083,Other
+5678,Lower Weare,311,Other
+5679,Dorking,17616,Other
+5680,Rawmarsh,19161,Other
+5681,Stoke St Gregory,302,Other
+5682,Felsted,1329,Other
+5683,Addington,557,Other
+5684,Barrowford,5294,Other
+5685,Bournemouth,197383,Other
+5686,Kearsley,11119,Other
+5687,Combe St Nicholas,705,Other
+5688,Ashford (Ashford),75262,Other
+5689,Great Abington,694,Other
+5690,Waltham Forest,276532,Other
+5691,Southborough,11225,Other
+5692,Welwyn Garden City,51357,Medium Town
+5693,Chalfont St Giles,4998,Other
+5694,Cowes,14705,Other
+5695,Horam,1984,Other
+5696,Cudworth,12774,Other
+5697,Sandiacre,10058,Other
+5698,Doncaster,116834,Other
+5699,Selby,19809,Other
+5700,Hartlepool,90074,Other
+5701,Wickford,34857,Medium Town
+5702,Wyboston,591,Other
+5703,Broomhall/Windlesham/Virginia Water,24948,Other
+5704,Eastleigh,83470,Other
+5705,Birmingham,1160254,Other
+5706,Kettering,60749,Other
+5707,Headley,474,Other
+5708,Winterbourne Gunner,1116,Other
+5709,Shedfield,883,Other
+5710,Lymington,16148,Other
+5711,Walter's Ash,3684,Other
+5712,Redbridge,320024,Other
+5713,Churt,974,Other
+5714,Royston,10640,Other
+5715,Diss,10987,Other
+5716,Goring,3335,Other
+5717,Longton,8964,Other
+5718,Newcastle upon Tyne,287535,Other
+5719,Esher,52286,Medium Town
+5720,Ryton,16497,Other
+5721,Rochdale,113893,Other
+5722,St Albans,87749,Other
+5723,Bardsey,1882,Other
+5724,North Walney,9869,Other
+5725,Kiveton Park,7190,Other
+5726,Catshill,10741,Other
+5727,Swannington,1071,Other
+5728,Queenborough,3778,Other
+5729,Canterbury,63637,Other
+5730,Normanton,22085,Other
+5731,Folkestone,53949,Medium Town
+5732,Badsey,2797,Other
+5733,St Neots,32657,Medium Town
+5734,Fareham,43549,Medium Town
+5735,Sunderland,174807,Other
+5736,Ripley,19911,Other
+5737,Farnham,27386,Medium Town
+5738,Bolton,205411,Other
+5739,Guildford,86611,Other
+5740,Northampton,230031,Other
+5741,Heanor,27092,Medium Town
+5742,Burntwood,28831,Medium Town
+5743,Carrington,470,Other
+5744,Abingdon,39654,Medium Town
+5745,Keadby,1522,Other
+5746,Stanton-by-Dale,442,Other
+5747,Worsley,9095,Other
+5748,Gloucestershire Airport,273,Other
+5749,High Wycombe,123813,Other
+5750,Bradford,366187,Other
+5751,Blackwell,1765,Other
+5752,East Grinstead,30664,Medium Town
+5753,Brownhills,21217,Other
+5754,Atherstone,11598,Other
+5755,Burton upon Trent,77536,Other
+5756,Bamber Bridge,68641,Other
+5757,Wilmslow,37670,Medium Town
+5758,Gloucester,147509,Other
+5759,Otley,14257,Other
+5760,Bushey,27278,Medium Town
+5761,Gateshead,122249,Other
+5762,Newport Pagnell,14755,Other
+5763,Ilkeston,39605,Medium Town
+5764,Newton-le-Willows,24848,Other
+5765,Bartley,2360,Other
+5766,Tilbury,14121,Other
+5767,Droitwich,24179,Other
+5768,Mountsorrel,13868,Other
+5769,Chesterfield,89469,Other
+5770,Bovingdon,5255,Other
+5771,Billericay,34987,Medium Town
+5772,Crawley Down,5087,Other
+5773,Bideford,19926,Other
+5774,Wendover,8186,Other
+5775,Jarrow,43218,Medium Town
+5776,Southampton,269750,Other
+5777,Tamworth,73957,Other
+5778,Newbury,42109,Medium Town
+5779,Hale (Trafford),17493,Other
+5780,Weymouth,55279,Medium Town
+5781,Bracknell,85067,Other
+5782,Burley,931,Other
+5783,Cinderford,11376,Other
+5784,Cookham,5018,Other
+5785,Ferndown,27647,Medium Town
+5786,Little Clacton,2888,Other
+5787,Cannock,70724,Other
+5788,Royal Tunbridge Wells,61284,Other
+5789,Preston,99760,Other
+5790,Oldham,108606,Other
+5791,Mildenhall,15649,Other
+5792,Stoke-on-Trent,278137,Other
+5793,Town Row,634,Other
+5794,Hillingdon,313197,Other
+5795,Accrington,36534,Medium Town
+5796,Bedford,93378,Other
+5797,Peterlee,26665,Medium Town
+5798,Stoneyford,531,Other
+5799,Exeter,125819,Other
+5800,Bristol,577246,Other
+5801,Congresbury,3001,Other
+5802,Corby,61740,Other
+5803,Reigate,23649,Other
+5804,Limpley Stoke,729,Other
+5805,Stourport-on-Severn,20591,Other
+5806,Prudhoe,11047,Other
+5807,Hastings,93539,Other
+5808,Audley,3211,Other
+5809,Stockport,111694,Other
+5810,Harefield,4903,Other
+5811,Rugby,76419,Other
+5812,Four Marks,6299,Other
+5813,Ambergate,1648,Other
+5814,Havering,257425,Other
+5815,Marlow,14908,Other
+5816,Newburn,2435,Other
+5817,Aylesbury,88950,Other
+5818,Solihull,127898,Other
+5819,Dunball,392,Other
+5820,Ipswich,148742,Other
+5821,Liversedge,18092,Other
+5822,Penistone,10936,Other
+5823,Basildon,117681,Other
+5824,Offenham,1568,Other
+5825,Worksop,43613,Medium Town
+5826,Chertsey,15104,Other
+5827,Chelmsford,118759,Other
+5828,Worden,7721,Other
+5829,Standish,14160,Other
+5830,Fazeley,7762,Other
+5831,Andover,46906,Medium Town
+5832,Watton,9777,Other
+5833,Hounslow,271834,Other
+5834,Warlingham,9744,Other
+5835,Drybrook,2590,Other
+5836,Wingerworth,6337,Other
+5837,Woking,107854,Other
+5838,Chesham,23902,Other
+5839,North Mundham,369,Other
+5840,Woodley,38506,Medium Town
+5841,Yeadon,19190,Other
+5842,Clay Cross,13382,Other
+5843,Charing Heath,490,Other
+5844,Runcorn,62326,Other
+5845,Wellingborough,53165,Medium Town
+5846,Telford,152222,Other
+5847,Ditton,27566,Medium Town
+5848,East Wellow,605,Other
+5849,Domewood,1241,Other
+5850,Egham,29539,Medium Town
+5851,Portsmouth,248929,Other
+5852,Wolverhampton,220873,Other
+5853,Staines,26808,Medium Town
+5854,Torquay,51339,Medium Town
+5855,Nottingham,315987,Other
+5856,Rockwell Green,2886,Other
+5857,Paignton,67179,Other
+5858,Gomeldon,605,Other
+5859,Grimsby,88323,Other
+5860,West Hallam,6033,Other
+5861,Weston-Super-Mare,88485,Other
+5862,Beeston (Broxtowe),54131,Medium Town
+5863,Warwick,34166,Medium Town
+5864,Filton,70004,Other
+5865,Stafford,71307,Other
+5866,West Kingsdown,5434,Other
+5867,Rotherham,111481,Other
+5868,Upthorpe,446,Other
+5869,Whalley,3722,Other
+5870,Leyland,40198,Medium Town
+5871,Leeds,511164,Other
+5872,Mansfield,82698,Other
+5873,Kingston upon Hull,288028,Other
+5874,Churchill,1081,Other
+5875,Swadlincote,49972,Medium Town
+5876,Friskney,339,Other
+5877,Great Holland,789,Other
+5878,Northwich,48519,Medium Town
+5879,Iver Heath,8605,Other
+5880,Upper Hartfield,368,Other
+5881,Watchfield,2628,Other
+5882,Exton,1680,Other
+5883,Rainford,5828,Other
+5884,Stroud,34726,Medium Town
+5885,Lancaster,51932,Medium Town
+5886,Harlow,87189,Other
+5887,Wokingham,48356,Medium Town
+5888,Kidsgrove,26276,Medium Town
+5889,Littleborough,12085,Other
+5890,Camberley,39850,Medium Town
+5891,Slough,164770,Other
+5892,Tynemouth,69678,Other
+5893,Peaslake,2543,Other
+5894,Alfreton,24068,Other
+5895,Colchester,138131,Other
+5896,Derby,264654,Other
+5897,Wimborne Minster,16241,Other
+5898,Kingsnorth (Ashford),7543,Other
+5899,Ryde,24847,Other
+5900,Cramlington,27384,Medium Town
+5901,Grantham,44807,Medium Town
+5902,Barking and Dagenham,212906,Other
+5903,Wombwell,25803,Medium Town
+5904,Chester-le-Street,37683,Medium Town
+5905,Kesgrave,19655,Other
+5906,Woodchester,1239,Other
+5907,Rocester,1671,Other
+5908,Epsom,35314,Medium Town
+5909,Hooton,364,Other
+5910,Walhampton,626,Other
+5911,Minster (Swale),21319,Other
+5912,Horsforth,19766,Other
+5913,Hoylake,10875,Other
+5914,Coventry,382073,Other
+5915,Anna Valley,2167,Other
+5916,Rayleigh,99556,Other
+5917,Wigan,107732,Other
+5918,Partington,8105,Other
+5919,Dudley (North Tyneside),5312,Other
+5920,Waltham Chase,3278,Other
+5921,Leeming,1524,Other
+5922,High Garrett,835,Other
+5923,Middlesbrough,177354,Other
+5924,Waltham Abbey,19402,Other
+5925,Consett,25812,Medium Town
+5926,Whitworth,7885,Other
+5927,Peterborough,178805,Other
+5928,Elstree,1982,Other
+5929,Carlisle,74889,Other
+5930,Royal Leamington Spa,57831,Medium Town
+5931,Poulton-le-Fylde,18111,Other
+5932,Newham,353134,Other
+5933,Stanley,21644,Other
+5934,Bramley,4271,Other
+5935,Bexhill,45123,Medium Town
+5936,Plymouth,239677,Other
+5937,Leicester,472558,Other
+5938,Leek,19963,Other
+5939,Wallsend,45441,Medium Town
+5940,Huddersfield,171809,Other
+5941,Wheelton,1096,Other
+5942,Hunstanton,8509,Other
+5943,Cambridge,148861,Other
+5944,Knowl Hill,914,Other
+5945,Colne,18884,Other
+5946,Park Street,2719,Other
+5947,Weybridge,30305,Medium Town
+5948,North Bradley,1470,Other
+5949,Glossop,33459,Medium Town
+5950,Weeley Heath,740,Other
+5951,Hoddesdon,43927,Medium Town
+5952,Staveley,15447,Other
+5953,Bury,80300,Other
+5954,Redruth,21467,Other
+5955,Amersham,24808,Other
+5956,Swanscombe,24616,Other
+5957,Wetherby,11460,Other
+5958,Malton,6042,Other
+5959,Locks Heath/Warsash/Whiteley,46293,Medium Town
+5960,Medstead,925,Other
+5961,Nailsworth,7705,Other
+5962,Leiston,5918,Other
+5963,Skelmersdale,35120,Medium Town
+5964,Whittingham,623,Other
+5965,Washington,67086,Other
+5966,Ellesmere Port,62305,Other
+5967,Worplesdon,1529,Other
+5968,Awsworth,2551,Other
+5969,Shortfield Common,915,Other
+5970,Rickmansworth,25305,Medium Town
+5971,Pilley,649,Other
+5972,Camblesforth,1538,Other
+5973,Carnforth,6065,Other
+5974,Newcastle-under-Lyme,79683,Other
+5975,Swindon,192408,Other
+5976,Walsall,73224,Other
+5977,Gunnislake,2357,Other
+5978,Stanford Dingley,190,Other
+5979,Oxford,162291,Other
+5980,Shoreham-by-Sea,51116,Medium Town
+5981,Duckmanton,1139,Other
+5982,Rochester,66505,Other
+5983,Speldhurst,1298,Other
+5984,Hoyland,18321,Other
+5985,Hemel Hempstead,102870,Other
+5986,Brierfield,10433,Other
+5987,Copthorne,4355,Other
+5988,Coleorton,340,Other
+5989,Lincoln,106415,Other
+5990,Worcester,102791,Other
+5991,Stowmarket,21936,Other
+5992,Grays,75940,Other
+5993,Hartlebury,285,Other
+5994,Batley,83292,Other
+5995,Rochford,18598,Other
+5996,Margate,65697,Other
+5997,Haslemere,13203,Other
+5998,Plaitford,352,Other
+5999,Cranleigh,10531,Other
+6000,Bicester,32835,Medium Town
+6001,Bridgnorth,12804,Other
+6002,Wareham,6029,Other
+6003,Mimbridge,331,Other
+6004,Croydon,369039,Other
+6005,Hersden,1710,Other
+6006,South Normanton,15909,Other
+6007,Sutton Valence,1670,Other
+6008,Liverpool,586889,Other
+6009,Merley,5865,Other
+6010,Blackpool,145821,Other
+6011,Oughtibridge,3682,Other
+6012,Wakefield,107546,Other
+6013,Boxted,344,Other
+6014,Bude,5387,Other
+6015,Richmond upon Thames,196369,Other
+6016,Bannister Green,1170,Other
+6017,Gosport,73361,Other
+6018,Seaton,4911,Other
+6019,Thornaby-on-Tees,25628,Medium Town
+6020,Adwick le Street,18951,Other
+6021,Horney Common,746,Other
+6022,Lyne,885,Other
+6023,Houghton-le-Spring,14312,Other
+6024,Herne Bay,40876,Medium Town
+6025,Tadley,15497,Other
+6026,Furness Vale,1093,Other
+6027,Bowness-on-Windermere,2474,Other
+6028,Leatherhead,33355,Medium Town
+6029,West Bromwich,78982,Other
+6030,Whitley Bay,37277,Medium Town
+6031,Horley,26466,Medium Town
+6032,Newark-on-Trent,39947,Medium Town
+6033,Great Horkesley,2266,Other
+6034,Pershore,8116,Other
+6035,St Helens,105127,Other
+6036,Stockton-on-Tees,84492,Other
+6037,Hitchin,36551,Medium Town
+6038,Burley in Wharfedale,7116,Other
+6039,Reading,229482,Other
+6040,Hedge End,26506,Medium Town
+6041,Westergate,10428,Other
+6042,Ealing,342275,Other
+6043,Forest Row,4434,Other
+6044,Littleton,890,Other
+6045,Loughton,33088,Medium Town
+6046,Woodend,5184,Other
+6047,Newick,2812,Other
+6048,Greenwich,294385,Other
+6049,North Chailey,1058,Other
+6050,Clayhill,302,Other
+6051,Denby Common,476,Other
+6052,Everton,522,Other
+6053,Tincklers Bridge,271,Other
+6054,Milton Keynes,184824,Other
+6055,Redditch,83010,Other
+6056,Baker Street,598,Other
+6057,Wadeford,315,Other
+6058,Picket Piece,2818,Other
+6059,Whitchurch,239,Other
+6060,Hambrook,740,Other
+6061,Newchapel,389,Other
+6062,Sneath Common,377,Other
+6063,Chelwood Common,347,Other
+6064,Little Eccleston,540,Other
+6065,Touchen-end,506,Other
+6066,Abbotswood,1155,Other
+6067,Fold Hill,283,Other
+6068,Mapledurwell,309,Other
+6069,Dean Row,112,Other
+6070,Helford Passage,203,Other
+6071,Longham,453,Other
+6072,Easton,371,Other
+6073,Street End,378,Other
+6074,Hull Bridge,290,Other
+6075,Saighton Camp,2235,Other
+6076,Bullingstone,212,Other
+6077,East Harting,325,Other
+6078,Boothsdale,261,Other
+6079,Hook Park Estate,368,Other
+6080,Shipley Bridge,319,Other
+6081,Over Stratton,335,Other
+6082,Lover,314,Other
+6083,Winkfield Street,459,Other
+6084,Bolter End,323,Other
+6085,Pant,2215,Other
+6086,Farndon (Cheshire West and Chester),2051,Other
+6087,Holt,1094,Other
+6088,Chester,87983,Other
+6089,Knighton (Powys),2912,Other
+6090,Hay-on-Wye,2002,Other
+6091,Churchstoke,705,Other
+6092,Chirk,3945,Other
+6093,Presteigne,1940,Other
+6094,Threapwood,394,Other
+6095,Pulford,297,Other
+6096,Crundale,716,Other
+6097,Llangwm,893,Other
+6098,Llanybyther,1189,Other
+6099,Bontnewydd,914,Other
+6100,Llanberis,1914,Other
+6101,Glyn Ceiriog,781,Other
+6102,Ynysybwl,3475,Other
+6103,Y Felinheli,2465,Other
+6104,Llanddewi Brefi,621,Other
+6105,Grovesend,1164,Other
+6106,Pentre Halkyn,1079,Other
+6107,Penrhyn-coch,1279,Other
+6108,Llandevaud,396,Other
+6109,Clawdd Poncen,319,Other
+6110,Borth,1196,Other
+6111,Soughton,1628,Other
+6112,Three Crosses,1488,Other
+6113,Llansanffraid Glan Conwy,1776,Other
+6114,Newborough (Isle of Anglesey),837,Other
+6115,Ruthin,5628,Other
+6116,Tircoed,950,Other
+6117,South Cornelly,448,Other
+6118,Llanfechell,614,Other
+6119,Groes-faen,792,Other
+6120,Pant-yr-awel,769,Other
+6121,Henllan,824,Other
+6122,Ferryside,845,Other
+6123,Gwynfryn,282,Other
+6124,Abermule,889,Other
+6125,Pontneddfechan,348,Other
+6126,Trelogan,641,Other
+6127,Trimsaran,1582,Other
+6128,Llanrhidian,624,Other
+6129,Resolven,2128,Other
+6130,Sudbrook,393,Other
+6131,Fishguard,3460,Other
+6132,Llanbedr-Dyffryn-Clwyd,331,Other
+6133,Conwy,4916,Other
+6134,Gresford,4898,Other
+6135,Berriew,303,Other
+6136,Letterston,1295,Other
+6137,Bull Bay,300,Other
+6138,Rhosneigr,829,Other
+6139,Tenby,4314,Other
+6140,Caergeiliog,370,Other
+6141,Broughton (Flintshire),6578,Other
+6142,The Narth,367,Other
+6143,Llandovery,1962,Other
+6144,Tavernspite,368,Other
+6145,Bryncrug,703,Other
+6146,Crossgates,326,Other
+6147,Llechryd,866,Other
+6148,Argoed,858,Other
+6149,Llanyre,267,Other
+6150,Ystrad Aeron,630,Other
+6151,Deiniolen,1499,Other
+6152,Penley,787,Other
+6153,Betws-yn-Rhos,320,Other
+6154,Mynyddygarreg,327,Other
+6155,Blaengwynfi,1288,Other
+6156,Abercrave,724,Other
+6157,Rhydymwyn,496,Other
+6158,Cwrt Y Gollen,470,Other
+6159,Cefn Cribwr,1412,Other
+6160,Trefor,815,Other
+6161,Llandyrnog,749,Other
+6162,Cemaes,1057,Other
+6163,Llanarth,507,Other
+6164,Pontyberem,1714,Other
+6165,Parc-Seymour,737,Other
+6166,Lampeter,2926,Other
+6167,Newbridge-on-Wye,643,Other
+6168,Tal-y-bont (Ceredigion),595,Other
+6169,Pontrhydfendigaid,682,Other
+6170,Dwyran,656,Other
+6171,Blaenau Ffestiniog,3834,Other
+6172,Waunfawr,1271,Other
+6173,Froncysyllte,585,Other
+6174,Llangristiolus,446,Other
+6175,Trefriw,645,Other
+6176,Llanellen,503,Other
+6177,Pwllmeyric,610,Other
+6178,Pont Rhyd-y-cyff,1511,Other
+6179,Talybont-on-Usk,218,Other
+6180,Forden,760,Other
+6181,Rhuddlan,3715,Other
+6182,Pentlepoir,1302,Other
+6183,Rhosybol,700,Other
+6184,Leeswood,2292,Other
+6185,Betws-Y-Coed,229,Other
+6186,Morfa Nefyn,884,Other
+6187,Abertillery,10745,Other
+6188,Machynlleth,2248,Other
+6189,Pencoed,9466,Other
+6190,Carway,1042,Other
+6191,Penmaenmawr,2414,Other
+6192,St Nicholas,533,Other
+6193,Llanrhystud,621,Other
+6194,Moelfre,614,Other
+6195,Newtown (Powys),11222,Other
+6196,Bronllys,571,Other
+6197,Ogmore-by-Sea,1257,Other
+6198,Usk,2869,Other
+6199,Llanharry,3511,Other
+6200,Pembroke Dock,9665,Other
+6201,Johnston,2129,Other
+6202,Rosemarket,610,Other
+6203,Llandissilio,461,Other
+6204,Kerry,765,Other
+6205,Northop,1078,Other
+6206,Pyle,14568,Other
+6207,Pentyrch,2365,Other
+6208,St Asaph,3455,Other
+6209,Brynna,7737,Other
+6210,Pontycymer,4215,Other
+6211,Bryn,992,Other
+6212,Dolgarrog,446,Other
+6213,Machen,2427,Other
+6214,Gwernymynydd,1041,Other
+6215,Penygroes,1917,Other
+6216,Glyncoch,4120,Other
+6217,Cross Inn,293,Other
+6218,Caerleon,8454,Other
+6219,Govilon,1498,Other
+6220,Rhosesmor,560,Other
+6221,Overton (Wrexham),959,Other
+6222,Cwm,2650,Other
+6223,Whitland,1626,Other
+6224,Mountain Ash,11339,Other
+6225,Laugharne,733,Other
+6226,Freshwater East,232,Other
+6227,Llangors,399,Other
+6228,Blaenannerch,165,Other
+6229,Tregynon,874,Other
+6230,Llanmadoc,334,Other
+6231,Gilwern,2475,Other
+6232,Hengell Uchaf Estate,397,Other
+6233,Denbigh,8500,Other
+6234,Valley,2369,Other
+6235,Llanddona,640,Other
+6236,Sennybridge,203,Other
+6237,Penrhyndeudraeth,1552,Other
+6238,Llanwrtyd Wells,591,Other
+6239,Llan Ffestiniog,880,Other
+6240,Llanerchymedd,1208,Other
+6241,Pontarddulais,9656,Other
+6242,Abertridwr,6485,Other
+6243,Llansanffraid-ym-Mechain,787,Other
+6244,Glanaman,4446,Other
+6245,Talysarn,1120,Other
+6246,Nantgaredig,530,Other
+6247,Talgarth,1272,Other
+6248,Henfynyw,532,Other
+6249,Llanon,583,Other
+6250,Montgomery,972,Other
+6251,Pentraeth,567,Other
+6252,Reynoldston,421,Other
+6253,Trawsfynydd,601,Other
+6254,Waterston,281,Other
+6255,St Brides Major,754,Other
+6256,St Donat's,475,Other
+6257,Harlech,1619,Other
+6258,Capel Bangor,268,Other
+6259,Cwmavon,5476,Other
+6260,Creigiau,2306,Other
+6261,Trefnant,973,Other
+6262,Peniel,350,Other
+6263,Coedhirwaun,1279,Other
+6264,Llanhilleth,2867,Other
+6265,Maenclochog,766,Other
+6266,St Arvans,757,Other
+6267,Craig-cefn-parc,868,Other
+6268,Brecon,8400,Other
+6269,Llanrhaeadr-ym-Mochnant,438,Other
+6270,Pontlliw,1659,Other
+6271,Talacre,441,Other
+6272,Cil-y-coed,11720,Other
+6273,Markham,1503,Other
+6274,Flint Mountain,677,Other
+6275,Penyffordd,4173,Other
+6276,Four Crosses,1425,Other
+6277,Llannon,850,Other
+6278,St Florence,775,Other
+6279,Crickhowell,2155,Other
+6280,Lixwm,636,Other
+6281,Kidwelly,2805,Other
+6282,Pembroke,8111,Other
+6283,Llay,4510,Other
+6284,Llanfyllin,1059,Other
+6285,Hill Mountain,698,Other
+6286,Tonyrefail,9704,Other
+6287,Bedlinog,1075,Other
+6288,Deri,1016,Other
+6289,Penperlleni,1313,Other
+6290,Dyffryn Cellwen,685,Other
+6291,Llangattock,626,Other
+6292,Cwmann,952,Other
+6293,Spittal,489,Other
+6294,Waunllapria,749,Other
+6295,Llanwrda,278,Other
+6296,Criccieth,1788,Other
+6297,Bangor-on-Dee,1142,Other
+6298,Clunderwen,683,Other
+6299,Penally,858,Other
+6300,Benllech,2206,Other
+6301,Malltraeth,277,Other
+6302,Fochriw,1186,Other
+6303,Guilsfield,1209,Other
+6304,Llandrindod Wells,5609,Other
+6305,Tregarth,1269,Other
+6306,Seven Sisters,2067,Other
+6307,Llanbedr,365,Other
+6308,Pen-clawdd,1868,Other
+6309,Bryngwran,471,Other
+6310,Higher Kinnerton,1645,Other
+6311,Cilgerran,953,Other
+6312,Blaenau,390,Other
+6313,Arddleen,412,Other
+6314,Underwood,1968,Other
+6315,Llandysul,1409,Other
+6316,Heol-y-Cyw,538,Other
+6317,Bethel,1206,Other
+6318,Coelbren,483,Other
+6319,Beaumaris,1204,Other
+6320,Milford Haven,14219,Other
+6321,Rogiet,1801,Other
+6322,Dwygyfylchi,1255,Other
+6323,Llanbedrog,583,Other
+6324,Rhossili,229,Other
+6325,New Tredegar,4007,Other
+6326,Bodelwyddan,1856,Other
+6327,Norton (Powys),354,Other
+6328,Wick (The Vale of Glamorgan),919,Other
+6329,Cross Lanes,573,Other
+6330,Waun-Lwyd,1470,Other
+6331,Llansteffan,409,Other
+6332,Llwyngwril,548,Other
+6333,Caerwys,966,Other
+6334,Llanfihangel yn Nhowyn,962,Other
+6335,Llanilar,1100,Other
+6336,Llandogo,498,Other
+6337,Llanfair Caereinion,927,Other
+6338,Llandudno,15395,Other
+6339,Pen-twyn (Caerphilly),1503,Other
+6340,Cosheston,801,Other
+6341,Rhayader,1850,Other
+6342,Pencader,1079,Other
+6343,Hundleton,463,Other
+6344,Rhoose,6523,Other
+6345,Llanidloes,2810,Other
+6346,Aberaeron,1331,Other
+6347,Hook (Pembrokeshire),905,Other
+6348,Crymych,815,Other
+6349,Ferndale,7213,Other
+6350,Penrhiw-llan,509,Other
+6351,Crynant,1675,Other
+6352,Amlwch,3265,Other
+6353,Llanrwst,3209,Other
+6354,Bonvilston,417,Other
+6355,Tregaron,1228,Other
+6356,Ewenny,758,Other
+6357,Clyro,784,Other
+6358,New Brighton,880,Other
+6359,Treuddyn,1394,Other
+6360,Aberdovey,575,Other
+6361,Gwalchmai,700,Other
+6362,Llangoed,815,Other
+6363,Tanyfron,2432,Other
+6364,Goodwick,1779,Other
+6365,Penparc,457,Other
+6366,Llangollen,3521,Other
+6367,Tywyn,3095,Other
+6368,Mold,10123,Other
+6369,Morfa Bychan,547,Other
+6370,Templeton,736,Other
+6371,Llandinam,543,Other
+6372,Bow Street,1436,Other
+6373,Roch,512,Other
+6374,Lamphey,620,Other
+6375,Jameston,644,Other
+6376,Clarbeston Road,361,Other
+6377,Solva,700,Other
+6378,Bettws,2314,Other
+6379,Cynwyd,573,Other
+6380,Penysarn,561,Other
+6381,Bodedern,1168,Other
+6382,Pont Henri,918,Other
+6383,Nefyn,1436,Other
+6384,Pen-y-ffordd,660,Other
+6385,Llandeilo,1804,Other
+6386,Llanfair Pwllgwyngyll,3007,Other
+6387,Marchwiel,1117,Other
+6388,Barmouth,2260,Other
+6389,New Quay,590,Other
+6390,Porthcawl,15744,Other
+6391,Bala,2122,Other
+6392,Abersoch,673,Other
+6393,Llangefni,5226,Other
+6394,St Fagans,272,Other
+6395,Chwilog,685,Other
+6396,Holyhead,11981,Other
+6397,Waungilwen,1322,Other
+6398,Glyncorrwg,999,Other
+6399,Southgate,2018,Other
+6400,Wenvoe,1226,Other
+6401,Ynysmaerdy,262,Other
+6402,Llangeinor,1037,Other
+6403,Pontyates,1489,Other
+6404,Llangybi,474,Other
+6405,Llandre,717,Other
+6406,Corwen,441,Other
+6407,Murton (Swansea),3489,Other
+6408,Meidrim,596,Other
+6409,Aberfan,3375,Other
+6410,Brawdy,632,Other
+6411,Crofty,1011,Other
+6412,Bwlchgwyn,808,Other
+6413,Caersws,797,Other
+6414,Port-Eynon,212,Other
+6415,Cwmllynfell,1352,Other
+6416,Llandybie,2804,Other
+6417,Raglan,1162,Other
+6418,Abergwili,558,Other
+6419,Newcastle Emlyn,1851,Other
+6420,Rhostryfan,725,Other
+6421,Broad Haven,873,Other
+6422,St Ishmael's,502,Other
+6423,Blackmill,644,Other
+6424,Cowbridge,3961,Other
+6425,Trefechan,1030,Other
+6426,Llanrug,1994,Other
+6427,Narberth,2549,Other
+6428,Pendine,311,Other
+6429,Hirwaun,7541,Other
+6430,Stepaside,623,Other
+6431,Pwllheli,4356,Other
+6432,Clydach,733,Other
+6433,Tredegar,15191,Other
+6434,Groeslon,897,Other
+6435,Builth Wells,2653,Other
+6436,Mostyn,1676,Other
+6437,Barry,57920,Medium Town
+6438,Trearddur,1468,Other
+6439,Ffairfach,526,Other
+6440,Pontrhydyfen,788,Other
+6441,Llanfairfechan,3759,Other
+6442,Abercynon,6128,Other
+6443,Menai Bridge,4776,Other
+6444,Carno,721,Other
+6445,Dolgellau,2709,Other
+6446,Llangadog,700,Other
+6447,Catbrook,394,Other
+6448,Mynytho,617,Other
+6449,Monmouth,10910,Other
+6450,Sageston,891,Other
+6451,Coedpoeth,5777,Other
+6452,Porthmadog,2933,Other
+6453,Keeston,331,Other
+6454,Carmarthen,16285,Other
+6455,Dinas Cross,817,Other
+6456,Haverfordwest,15228,Other
+6457,Llangynidr,1045,Other
+6458,Merthyr Tydfil,45109,Medium Town
+6459,Newport (Pembrokeshire),845,Other
+6460,Llanbradach,3710,Other
+6461,Blaenavon,6043,Other
+6462,Neyland,3730,Other
+6463,St Davids,1356,Other
+6464,Tal-y-bont (Gwynedd),1549,Other
+6465,Crymlyn Burrows,914,Other
+6466,Caerwent,1530,Other
+6467,Pen-twyn (Monmouthshire),369,Other
+6468,Meifod,307,Other
+6469,Cerrigydrudion,308,Other
+6470,Pentre-cwrt,249,Other
+6471,Wrexham,61269,Other
+6472,Castleton,821,Other
+6473,Abersychan,7904,Other
+6474,New Hedges,579,Other
+6475,Rhostyllen,2791,Other
+6476,Pantymwyn,780,Other
+6477,Abercarn,5552,Other
+6478,Parcllyn,477,Other
+6479,Bangor,18322,Other
+6480,Kinmel Bay,9469,Other
+6481,Wattsville,1118,Other
+6482,Ynysddu,1018,Other
+6483,St Clears,2135,Other
+6484,Pwll-trap,813,Other
+6485,Llanbadarn Fawr,664,Other
+6486,Maesteg,18920,Other
+6487,Treharris,7723,Other
+6488,Ammanford,8625,Other
+6489,Shotton,17541,Other
+6490,Gronant,1037,Other
+6491,Llangennech,4305,Other
+6492,Hendreforgan,2521,Other
+6493,Croeserw,1594,Other
+6494,Pembrey,2040,Other
+6495,Rachub,954,Other
+6496,Aberbargoed,1078,Other
+6497,Glyn-neath,4153,Other
+6498,Loughor,4968,Other
+6499,Blaina,4801,Other
+6500,Llanfoist,1813,Other
+6501,Hope,4387,Other
+6502,Newbridge,9693,Other
+6503,Gwaun-Cae-Gurwen,3096,Other
+6504,Brynmawr,5550,Other
+6505,Efail Isaf,1218,Other
+6506,Begelly,773,Other
+6507,Blaengwrach,1111,Other
+6508,Saron,902,Other
+6509,Gorsedd,365,Other
+6510,Undy,5830,Other
+6511,Sydallt,445,Other
+6512,Caeathro,252,Other
+6513,Caernarfon,9970,Other
+6514,Abergavenny,13558,Other
+6515,Rhosllanerchrugog,13456,Other
+6516,Nant-y-moel,2382,Other
+6517,Prestatyn,16790,Other
+6518,Dyserth,2271,Other
+6519,Shirenewton,300,Other
+6520,Gowerton,8161,Other
+6521,RAF Station St Athan,5741,Other
+6522,Llanddulas,1378,Other
+6523,Northop Hall,1614,Other
+6524,Penybanc,1164,Other
+6525,Connah's Quay,16808,Other
+6526,Treherbert,5609,Other
+6527,Glais,863,Other
+6528,Pentre Maelor,1568,Other
+6529,Abertysswg,1466,Other
+6530,Buckley,20327,Other
+6531,Chepstow,12433,Other
+6532,Gaerwen,1233,Other
+6533,Cymmer,547,Other
+6534,Treorchy,7691,Other
+6535,Rhondda,13336,Other
+6536,Cwmfelinfach,1461,Other
+6537,Llantwit Major,8665,Other
+6538,Gwespyr,174,Other
+6539,Tonypandy,18031,Other
+6540,Gwernaffield-y-Waun,945,Other
+6541,Mynydd Marian,1076,Other
+6542,Sarn,12356,Other
+6543,Burry Port,5998,Other
+6544,Upper Killay,1324,Other
+6545,Llantrisant,13710,Other
+6546,Pwll,1349,Other
+6547,Dinas Powis,7726,Other
+6548,Ruabon,3403,Other
+6549,Cefn-mawr,7165,Other
+6550,Risca,14866,Other
+6551,Pontypridd,30967,Medium Town
+6552,Bradley,1296,Other
+6553,Penrhyn Bay,4368,Other
+6554,Kilgetty,1221,Other
+6555,Tylorstown,3496,Other
+6556,Caerphilly,41986,Medium Town
+6557,Gorseinon,17308,Other
+6558,Llanmaes,469,Other
+6559,Walwen,1332,Other
+6560,Aberporth,1187,Other
+6561,Bethesda,3960,Other
+6562,Pontlottyn,1941,Other
+6563,Meliden,1969,Other
+6564,Llanelli,45309,Medium Town
+6565,Trelales,816,Other
+6566,Sandycroft,6795,Other
+6567,Tumble,4338,Other
+6568,Nelson (Caerphilly),4621,Other
+6569,St Dogmaels,1081,Other
+6570,Rossett,1907,Other
+6571,Rhigos,767,Other
+6572,Llysfaen,315,Other
+6573,Trevor,1428,Other
+6574,Fairbourne,698,Other
+6575,Ystradgynlais,10584,Other
+6576,Fernhill,1461,Other
+6577,Church Village,14370,Other
+6578,Rhymney,5191,Other
+6579,Brynsadler,1469,Other
+6580,Pontllan-fraith,9327,Other
+6581,Pontypool,29166,Medium Town
+6582,Rhyl,26466,Medium Town
+6583,Saundersfoot,2707,Other
+6584,Welshpool,6020,Other
+6585,Nantyglo,4687,Other
+6586,Marshfield,2289,Other
+6587,Abergele,9431,Other
+6588,Penrhyn-side,469,Other
+6589,Ogmore Vale,3212,Other
+6590,Colwyn Bay,28233,Medium Town
+6591,Cardigan,4217,Other
+6592,Beddau,8586,Other
+6593,Penarth,30010,Medium Town
+6594,Bargod,11889,Other
+6595,Aberdare,31396,Medium Town
+6596,Blackwood,24215,Other
+6597,Ystrad Mynach,19939,Other
+6598,Swansea,185460,Other
+6599,Bridgend,49338,Medium Town
+6600,Cardiff,354178,Other
+6601,Taff's Well,5706,Other
+6602,Holywell,10067,Other
+6603,Aberystwyth,15812,Other
+6604,Brynamman,2616,Other
+6605,Neath,51433,Medium Town
+6606,Pen-y-groes,6434,Other
+6607,Tycroes,3775,Other
+6608,Ebbw Vale,18261,Other
+6609,Gilfach Goch,1958,Other
+6610,Cwmbran,48287,Medium Town
+6611,Deeside Industrial Park,2210,Other
+6612,Llandudno Junction,12694,Other
+6613,Flint,15006,Other
+6614,Port Talbot,38104,Medium Town
+6615,Porth,14723,Other
+6616,Pontardawe,13096,Other
+6617,Newport,136078,Other
+6618,Bryn Pydew,449,Other
+6619,Pentre Berw,416,Other
+6620,Mynydd-bach,386,Other
